@@ -1,0 +1,873 @@
+transcript 1 = LinkedIn is forging ahead again with deeper measurement insights into your ads. Will you like what you see? Let's find out on this week's episode of the LinkedIn Ads Show.
+
+Welcome to the LinkedIn Ads Show. Here's your host, AJ Wilcox.
+
+Hey, hey, hey there, LinkedIn Ads fanatics. As he said, I'm AJ Wilcox. I'm the host of the weekly podcast, the LinkedIn Ads Show. I'm thrilled to welcome you to the show for advanced B2B marketers in their evolution of mastering LinkedIn Ads and achieving true pro status.
+
+As long as LinkedIn Ads have existed, it's had a perception problem. LinkedIn Ads has always been one of the most expensive ad platforms out there. LinkedIn definitely recognized this and internally, they knew that their business targeting blows every other channel out of the water when it comes to quality. But it had to wait for advertisers to come around. This has caused very slow growth for the LinkedIn Ads platform. For years, B2B marketers who should have been investing in LinkedIn, heard things like, "Linkedin ads are too expensive and they don't work and they have very limited features and are behind all the other platforms." So they continued to hunt for all of their traffic elsewhere. At some point though, since LinkedIn really is the only game in town when you need tight granularity of targeting, marketers would end up giving it another shot and bringing some test budgets to LinkedIn. As marketers have gotten more sophisticated at measuring their traffic and they have better tools at their fingertips, they see the performance from their LinkedIn Ads traffic and they realize that there's value there and they start to bring more investment. Obviously, I don't know the specifics, but I can tell you that over the last 14 years that I've been watching LinkedIn Ads, I've watched this organic growth happen very slowly, but moving in the right direction. Then in the last three years, I've seen what appears to be exponential attention and adoption from B2B marketers to the LinkedIn Ads platform. I've given this feedback to anyone at LinkedIn who would listen to me that growth is not going to come from competing on price, but by capitalizing on what LinkedIn Ads does best in the world and that is targeting and traffic quality. And the traffic quality is exceptionally difficult to quantify, so LinkedIn should be making huge investments into measurement and attribution tools. Essentially, LinkedIn's job has been to prove to advertisers that the traffic is valuable and they should stop worrying so much about the price. I'm happy to report that LinkedIn has come around on this line of thinking and has been releasing some big advancements in measurement.
+
+On today's episode, we're diving into the new Measurement Insights tool that's being rolled out right now. You might even have access to it as we speak. We'll talk about what the tool can teach you about your campaigns and how to use it. It's exciting stuff. The LinkedIn Ads Show is proudly brought to you by b2linked.com, the LinkedIn Ads experts.
+
+That's right, B2Linked is the ad agency 100% dedicated to LinkedIn Ads and we have been since 2014. You know, back before it was cool, we build a custom strategy for every account we work with. You get to work directly with me and my local team and you won't get any sort of cookie cutter approach or standard account templates from us. Plus, with the strategies that we've developed and our mastery of the platform, we always save our clients more than we charge. So it's kind of like getting the best in the biz for free. If you'd like to explore partnering with us for your LinkedIn Ads, schedule your free discovery call with me today at b2linked.com slash discovery. All right, do you have a question, a review, or feedback for the show? You can either message me on LinkedIn because my DMs are free and open, or you can email us at podcast at b2linked.com. If you attach a link to a voice recording from you, I can include you right here on the show and play it for everyone. And as always, I'm happy to keep you anonymous or share your details as well. Hit me up because I want to feature you. All right, without further ado, let's hit it.
+
+I've mentioned one of my favorite ever LinkedIn reps, Paola Merrick on the show before, and I had some questions about the new measurement insights tool and she hooked me up with so many insights about it. So Paola, a huge thank you for hooking me up.
+
+So starting on October 28th, LinkedIn started to roll out this new tool. I would estimate that about half of the accounts that we have have access to it right now. So it's probably on like a two to two and a half month rollout period. If you go log into your campaign manager, you can tell that whether you have it or not. If you look in your left-hand navigation, if it no longer says analyze, and now it says measurement instead, you'll know that you have access underneath measurement. You can click insights. LinkedIn calls it the Insight Hub and it says it will provide users with actionable member company campaign and ad level insights to improve overall business impact. When you very first enter your measurement insights, you'll see that you have a time range. It's defaulted to the last 90 days, but you can change that and customize it however you'd like. You'll also see a chart and above the chart, you have three buckets that you can customize everything on the report from. One bucket is awareness. The next is consideration. The third is conversion. There is a fourth bucket called revenue, but we'll get to that one next. So you'll notice that these buckets, they correlate to stages in the objectives in campaign manager. And this is for good reason. LinkedIn is going to attempt to show you your campaign performance by stage of the funnel. But since LinkedIn doesn't actually know which campaigns are assigned to each funnel stage, it decided to bucket them by objective. I guess this is the best they do, but for me, the assumption won't ever work. For instance, the only objective under awareness that it calculates is brand awareness. And as many of you may know, I won't touch what I call the most expensive objective brand awareness with a 10 foot pole unless I'm running CTV because that's the only option. So LinkedIn is never going to show me any performance at the awareness stage, despite the fact that I have lots of cold stage awareness campaigns running. In fact, I have more cold stage campaigns running than any other stage of the funnel. That's why funnels look the way they do where they're bigger on top. So what I recommend is using whichever objective gets you the same or better attention for the price. And for me, sometimes that means like using website visits objective to cold audiences or using brand awareness objective on like bottom of funnel. But this is the way that LinkedIn rolled it out. I get it. I'll digress. So that's the awareness bucket. I've come to understand that I'm just never going to have anything in that bucket. And that's okay.
+
+The next stage over though is consideration stage. And this includes any campaigns that are using the engagement, video views, or website visits objectives. Then you have your conversion stage. This includes all of your campaigns that are in lead generation, talent leads, website conversions, and job applicants. Now the fourth bucket that's called revenue. This is really smart. It pulls in data from your CRM to show the impact of your LinkedIn ads on your actual revenue or your actual sales process. So now right underneath these funnel stages, you'll see a chart. It's called performance. And I think it is the most helpful chart that we've ever gotten from LinkedIn. It plots your ad performance as a line chart over whatever time range you've set. And it allows you to layer up to three metrics on top of each other. It's basically what the campaign manager's performance chart wants to be when it grows up. It's a bit limited in what it can display and how it can display it. You can chart impressions, reach, dwell time, click through rate, chargeable clicks, website visits, video views, cost per click, number of leads, cost per lead, qualified leads, and cost per qualified lead. And for any of those metrics, you can compare them side by side. And the third metric you can always overlay spend on top. But here's the kicker. As helpful as this chart is, you can't drill in deeper. It's all data based on the whole account. It would be amazing if I could drill into specific campaigns or ads with this, but we're kind of stuck with an overview. So I'll get used to that.
+
+The next chart says companies funnel analysis. This is where you can see the number of companies that are located in each of your specific marketing stages over the past 180 days. So what it does is it takes the total number of companies that are part of your accounts targeting, and it calculates the number in each funnel stage. So this breaks your companies down by the same funnel, but it's a different definition. So pay close attention here. We have the same awareness, consideration, and leads, but now rather than relying on the companies that are being targeted in each of your objectives, now LinkedIn is actually applying some intelligence in understanding which of these companies should fit in your awareness, meaning they haven't really engaged with you yet, which ones are sitting under consideration, meaning they've engaged with you a good bit, and then which one are leads. And you will have the same company oftentimes being targeted in multiple stages of your funnel. LinkedIn understands this. So each company is actually being calculated once across the funnel based on the employees actions at the lowest step of the funnel. So let's say for instance, that you're reaching a Sherry in marketing at one company, and then at the same company, you're also reaching Debbie. If Sherry hasn't engaged yet, she would still be under awareness and Debbie has engaged with your ads. So she might be under consideration. So LinkedIn's only going to show us that same company once across the stages. So they're going to put the entire company under consideration because one of their employees has been engaging. Plus it'll also add into the chart here, qualified leads, opportunities, and closed one, if you've connected your CRM to it. And the definition that LinkedIn uses for awareness here, I really like as opposed to the definition before by objective, it's tallying these companies by the interactions that they're doing that actually makes sense. And I'm certain it's using AI to do this, which is great. We don't need humans behind the scenes tallying these up and putting them in different columns. AI can do that just fine.
+
+The third chart down, this is called top performing audiences. And right underneath it, it says, understand which members and companies are engaging with your marketing efforts. It's using AI to find specific segments of your targeting that are performing better than others. And there's a toggle there you can choose between if you want to see information about individuals or companies. It defaults to individuals and it calls this members attributes. In the account that I'm looking at, it suggested two seniorities that were performing particularly well in both phases of the funnel, the consideration and conversion stages. So that's what seniorities toggled. And then there are two other options. You can also flip over to job functions and locations as well. So it'll show you the best performing job functions as well as the best performing locations. If you flip that toggle from members attributes down to companies attributes, then it's going to start showing you the company's names that are performing best at each stage of the funnel. This is only picking a single company name. So I don't find it all that helpful, but it is cool. I think to see one company that's particularly doing well, it's probably going to make you say, Hey, I should probably pass this company name over to my sales team. So they are giving them extra special attention or whatever. The other two toggles you have here are company size and industry. So you can, again, at each stage of the funnel that you have data for, it'll tell you the top performer in each of those segments. What's interesting to me is you can drill down on a suggestion. So it's telling me that under consideration, the director seniority is doing best. And if I click on that, there's a little explore as I hover over it. It then reloads the report and filters the entire report that I'm looking at by funnel stage. And so if I click the one that was in the consideration stage, the entire report gets filtered for the consideration stage of the funnel, which is interesting. I clicked on director because I want to see more about directors and it didn't. It just showed me the entire report just for this stage of the funnel. Kind of odd. This is the same behavior that if you go to the very top and you click on one of those funnel stages, that's what it's doing is it's redoing the whole report, recalculating based off of which funnel stage you want to look at. So again, you can't drill down to specific campaigns or ads, but you can drill down to the grouping of objectives. Not super helpful to me, but I'd suggest play around with it. See if you find a report or anything that brings you some actionable value. The next chart is called top performing ads. It says these ads received the highest key results at each campaign objective. It shows the top performing ad in each stage of the funnel with some simple metrics. There's number of key results. There's cost per key result, cost per click, and click through rate. One thing that's really important to understand here is understanding LinkedIn's definition of what they call top performing. LinkedIn's definition of top performing is anything that drove the highest number of whatever your objective is. So in the lead gen objective, if there's one ad that drove 15 leads and another one that drove 10 leads, it doesn't matter if the one that drove 10 leads was at a much lower cost per lead and was much more efficient. LinkedIn's only going to show you the one that drove the highest number of leads. This goes a little bit counter to what I teach, which is try to find what is going to generate the most efficiency to get the highest number of leads, highest number of conversions out of your budget. But that's okay. As long as you understand what LinkedIn's definition is here, you'll know how to interpret the data.
+
+And then the last section here says top performing campaigns. There's a little note that says these campaigns receive the highest key result at each campaign objective. And again, because I don't have anything in the brand awareness objective for this account, I'm only seeing consideration and conversion, but it's going to show me the top campaign for each of those with some simple metrics. So I see number of key results, costs per key result, cost per click, click through rate. And depending on the time range you choose, sometimes you'll get an extra column there called daily delivery. It looks like this is actually what I would consider average daily spend, but watch out because if your ad didn't run for the whole time period that you're analyzing, the daily average is going to be off since LinkedIn is actually dividing the total spend over the number of days in your timeframe. It's not dividing it by the number of days that the campaign actually ran. That's something I wish LinkedIn would adjust. And this also has the same issue with LinkedIn's definition of top performing being different than mine. But I do hope that because this is AI driven, that the AI is going to be smart enough to say, yeah, the campaign that drove the highest number of leads or the most clicks is probably not super important compared to another campaign that is a lot more efficient and seems to be ramping up over time. So this report is cool, but the thing that I geeked out the most on this is how is LinkedIn actually calculating all this? Because there's a lot going on behind the scenes. What's happening here is really cool from a data perspective during this 180 day look back window. The measurement insights tool is collecting the last 50 touch points. That's impressions and clicks of your campaigns, of your advertiser campaigns with each member of your target audience. And then it's determining the allocation of all of those touch points across the funnel. It's starting this with looking at just the interactions within the LinkedIn ecosystem for all of these touch points, especially those that signal a higher likelihood of conversion. The model is considering all campaigns run by an advertiser and it's learning patterns using the data across advertisers. It also takes those 50 last touches for each member and it allocates the credit for conversions across all of those interactions. It's analyzing by things like your campaign type, your objective, the number of days before conversion actually occurred, your member data, including what company they represent and your advertiser data, including the company. Every advertiser is probably going to have a different attribution model that they care about. So LinkedIn's model is specific just to the data available on LinkedIn. So you can continue to use whatever attribution you are using and modeling on your side. This is just going to show you how LinkedIn sees it. And those are good to compare. I found the report really interesting to look at, but I honestly haven't found it to be exceptionally actionable, but I expect that this is just the beginning. LinkedIn is going to keep improving this and providing a ton more insights. This is just the beginning. All of this to say, go check it out, see if you have the reports, play with it, and give feedback to your LinkedIn ad reps on what you'd like to see improved and how it can better benefit you. And please reach out to me. Let me know if you love it or don't love it and how you're using it.
+
+Now, if you want to become a LinkedIn ads top one percenter, I'm going to tell you exactly what you need to do. Go join the LinkedIn ads fanatics community. When you do that, you'll get access obviously to the whole community of the top LinkedIn advertisers who are all sharing what's working for them and what they're testing. But you're also going to get access to all four of our courses that are designed to take you from absolute beginner to total LinkedIn ads pro. There's even an upgrade there to get on weekly group calls with me so you can get direct feedback and ask any question you want. To go check that out, go to fanatics.b2linked.com. Now, if this is your first time listening, welcome. We're excited to have you here. Make sure to subscribe so you get to hear us every week. But if you are a loyal listener, I appreciate it when you tell your friends and other LinkedIn ads fanatics about the show. The very best compliment that you can pay us is to go and review the podcast on Apple podcasts. You can rate us from one to five stars. I would sure hope the content is worthy of five stars, but obviously be honest there. And I would love to shout your review out with any questions, suggestions, or corrections for us here on the episode. Reach out to us at podcast@b2linked.com. With that being said, we'll see you back here next week. And as always, I'm cheering you on in all of your LinkedIn ads.
+
+transcript 2= Visitor identification on your website. What is it? How does it work? And did you know you can do it for free? We're talking about seeing your site visitors identity and how to use this with your LinkedIn ads strategy on this week's episode of the LinkedIn ads show. (Upbeat Music)
+
+
+Welcome to The LinkedIn Ads Show. Here's your host, AJ Wilcox.
+
+
+Hey there LinkedIn ads fanatics. As he said, I'm AJ Wilcox. I'm the host of the weekly podcast, the LinkedIn ads show. I'm thrilled to welcome you to the show for advanced B2B marketers in their evolution of mastering LinkedIn ads and achieving the much coveted true pro status. Just in case you've missed it, the B2B world has been turned upside down over the last year as marketers have gotten really excited about visitor identification. I brought on the man who I consider to be leading the charge, Adam Robbins. He's the founder of rb2b.com and Retention.com. I've been following Adam for a while and I absolutely love what he shares. He goes viral constantly on LinkedIn. He's incredibly transparent, which you'll appreciate from this interview. And I've also been using his product, rb2b over the last six months, and I can't get enough of it. By the way, every B2B marketers should be using the free plan at least because there's no other visitor identification platform that lets you use it for free. Check out the link in the show notes below to get your account. So I brought Adam on to share how we can use visitor identification in non-creepy ways and how to use it to augment our LinkedIn ads strategy. Coming right up.
+
+
+The LinkedIn Ads Show is proudly brought to you by B2linked.com, the LinkedIn ads experts.
+
+
+That's right, B2Linked is the ad agency, 100% dedicated to LinkedIn ads. And we have been since 2014. You know, back before it was cool. We build a custom strategy for every account we work with. You really get the white glove treatment. You get to work directly with me and my local team, and you'll never get a cookie cutter approach or a standard account template from us. Plus with the strategies we've developed and our mastery of the platform, we always save our clients way more than we charge. So it's kind of like getting the best in the biz for free. If you'd like to explore partnering with us for your LinkedIn ads management, schedule your free discovery call with me today at B2linked.com/discovery. All right, do you have a topic you want us to cover or review of the show or any sort of feedback? Please either email us at podcast@B2linked.com or you can message me on LinkedIn. My DMs are free and they're open. And I would especially love it if you would include a link to a voice recording of you. That way I can play you right on the show. I'm happy to keep you anonymous if you'd like or shout out your details. All right, let's jump right into the interview with Adam Robinson.
+
+
+AJ
+
+I'm really excited for our guest here today. This is Adam Robinson from RB2B. Adam is the founder and the CEO. Welcome, we're excited to have you here. Give us a little bit about your background. Introduce yourself.
+
+
+Adam
+
+Yeah, hey, AJ, what's up? I'm Adam Robinson. If you do not know me, then you may not be a LinkedIn user. But I think my full-time job is like pouring my heart out about my inadequacies as an entrepreneur on LinkedIn. And somehow that drives top of funnel for the SaaS that I sell. So that's about me. RB2B is person-level website visitor identity tool. We launched it in March and went from zero to four million AR in nine months. And now it's stuck and I'm trying to figure out what the next version of it is. And I think it has something to do with the ad tech world. So I'm very happy that we're here talking about all this because I'm looking forward to learning something from you today.
+
+
+AJ
+
+Oh, that's incredible. When we very first talked, you were talking about visitor identification. Immediately the wheels started turning for me of like, "Ooh, how can we use this in ads?" I'm glad you're kind of caught onto that idea as well because I think it's huge. Tell us what RB2B is, what it does. I'd love to hear the technology behind it. Like I'm a user, used it now on several accounts and I absolutely love it. I'd love for you to tell us like what are the reasons technologically why it works so well.
+
+
+Adam
+
+Sure, so there was website visitors identity before us and like Clearbit had it on its own and then Demandbase, Sixth Sense, Terminus, they had it combined with this like ABM technology. And what they were doing was this process called reverse IP lookup. Long story short, they were looking at the IP address of the user and they had this big table that matched IP addresses with company names. And they tell you a company or an account that visited your site. We actually started a company five years ago called retention.com that did identity to the person level and we would resolve it to a personal email address that had opted into a publisher network. European people are like that doesn't sound kosher but like this is very legal in the US even with the California legislation that has passed and all these state level stuff, this is legal. Like we have enterprise customers on both sides and we make it through legal every time because it's legal. But I say that because it strikes you as like, oh, that sounds like magic, that sounds like voodoo, that sounds like something that you shouldn't be able to do. But you can. So anyway, that really worked for e-com stores and about a year ago, my COO was just really, he's a B2B data guy and he's like, man, we should really do this person level stuff for B2B. It doesn't exist yet, it's only account level, it's valuable. So we spent six months building a product and posting about it on LinkedIn and the problems that we thought it would solve. And in March, we launched RB2B and basically what it is, you drop a pixel on your site and it's a freemium offer. So we say just like, check it out for free. What I think we were wrong about is there's this really, we push the profiles into Slack. So you connect it within minutes, you start seeing these leads. They're LinkedIn profiles with headshots and emails and anything else. And you're like, wow, like there's this moment of euphoria.
+
+And what I think I just completely missed about it is just by saying what it does. There is this implicit sort of promise that's made that all of the work that you would need to do in sales is gone and you can just set up an automation and effectively spam all these people on your site with the email address we give you and that will just book demos like a machine. I mean, I thought it would do that too, but what I believe now is that that lead gen use case that I described is only really a small part of the value of what the web signal provides you. In most of the value is actually kind of like an ongoing,
+
+Once an account is aware of you and they keep coming back, sort of like helping reps move people down the funnel. And by the way, our product doesn't quite do that yet. We're like building sort of different things to assist salespeople in doing that. And I say, you're like, how do you know that? Our churn is just bad. And so like people are ultimately, who are using it in the way that we were selling, not getting the value that was expected out of this from the lead gen use case. But the ad tech use case is completely different and people are quite successful with it. So yeah, I mean, that's what we're jumping into today and I'm very excited about it.
+
+
+AJ
+
+Very cool. Well, thank you for your transparency. It's a breath of fresh air to hear someone say like, oh, we're not happy with the way things are going, but obviously you've been very successful at this point, but I love the transparency.
+
+
+Adam
+
+That's all I got. And I think that people buy from people and it's so hard, especially for a CEO to be authentic on any social media, especially LinkedIn.
+
+
+And I think it helps me in the long run when I say, Hey market, I know that this product is not what I thought it would be, because when I go back in six months and say, by the way, I think I figured it out. If they heard me say that I thought it wasn't cutting the mustard or whatever, they're gonna try it. If I'm sitting there saying like, oh, this is a great product. It's gonna take down six cents. It's gonna do this, it's gonna do that. I will be the boy who cried wolf.
+
+And I won't be able to win them back. So I think that it could accelerate people like examining the value of the product in the short term. I think the trust that it builds in the long term and quite frankly, you need this type of discipline as a product-led CEO. You have to live in a world of reality. It's very tempting to say, oh, our product's great. It's helping all those people do this thing that it's not actually doing. I think it's a common lie people can tell themselves. So anyway, long-winded answer.
+
+
+AJ
+
+
+Totally, huge breath fresh air and I appreciate it. I can tell you, it is hard to admit something like that as a CEO, especially publicly. So I love it and I totally agree. I think it's gonna be a continued business driver just from the trust that it drives. Yep. All right, so the original product, this is visitor identification. The product as you log in, you will see a list of, these are the exact identities of the people who have been to your website that RB2B could figure out.
+
+
+Adam
+
+Yes.
+
+
+AJ
+
+ There are so many things you can do with this data. Obviously the principle being export what you see and then take it somewhere else and give it to a sales team or something. The integrations are huge to stop people from having to do export to spreadsheet and go manually do something with it. Tell me about the integrations that you've got going with CRMs and contact tools and all that.
+
+
+Adam
+
+Yeah, so I mentioned that it was a freemium offer. So we originally built a HubSpot integration that kind of wasn't the right thing. We did some product discovery with somebody with a few people who thought that it would be really valuable to use the HubSpot tracking cookie and then tie it back to previous sessions. And then the reason you would do that is to like segment messaging once the person became known. And it just turns out that that's not that valuable and it was like charging them 50 cents per contact for marketing contact and like it just wasn't the right thing. Now we actually think we've nailed the HubSpot thing and we've nailed an entirely different use case for how to get value out of this, which I will explain. So you got to get all of your TAM and HubSpot and then you run these signals in the HubSpot and you let HubSpot do the filtering for you, right? So it's like, if it's not within the TAM that you have defined in HubSpot gets thrown out. If it is, then there is an owner of that account, an owner of that name account. So it will then trigger workflows in HubSpot for that account owner and it can be anything. It can be an alert to tell them to reach out. It can be something that adds them to a sequence. It can be something that tells them to hit the person up on LinkedIn. It can be something that reminds them to contact this person in 24 hours. It can be anything, but the point is using that HubSpot CRM as a filtering and routing mechanism unlocks the power of their workflow builder so that you don't have to have a separate instance to like do all this stuff in.
+
+
+AJ
+
+Cool.
+
+Adam
+
+And we're building the exact same thing for Salesforce right now. I should have it by the second week of January or whatever. And this is still a hypothesis because we just finished this new integration a couple of weeks ago. But like that use case versus what we were onboarding people to before, which was kind of like, I would say that's like a TAM first use case whereas like up until this point, we were like a signal first use case. It's like when this person hits your site, trigger outreach. This is more like, if they're within your TAM, then depending on what they have done in the past, notify this person and or trigger some sort of outreach.
+
+
+AJ
+
+Yeah.
+
+
+Adam
+
+So yeah, this could be an iteration of what we're moving towards. So there's like the CRM integration, which can do that. Then there's like the clay world, which I think is very much lead gen. I think it works really well with people who have high traffic sites. There are magical workflows that can be launched with clay and it's the best LinkedIn content of all time. There is no doubt if you're listening to this podcast that you've seen that LinkedIn content, things like send a personalized AI generated video to an anonymous website visitor. Incredible, right? But that's like its own world and it is what it is. And a lot of them are using tools like Instantly and Smartly to do inbox rotation to like send to these people, which I don't know how I really feel about that as the ultimate use case. Like the HubSpot use case, it's kind of like so low volume that you should be reaching out to them and you shouldn't need to do that. So that's that. And then there's a whole group of other applications that are like LinkedIn automation. We have Zapier so you can send it anywhere. Those are kind of the categories. It's like LinkedIn automation, you know, you could send them straight to Instantly or Smartly or like so there's email app automation, LinkedIn automation, clay, which is everything, Zapier, which is everything and CRMs. That's pretty much it. What we're not doing was what you brought up before the call. Sending the audience straight into LinkedIn for running ads. Some of our clients are downloading the file and dropping it in and seeing decent success, but we should build a pipe directly there. The only reason we haven't is because up until now we've been focused on this lead gen use case and like it's just becoming clear to me that that use case is super valuable for a certain type of business, but that slice is like much narrower than I thought. And it's just gonna be impossible to convince me that a website visit is not a universally valuable signal for anybody with sales. So it's just like we haven't figured it out yet. That's the thing.
+
+
+AJ
+
+Cool. Well, I know you originally launched with Slack, so there's productivity tools. Yeah.
+
+
+Adam
+
+I just think of Slack as like almost, I just forget about it because it's like so ingrained in the onboarding, right?
+
+
+AJ
+
+
+Yeah. And I'll have to check and see since you're giving all this information to Zapier, I think Zapier should be able to push that into LinkedIn ads.
+
+
+Adam
+
+I'm sure that, yeah, I'm sure they could.
+
+
+AJ
+
+You and all the listeners know there's two different kinds of lists we can push to LinkedIn. One's a contact list and one's a company list.
+
+Adam
+
+Yeah.
+
+
+AJ
+
+And I could totally see this fueling a dynamic list where it's just adding to them as it sees them hit the website, both the contact and the company, driving really cool ABM lists.
+
+
+Adam
+
+
+Yeah, for sure. I mean, that's a great use case.
+
+
+AJ
+
+Especially if you can find a way of getting the match rate to be really high because what we see right now is if we send a contact to LinkedIn, let's say we send it with an email address, we can't give LinkedIn a LinkedIn profile URL, which it would match at 100%.
+
+
+Adam
+
+So annoying, right?
+
+
+AJ
+
+So annoying. So we give it like first name, last name, usually a professional email that matches at a low rate. If we can give it title and company name, that usually matches at a higher rate. You obviously know their LinkedIn profile, being able to pipe it right in and get 100% match rates. Oh, I'm hoping we find a way to do that.
+
+Adam
+
+Yeah, that would be incredible. I wonder why they don't do that.
+
+
+AJ
+
+They do for the company. So when you upload a company list, you can include the company page URL. The only thing I can think of is privacy concerns.
+
+
+Adam
+
+Right, yeah.
+
+
+AJ
+
+If they want us to give them money, they obviously want larger audiences. And if we're uploading contact lists, getting 20 to 30% match rates, that doesn't help us spend money.
+
+
+Adam
+
+Right, exactly. It seems like a lose-lose. Anyway, we'll see.
+
+
+AJ
+
+But I know you brought a case study with you on how someone actually used RB2B and LinkedIn ads really well. Do you want to walk us through that?
+
+
+Adam
+
+Sure, so Sam McKenna is a friend of mine. She runs a sales consulting firm. And the headline of this case study is how $200 of LinkedIn ad spend led to record-breaking site traffic. So that should get your attention.
+$200 is not a lot of money. Here's the idea of this case study. And look, I don't know how many different times or ways I've said this. I now live in this world where I've found my voice on organic social media, and it is magical. And I would encourage anyone listening to this who has not yet gotten there, just start posting every day. Not because you'll get engagement in likes and comments and deals, it's because you'll be one day closer to finding your voice. Just thinking about it this way, it's like if you can create content that your prospects have demand for irrespective of what you're selling them, you know, it's just so good that they want to read it and they want to be a part of it. Like how could an ad possibly compete with the quality of attention that that gets? You could show me 10 ad carousels of businesses in Austin that use rippling. And like, I am not going to care, but if I see Sam Jacobs say, "The Golden Age of SaaS is over," I gotta find out why. Like, you know what I mean? Like, do I need to be doing something else? What do you mean the Golden Age of SaaS is over? Like, tell me why. So this is a thought leadership ad strategy, and I just wanted to like give the background of my deep internalized feeling about organic social. I think it's the only reason RB2B got to where it was. I think it's the only reason we can make cold email work. I think it's the only reason we can make thought leadership ads work clearly. It facilitates so many other things. Like we're building a whole community marketing effort around it. It's like this kind of like viral influencer trust building does so much more. So anyway, her strategy starts with that. So it's like, take a banger post that you have. Then drive traffic to a free resource, some type of landing page that is ungated where people can just get some, you know, high value content. And then RB2B is on that page, and only waste your time on people you actually want to speak to, because that's kind of one of the complaints about RB2B. Which isn't really complaining about RB2B. It's like when you're running traffic, the percent of people that hit your site that you actually want to talk to, it's probably like in the single digits.
+
+
+AJ
+
+Wow.
+
+
+Adam
+
+If you're lucky, maybe it's 10% that you'd want to speak to of people on your site. So there's a bunch of ways to filter it down. If you have a lot of traffic, you can use one of these mechanisms, like the CRM workflow I described, or clay or something. If you don't have a lot of traffic, it's really easy to scroll through five leads and say, oh, that guy's the one I want to talk to. And then it's just like, whatever your sales workflow normally is. So connect with them on LinkedIn, put them in an email sequence or something, put them in a LinkedIn outreach sequence.
+
+I would not tell them that you saw them on your site. Some people consider that disingenuous in some way, but they probably will not even connect that when you ultimately, because people, you're an ads guy, you know this. It's like no one converts on the first step. I don't know how many brand impressions it takes in the modern world to get somebody to buy something, but it's not one ad. So each of these things are a brand impression along the journey of this person getting moved down your funnel. So yeah, you're just eliciting an intense signal. And then I think the point of her case study is, LinkedIn thought leadership ads are a cheap source of traffic. This landing page strategy is a very inexpensive way to start omni-channel retargeting campaigns, right? She may even be running ads to these people that hit this landing page at the same time.
+
+Because at the end of the day, that person's kind of hot. You know, however many channels you can create these brand impressions on, it's going to help you out. And yeah, I mean, that is the results. Total spend, $200, LinkedIn impressions, 78,751, daily visitor increase, 1194% increase over daily average, monthly visitor increase, 36% increase over monthly average, net unique visitors, 1478% increase in day one alone. So yeah, and she's booking demos off of this.
+
+
+AJ
+
+So cool. This is what I think LinkedIn ads fanatics need to get out of this, is that if you can identify who the people are who visit your website, there's a couple different things you can do with that. Number one, you can check your targeting. If I'm running LinkedIn ads to a page, and that's the only way that I'm getting a lot of traffic to this page, I can go look at RB2B, look at the actual identity of the people who are hitting it and go, oh, there are some of these people that maybe I need to tighten up my targeting because these don't make sense. Or it's a vote of confidence, like, yep, I'm definitely hitting the right people because look at who they are. The other thing is when you land on a page, of course we want to have our LinkedIn retargeting pick them back up, our Google retargeting, or Meta, but those technologies are all based off of cookies. And if they're in an iOS browser on an Apple device, you know, probably within a couple of years, anyone who's on Chrome, those cookies are gone after that session. And so you can't follow them around and keep retargeting them. But if you know their identity and you can then pipe those identities right into LinkedIn, Google, meta, as matched audiences, now all of a sudden you have targeting that persists regardless of if they have a cookie or not. And I think it becomes something really powerful for your retargeting campaigns as well.
+
+
+Adam
+
+Yep, I agree, 100%. omnichannel retargeting. That's the goal.
+
+
+AJ
+
+That's what it is. And you make it possible by visitor identification because we can't get that with a cookie. Otherwise, pretty amazing.
+
+Adam
+
+Exactly.
+
+AJ
+
+And then like you mentioned, this is a thought leader ad strategy. Being able to target people with a post that you have, it's cheap traffic. We see engagement rates being like five to 30 times higher with thought leader ads bringing costs way down. So I'm all on top of that.
+
+
+Adam
+
+Yeah, and to me it makes logical sense why that's the case. If you know that your post was a banger, the first time you put it out, of course when you put dollars behind it, LinkedIn and the algorithm is going to give it favorable placement to something that was not a banger. Yeah. That's what the platform wants anyway. So it's just, it's this amazing sort of like very quick feedback loop of just like, "Put spend behind posts that are great. Do not put spend behind posts that are not great." And it's like, I view it as really a leveler too. I think a lot of very large companies have a very hard time creating great organic content because they have a very hard time being authentic and that is what makes great organic content. So the little guys like you and me, if that's all you got being authentic, then you have this incredible power of being able to create posts that will break through and then get in this loop of putting dollars behind them.
+
+
+AJ
+
+So true. Yeah. Enterprises have their hands tied with their communication.
+
+
+Adam
+
+Totally. They just can't participate in like what's probably the most powerful, like it's the cheapest awareness that exists in the world, right? The combination of like dropping a compelling organic post that breaks through and then waiting to know if it's great and then putting ad spend behind it. Yeah. Not just on LinkedIn, on like, you know, TikToker like whatever, right? Like that loop is incredible.
+
+
+AJ
+
+Ooh. Okay. I wanna go back to something you said before. You gave us advice that was like go and post every day. I just wanna say amen to that. So many people are afraid to post because if you put something out there that makes you look dumb or look bad, like it could harm your career. But I wanna tell you, if you put something out that's bad, LinkedIn is going to show it to a few people, see no engagement, and then they're gonna stop showing it.
+
+Adam
+
+Yeah, no one's gonna see it.
+
+
+AJ
+
+Exactly. I totally agree. Over the course of posting, you're gonna find your voice, you're gonna find what people like, what the algorithm likes, and I think that teaches you who you need to be on social media.
+
+
+Adam
+
+Totally. In a nuanced sort of like what the algorithm likes, you were kind of getting at this, but to me it's really like my first year of posting, I just knew it was wrong. Just because I knew I wasn't getting back from it the amount of effort that I was putting into it. And then I had this massive unlock, and it's when I started writing to people like me. I basically went from posting, trying to get deals from e-comm stores, to speaking directly to B2B revenue people about my, quite frankly, tumultuous 2023, which was incredibly resonant in our world, but was not being spoken about very often. So I think the nuance of what the algorithm wants, it's really like what the algorithm wants from you. Like you could write, AJ, you could write the same words as my content from 2023, when it really started breaking out, and it would not hit. It's because of who I am and the perspective that I bring that give those words weight. And that's the whole journey to finding your voice. You have to figure out, given exactly who you are at this moment in time, what does the algorithm and what does your audience want from you? And it's not an easy task. It took me a year to figure it out, but once you know it, you know it, and it's the greatest power of 2025.
+
+
+AJ
+
+So this is obviously not on topic at all when we're talking about ads.
+
+
+Adam
+
+No, no, this is a deeply personal journey for me though, so I'm passionate about it.
+
+
+AJ
+
+Yeah. And your posts do so well, you have been everywhere on LinkedIn for more than a year. I'm curious, what have you found from an organic perspective? What kinds of posts are working? How do you approach what you know is gonna be a banger post?
+
+
+Adam
+
+I'll give you an example of like, I don't even know what the post is yet, but like this is a genesis of a banger. One of my friends is this guy, Andy Muborn. He actually posts a lot on LinkedIn, he's a sales guy. Got a big audience, a couple hundred thousand people. He called me and he's like, yo, I don't have a top of funnel problem at all, I can't get these B2B people to buy my product. And like my buddy Gordo and whatever, they're starting this AISDR, they have the same problem. Like top funnel's great, can't get people to buy. And then I start venting about how like, I'm like, man, I'm just like afraid that like no matter what I do, I'm gonna yell about it, because that's my marketing strategy, and then I'm gonna have 10 copycats within four weeks. And so we started talking about that, and he's like, well, you know, I wanna do the like rippling thing where like we create the go to market tool with every, that's complete in like whole and like whatever else, and like, man, the execution on that is like so hard. And by the way, like outreach itself is trying to do, you know, it's like everyone is building everything faster than ever, and no matter what, if you figure something out, you're gonna get copied within four weeks. So like it's really hard for this early stage guy. And then the late stage guys are all stuck, they're zombies, and they're all trying to create the universal go to market platform, and they're all gonna have the same tools. Like those two things, the implications of those are so dire and so scary, and everyone's feeling it, and no one's talking about it, right? Yeah.
+
+
+Whenever there's that undercurrent where it's like, man, like I can't believe this is the first conversation I'm having about it, because I've been thinking about it for three months now, like that has the underpinning of being a great thread to pull on. That's kind of like the idea, and then it would be like, okay, what's a hook, right? And then what makes a great hook? I like to use lots of numbers, whenever as many numbers as possible, if you can make definitive statements, such as the one that I brought up earlier, like the golden age of SaaS is over. That's like amazing. It's like, what do you mean it's over? Right? Like, oops. If you can say like 99% of startup founders think that ARR growth is the key metric they should be optimizing for, they're wrong. And then say something that makes logical sense, but is like kind of hard to believe or something. My point being, spend a lot of time on the hook, try to have a hook that literally punches people in the face and makes them read, right? Good cliffhanger, make them press the see more button. And then, you know, a structure of a lot of my posts is sort of like, here are the five reasons why I said that hook. And so I say them and then like, you know, have sort of modifiers and then I always put a takeaway. Whatever pain that I have been agitating with those five things, you provide a relief, a way forward and then always close it with like a coy sort of wrap up that like makes people, you know, it's push first pull and 2024 pull wins.
+
+
+Whatever and like gets people to like like it and comment or whatever. That's the process, right? Like I'll have a conversation like today and I'm like, man, like I can't believe I'm having this conversation for the first time because I've been feeling this for months, you know, and then it's like gotta make itself into a hook in like a sort of templated post somehow. So that's how I think about it.
+
+
+AJ
+
+Text only, image, video, how do you think about?
+
+
+Adam
+
+So if it's gonna be epic, like this one has the potential to be an epic post because it like taps into this really scary reality we're in, right? Yep. Epic posts, no video. Like, cause LinkedIn is first and foremost a text platform still. So I do wanna do the Chris Walker style talking head as much as possible, but I reserve the top five or 10% of stuff to not have that just so the distribution will be better. I had one I knew was gonna be epic a month ago. The hook was 10 million ARRs, the FU money of SaaS. Here's the breakdown, right? Yep. You just know that's gonna be epic, right? Like everybody in SaaS is gonna read that. So like no video there. I try to do video, but just the talking head style on as many as I can because I do believe that the power of this platform is creating what feels like friendships, but scale that to tens of thousands of people. And I feel like the friendship is deeper if they hear your voice and see your face and see your gestures and all that stuff. And honestly creating a talking head is not that much more work. Like I was making some super high quality video like Netflix style, not worth it. I'm glad I did it, but like not worth it for like the average Joe. Talking heads are not hard. Just you don't need to cut. It's just you need a little bit of editing and just giving people your face and voice and gestures over time, your status will elevate in their head. It's just like a preacher or like a DJ or like whatever, right? Like you are on the pedestal when they're sitting there listening to you.
+
+
+AJ
+
+And it's developing a personal brand.
+
+
+Adam
+
+100%. Yeah, I'm not saying it's mandatory, but like other than the fact that you have to keep feeding the machine, which like I think most successful people are resigned to the fact that they're in the game. Like if you're thinking about your exit, you're not gonna do a high enough quality work and you're not gonna have enough energy to keep going. The second you're like, I only got two more years in this thing, I think it's like you're walking the plank. That's kind of how I got my head around it. It's like, well, I got young kids. I wanna be working so long as they're in the house. I kind of hate the fact that I'm getting on this treadmill, but like now that I'm on it, you know, I've come up with ways to work way more efficiently. So it's not as stressful. We basically plan out months of content ahead. So like today, for instance, I'm writing like nine LinkedIn posts and then we'll recycle another 15. And then like that's February.
+
+
+AJ
+
+So good.
+
+
+Adam
+
+Yeah, anyway, that's a lot about LinkedIn posting there.
+
+
+AJ
+
+Oh yeah, I wasn  't planning on going that direction.
+
+
+Adam
+
+Yeah, no, but like everybody wants to know, right? And like, I think that stuff about like what really makes a hot post, hopefully that'll plant a seed with somebody and then they'll get one. Cause I think it's like, okay, like that idea germinates. Like, like my first truly hot post was when I was like, I made this post about our VP sales quitting and getting rid of all of our BDRs and how we sped up. And then people started reaching out to me and being like, dude, like I got all these BDRs. I don't know if it's working at all. Like, I mean, I'm talking like investors with portfolios of companies, other SaaS founders, like how did you measure this? Like whatever. And then I made a post about everything that they were saying about BDR. Cause it's like, that's a hard thing to admit to yourself. It's like, I was wrong. I got to fire these people. You know, my team's going to be a lot smaller. Like what, what if I'm missing something, right? So I made this post and it was like, you know, 3000 likes or something like that. Like something super epic. Like I'd only, my biggest post before that was like a couple hundred, right? And then I was like, wow, okay, whatever that was, it's like things that people were only comfortable DMing me. If you can articulate that and you just know it's this like blanket sentiment in the market, those will be epic posts. Yes. Right? Like those don't have to be the normal, but like those will be epic.
+
+
+AJ
+
+I found a lot of people will say like, oh, don't chase virality because virality is fleeting. It doesn't actually push the business forward. I had a post that went mega viral that was about the Oxford comma. Has nothing to do with advertising, but it was so funny. You know, I had to spend an entire afternoon fielding comments and kind of nurturing that stream to make it so viral. And then what I found was I had such valuable conversations in the DMS afterwards about business that it made it all totally worthwhile.
+
+Adam
+
+Yeah, totally.
+
+
+AJ
+
+The conversation was started by the Oxford comma, but then they would say, hey, I haven't thought about you in a while. By the way, here's a question about LinkedIn ads or I have a client doing this.
+
+Adam
+
+Yeah, so I have a pretty strong view on virality. Like I kind of don't think that your entire business should be writing Oxford comma posts. I think every once in a while it's fine, but like untargeted virality is not really the magic of LinkedIn. The magic of LinkedIn is when you can say something like I'm talking about, that is this you're unearthing this emotion that's running through your ICP and the fact that it can go viral in your ICP. And the fact, if you define yourself as someone who has this cutting edge stance about a few issues and you just learn how to articulate them in different ways, but like they're tapping into these nerves in your ICP, the magic of LinkedIn is that you can go viral within that ICP. And you should build your entire business around virality within your ICP. You should not build it around the Oxford comma if you're an ads guy, right? I just wanted to like be very specific about that. That to me is like part of the magic of LinkedIn and why that first crack at the video feed missed. It's because you could get 2 million impressions, but like if you looked at who they were, it's not the kind of people that are following you when you write a banger about LinkedIn ads, which is what you need. The second version of the feed appears to be a little more targeted, which I think it deserves some experimentation. I put one up yesterday about how I was like humiliated when this girl asked me my team size. When I was like 12 million AR was six people. Some girl who works for Upwork asked me like, well, how big's your team? I'm like six people. She's like, oh, that's cute. Like you're just getting started.
+
+
+I'm not, you know what I mean? So like, and like the six minute talking head rant did really well. And I know because people were like commenting stuff I said in the video and not in the post.
+
+
+AJ
+
+Yeah. So you know they're consuming.
+
+
+Adam
+
+Yeah, totally.
+
+
+AJ
+
+Oh, that's so cool. All right, thanks for letting me kind of take you off off the beaten path there.
+
+
+Adam
+
+Yeah, yeah. No, I mean, this is what I know, right?  This is the valuable information for me, right? So I'm happy to share.
+
+
+AJ
+
+And I have to say, and I'll say this again, RB2B, especially because there is a freemium option, everyone listening should be getting this on their site as soon as possible.
+
+
+Adam
+
+Yeah, just try it.
+
+
+AJ
+
+So good.
+
+Adam
+
+That's why I tried to create it. It's like, how do you make an offer that you and your target audience would feel stupid not doing, right?
+
+
+AJ
+
+Yep. Out of curiosity, how is RB2B adding value to all the other channels that you're running? How are you seeing marketers use it that it's shocking and interesting to them?
+
+
+Adam
+
+Yeah, so there's all sorts of different deployments of it. And we mentioned before, it's like, you know, there's the run it through your CRM deployment. There's like the run it through your clay deployment or whatever. But at the end of the day, the way that I see RB2B is that it's just amplifying the efficiency of any of the marketing channels that you're already doing because they all drive traffic back to your site. So it's just allowing you to do multi-channel rather than omnichannel retargeting on everything that you're doing for like a fixed cost.
+
+
+AJ
+
+Totally.
+
+
+Adam
+
+So yeah, it's like, no matter what you think about it, it's like if you send a big newsletter out and you run somebody to a landing page, you know, if you're doing marketplace marketing, like where are those people going? Like they're going to check your site out, right? If you're doing affiliate stuff, like they're blasting to their list and people are coming back and checking out your site. It's like no matter what you're doing, your website is the primary real estate that this stuff is driving. Even if you're like doing low volume outreach, those people are going to the domain who are interested in your email footer and they're checking out your website, right?
+
+
+AJ
+
+Yeah.
+
+Adam
+
+So yeah, that's how I look at the tool. And like I mentioned before, like, you know, I'm very public about how we're doing. Like we absolutely crushed growth, but our churn's terrible because I think I was selling the lead gen use case as the only use case. And it's a great use case for some people, but not most people. It's obvious why this signal is valuable. It's just not totally obvious how to deliver it to different types of companies in the most valuable way.
+
+
+AJ
+
+Yeah, it's a force multiplier for everything you're doing.
+
+
+Adam
+
+Yeah, exactly.
+
+
+AJ
+
+But it's also not a silver bullet.
+
+
+Adam
+
+You nailed it with that. Yeah. Yeah. That's kind of like the promise is so big that you want it to be a silver bullet when you sign up. You know?
+
+
+AJ
+
+Yeah. Ultimately, even if you're advertising to these audiences, like you said, it's a signal. It's not a silver bullet saying these people are ready to be sold to. It is a signal that they are that much warmer. And I think you trade them that way.
+
+Adam
+
+Yeah, exactly.
+
+
+AJ
+
+It's gonna make everything you do better. Yep. Where do you see the company going? Give us a little peek behind the curtains. What are you looking to add feature-wise? Get us excited.
+
+Adam
+
+I think there's big potential in continuing to add ways where reps can receive the signal where they're at, right? So like a Gmail app as an example, what if it showed you all the people you had threads with who'd hit your site in the last seven days? Or when somebody in your CRM hit the site, you got a little alert and then you could bring it up and it would like, based on the stage they were at, the pages they were looking at, it like used an LLM to like write the copy for you and you could edit it and just like shoot it out or whatever. That's the kind of stuff I'm thinking about. There's something to do in ad tech with audiences. It's not totally clear to me what it is yet, but maybe it involves some enrichment and yeah, I don't know. I think there's something really interesting about B2B ads on B2C. Like I'm a CEO of a 25 million ARR SaaS company. I shouldn't see any other ads from anybody else other than like $200,000 ACV SaaS companies at any device that I have on anything that I do. And that's not the world we live in right now. And I think there needs to be a big shift. I think that like brand marketing is really undervalued in measurable sort of click conversions are like really overvalued. And I think that the B2B world needs to sort of internalize that before that kind of thing's possible. But like, I think we can play a pretty big role in building audiences for that and then showing attribution. The pixel may ultimately be a better source of showing attribution on open internet consumer advertising than actually giving someone a warm lead. Yeah. Right, like if I feed an audience to show TV ads and like a percentage of that audience actually hits the website, you probably wanna run more of those ads. (Laughs) You know what I mean? Yeah. So yeah, these are kind of things I'm thinking about.
+
+
+AJ
+
+Oh yeah. And obviously, our B2B is exclusively right now visitor identification. But as a byproduct of identifying the visitor, you also know who they are, what company they represent. And there's a lot of marketers out there doing account-based marketing, all based around company names. Any movement in that direction, any thoughts you have on company identification?
+
+
+Adam
+
+Basically, earlier in the show, I explained the tech that was. It's like this reverse IP lookup, the clear bit, and whatever. We're adding like demand base and a few other providers to actually do that also. And quite frankly, having seen how most people wanna use the person level, I actually think that they would be equally successful with a company-level ID anyway, because it just requires the sales work. You have to figure out at this account who you should actually be speaking to, rather than just thinking you don't have to think about it. And you can just automate a message to go to this individual person. So yeah, we're figuring it out. We're a very young company. I feel very grateful to have made it as far as we did as quickly as we did.
+
+
+AJ
+
+(Both Laughing) Yeah, you should be. It's a pretty amazing journey so far, Andrew, just getting started. Yeah, exactly. Cool, I always ask people who I bring on for an interview, what are you most excited about in life? Do you have anything personal going on? And do you have anything business wise that you're doing that you're really excited about?
+
+
+Adam
+
+Yeah, so personally, I have a two year old and a 10 week old child. And for anyone who has ever had either one of those things, you sort of know what I'm talking about when I say that that is like a major, you know, there's only a few things that I'm doing these days and like it's that at home. And then, you know, look, I'm really excited about the future of this business. I talk about the virtues of bootstrapping in all my LinkedIn content. I've been fortunate enough to have been bootstrapped for all of the 12 years of my entrepreneurial career. I'm finally to the point where I like, you know, I got 25 million ARR, we're super profitable. I got resources to do anything that I want. I don't have a board. I don't have investors. And I can really be cutting edge on some of this stuff, like this authenticity thing, like I can say it a million times. I can credit it. I can say that this is what's working for me and you can agree with that. And most people still can't do it. They're like, well, I can't say that.
+
+
+AJ
+
+My investors wouldn't let me.
+
+
+Adam
+
+Yeah, exactly. Like I don't want to piss my team off or like whatever. I thought that the business that I had, that I currently have like five years ago, it was my moonshot goal, you know, the sort of like revenue and profitability and employees and everything else. So now my ego thing as an entrepreneur is like, can I bootstrap 100 million ARR? You know, with these products, the answer is no, because they're super high churn, but like now I'm like, okay, what can I do in like data or something that like can't be copied and would be low churn and like I could just stack and like it could help me sort of push closer to that. I've gotten to know this guy, John Mackey, who started Whole Foods. He's got this idea of conscious capitalism and it sounds different than what it means. Really what it means is just like, you're running a business in a way to where all of the stakeholders benefit. So like your employees, the customers, the suppliers, if you have investors, the investors. And if you really do that, it sort of sends you in a direction that's different than if you're a private equity backed SaaS where they buy your company and then they torch your brand by raising prices, right? Yeah. I'm like really into this thing where like, I woke up one day and I wanted to be a founder 12 years ago and now all of a sudden I got this big team. Like we do a survey, people seem to like working here. We're not screwing over our customers. Like I'm trying to just like create unbelievable amounts of goodwill with the ecosystem. We're super profitable. So the founders do great. Like I'm just like really into like continuing to build this thing that like benefits everybody who touches it. So yeah, that's what I'm excited about.
+
+
+AJ
+
+Brilliant. Thanks for sharing. You got a lot on your plate with a 10 week old, amazing.
+
+
+Adam
+
+He's a man.
+
+
+AJ
+
+Well, I've said it before and I'll say it again. Everyone who's listening, you need to get RB2B installed on your website. I'll have a link below in the show notes exactly how to do that. Adam, tell us, what do you want us to do? Do you want us to follow you on LinkedIn? Do you want us to visit your website? Like send us wherever you want.
+
+
+Adam
+
+Sure, yeah. Well, those two things, I mean, just check me out on LinkedIn. I hope you like my stuff. I put a lot of energy into it. It's Adam Robinson, RB2B you'll find me. And then yeah, just check out RB2B.com.
+
+
+AJ
+
+Perfect. Adam, thank you so much for jumping on, sharing so much gold with us and being so authentic. Sure appreciate it.
+
+
+Adam
+
+Thanks AJ.
+
+
+AJ
+
+Okay, I'm sure we'll have you back for a round too as the product increases in ad tech integrations and all that.
+
+
+Adam
+
+Oh man, I'd love to.
+
+
+AJ
+I hope you loved that conversation with Adam as much as I did. If you are not already a member of the LinkedIn ads fanatics community, you've got to get in there. For a low monthly membership, you get access to all four of our courses that take you from beginner to expert. Plus you get access to all of the top minds in LinkedIn advertising. There's even an upgrade to hop on weekly group calls with me and the other LinkedIn ads super fanatics, which is by far the easiest way to get direct feedback on your campaigns and everything you're running on LinkedIn. Go check it out at fanatics.b2linked.com. Now, if this is your first episode you've heard, welcome, we're excited to have you here. If you like what you heard, hit that subscribe button so you hear it again next week. Now, if you are a loyal listener, if you could do me the great pleasure of going to Apple podcasts and leaving a review, that is by far the biggest compliment you can pay us. With any questions, suggestions, or sometimes we need it, corrections, reach out to us at podcast@b2linked.com. And with that being said, we'll see you back here next week and I'm cheering you on in all of your LinkedIn ads initiatives.
+
+transcript 3 = Benchmarks are crucial to your LinkedIn advertising, but you know what's even more crucial? Benchmarks that measure both the marketing and the sales. That's what we're talking on this week's episode of LinkedIn Ads Show.
+
+Welcome to the LinkedIn Ads Show. Here's your host, AJ Wilcox.
+
+Hey, hey, hey there LinkedIn Ads fanatics. As he said, I'm AJ Wilcox. I'm the host of the weekly podcast, the LinkedIn Ads Show. I'm thrilled to welcome you to the show for advanced B2B marketers in their evolution of mastering LinkedIn ads and achieving true pro status. Today, we're reviewing one of the most useful benchmark reports I've ever come across. I know you're gonna love it. It not only takes into account the LinkedIn Ads performance, but also the arguably more important and more valuable sales performance. I haven't seen anything like it before. I'm excited to introduce you to a guest, a friend of mine now, Ruby James from LinkedIn. She and her team assembled this report. She'll be sharing some of her top takeaways from it. And of course, I want you to scroll to the bottom right now of the show notes, go and get access to the report so you can check it out and follow along. The LinkedIn Ads Show is proudly brought to you by b2linked.com, the LinkedIn Ads experts.
+
+That's right, B2linked is the ad agency of 100% dedicated to LinkedIn Ads. And we have been since 2014, you know, back before it was cool. We build a custom strategy for every account we work with. You get to work directly with me and my local team. You won't get any sort of cookie cutter approach or standard account templates from us, no siree. Plus with the strategies that we've developed and our mastery of the LinkedIn Ads platform, we always save our clients more than we charge. So it's kind of like getting the best in the biz for free. If you'd like to explore partnering with us for your LinkedIn Ads management, schedule your free discovery call with me today at b2linked.com slash discovery. All right, do you have a question, a review or feedback for the show? You can message me privately on LinkedIn. My DMs are free and they're open. Or you can also email us at podcast@b2linked.com. If you want to attach a link to a voice recording of you, I'd love to play you right here on the show. And of course I'm happy to keep you anonymous or shout you out. All right, without further ado, let's hop right into the interview with Ruby. Let's hit it.
+
+AJ
+
+Ruby, so excited to have you here on the podcast. Thank you for joining us.
+
+
+Ruby
+
+Thanks for having me, AJ. I'm thrilled to be here.
+
+
+AJ
+
+For those of you who have not heard of Ruby James, she leads the LinkedIn Marketing for Startups organization there within LinkedIn. Welcome, we're so excited to have you here. Tell us a little bit more about your background.
+
+
+Ruby
+
+Yeah, so you already shared this, but I most recently lead our LinkedIn Marketing for Startups org. I've been part of our Startups org since its inception four years ago. I've actually been at LinkedIn almost for nine and a half years now, which is so wild to think about.
+But a little bit about the LinkedIn Marketing for Startups team, which again has been the largest portion of my LinkedIn journey. This team was created really with the goal of helping startups speed time to ROI on LinkedIn. And that was really done through our team's specialized startup specific support. And what that includes is LinkedIn Marketing Strategy and Advisory on other important levers that we found drive strong results on LinkedIn, including Advisory on Sales and Marketing Alignment, Measurement, the latest Go to Market Insights, Board Ready Reporting, all the things that again, ensure that your paid marketing strategy is optimized and efficient and really yields the highest ROI possible. We also focus on partnering with VCs to ensure they're aware of all the best practices that enable startups in their portfolio to maximize the value they see on LinkedIn. And so that's really a little bit about our team, where I spend the majority of my time and I should say all of my time in the work side of me, a little bit about me personally. So outside of work, I'm based in San Francisco. I always joke I'm a third generation San Franciscan, so a unicorn in my own right. And I love hiking. I also like to surf. I'm an avid yogi and actually teach yoga on the side at my local studio, as well as volunteering at a few organizations that bring yoga to underserved communities. So spending a lot of time both inside and outside of work on things I'm very passionate about, including startups and yoga movement, nature being outside as much as I can.
+
+
+AJ
+
+That is so cool. It's great to get to know you better. I love so much that you have an entire organization within LinkedIn dedicated just to startups, because yes, startups, they require different attention. They need more help and they need different help for LinkedIn ads. So I'm so glad. It seems like a big hug from LinkedIn to startups that they gave you this team.
+
+
+Ruby
+
+I love the description you use, big hug.
+
+Yes, there's definitely other verticals throughout LinkedIn marketing, but we're actually the only verticalized team within our larger where we sit new business org. So essentially we verticalized to support startups in their first typically one to two plus years when they're first building their foundations on LinkedIn. Because we know that startups have such unique needs, they have aggressive growth goals, they need to see ROI fast and accelerate the testing phase, especially when trying a new channel. And so we were able to really make the case to give specifically startups, again, in this stage that they're in when they're first trying and sampling LinkedIn, this big hug. So it's great.
+
+
+AJ
+
+Oh, totally. All right, so the reason why we brought you here on the show is because you and your team authored a new report that I think is incredible. It's called Growth Benchmarks for Scaling B2B Startups. Can you tell us about the inception of this report?
+
+
+Ruby
+
+Yes, so I'd love to share a little bit more about kind of the impetus of the report and how we got here. So yes, as you said, introducing the Growth Benchmarks for Scaling B2B Startups report. As I mentioned, my team supports thousands of startups and over the course of the last couple years, both gathering from direct conversations with marketing leaders and also just aggregating, surging topics and trends that we were hearing across our customer calls. What we found was really the biggest ask from our customers was to understand what good looks like in this new era of B2B. So we all know the B2B landscape has fundamentally changed over the last few years due to macro challenges. Everyone's talking about larger B2B buying committees, shifting B2B buyer priorities, increased competition. And really what we've heard, like the biggest ask was our startups wanting to know what to do or how to succeed in this new environment? And so I first started to look at like what already existed in the market today to solve this. And I observed that although there were a good amount of B2B Benchmark reports that already exist, whether it's from partners like Gartner or VC firms, what I was finding was that most of the, or I would say all of the pre-existing B2B Benchmark reports really only featured the medium and top quartile of growth benchmarks and nothing else.
+And I found that it was super important to democratize these insights, but really go beyond just that and democratize the how. Like, okay, great, we now know what the top quartile is seeing from a growth rate perspective or funnel conversion rate perspective, but like how did they get there? And so understanding that there was a gap in being able to really share and highlight and democratize the how and the tactics, obviously on the LinkedIn side, we're sitting on some really rich B2B insights. We decided to pull in HubSpot for startups, given their strong reach in the startup community and their role as a CRM and being able to touch what happens beyond the lead through to closed one. So we brought HubSpot for startups in to really partner together and solve the question or answer the question, like what are the top performing startups doing? The ones with the highest year over year growth, the strongest funnel conversion rates, what are they doing strategy and tactic wise? And so together with HubSpot for startups, we surveyed 250 B2B startups and then also analyze top performing startups on LinkedIn with the strongest results and pulled through these insights to really bring together and bring to life this report that highlights the median top quartile metrics like other reports you'll see in the market, but also the how, like what startups are doing to actually get their strategy and tactic wise.
+
+AJ
+
+Oh, perfect. And first of all, everyone I talked to loves benchmark reports. It's super important that when we are doing something that we can tell like, yes, are we going way off into left field or are we doing a good job or are we even like killing it, slaying it, which you can find out, especially cause your report has both the median, which you can be like, okay, are we totally off base here? And you have the top quartile to be like, are we destroying? This is great.
+
+
+Ruby
+
+Totally. Again, yeah, the top quartile and median benchmarks, both business metrics and sales and marketing metrics serve as a really nice gauge and pulse point to understand like how am I stacking up against my peers that share the same perhaps ARR bucket as me if we're looking at business metrics or like ASP if we're looking at sales and marketing metrics. And then yeah, taking it a step further, like really what I get most excited about with this report and some of the key takeaways we'll talk about today are again, what came out of us being able to cut the data and actually see what are the startups that have the highest year-over-year growth across all the ARR buckets, the strongest conversion rates through the funnel and cost per through the funnel across all the ASP buckets. What specifically is that cohort of top performing startups doing strategy wise? And even if you're exceeding the metrics that you're seeing from a benchmark standpoint, you can still then pull through these strategy insights to perhaps go far and beyond the benchmarks that you're seeing in the report as well. Or again, if you're not where you wanna be, these tactics are gonna help you get there because this is what the top performing startups are seeing work for them. So three kind of key takeaways that I'm excited to dig in more with you that came through our research. First is this fundamental shift in measurement that we're seeing, as I mentioned, everyone's talking about longer sales cycles, bigger buying committees, it takes more time and effort to win a deal. And really what came through in our research is that the top performing startups are measuring the impact of their marketing programs over a longer time horizon. And they know in order to understand the value of their efforts and really what's working best and driving the strongest ROI, they really need to extend the horizon in which they measure. That was one key insight that I'm really excited to dig more in with you on. And then the two others, number two, so what we'll see in the data, and I'm super also, I'm excited about all the insight that you can hear, but for number two, we can now finally point to the ROI of a strong executive engagement strategy. And I think historically what I've seen across our customers is that executive thought leadership has kind of been seen as this like vanity portion of their strategy. And we now actually have data to show that it's driving the strongest results through the lens of direct marketing source pipeline.
+
+And with that, we now have again, like these ROI insights that reinforce it to be a core part of your marketing strategy. And there's now an opportunity cost to not incorporating your execs into your marketing strategy. And as a startup, you'll be doing yourself a disservice if you don't. So that's one big one I'm really excited to dig more in with you on. I know, you know, having followed you for a while, you have a perspective on that too.
+
+Totally. And then the third insight or takeaway that I'm excited to dive a little bit more into today as well is how we're seeing these top performing startups reimagine their funnel. So what really came out of the research and further conversation with a lot of the thought leaders that we interviewed for this report is how we need to reimagine our funnel. I feel like we talk a lot about the funnel. The word funnel shows up all throughout this report. It's a really helpful mental model for marketers and leaders to think about, but we're all well aware that it doesn't actually work like that. And this report really started to make it clear that we need to reimagine how we talk about marketing through the stages of the B2B buyer's journey. And then, you know, beyond those three takeaways, I think this underlying buzz and theme is around, you know, tightening sales and marketing alignment, something we've been talking about for five plus, seven plus years. But we'll talk more about kind of how that pulls through and how that's an important piece to always be evaluating. But those were really the core takeaways that came out beyond, you know, why we did this. It became very clear that, again, beyond the actual metrics and benchmarks, there were some key insights that we know are gonna help startups be more successful as they go to market in this new B2B era.
+
+
+AJ
+
+Amazing. And just for all you fanatics who are listening, I'm sure you wanna check out the report. We put the link right down there in the show notes. So go open it up and read right alongside of us as we're talking about it. All right, so Ruby, obviously going through a report like this, there's going to be lots of information and maybe some outcomes where you go, yeah, duh. Like that just, it told us exactly what we already knew. Were there any of those kind of reaffirming beliefs or things that the data told you, like, yep, I already knew that and now I just know it a little bit stronger?
+
+
+Ruby
+
+Yeah, it's a great question. And for those of you that have opened up the report and are following along, in the very beginning of the report, you'll see some cuts of benchmark data. So both business metrics, again, cut by ARR bucket and then conversion rates for the funnel and lead volume and cost per so the funnel by ASP or average sales price. Again, when we pulled through this cohort of startups that had the strongest metrics, so we consider them like these top performers, we kind of found something, again, that we kind of were like, duh, like this is what we're hearing on calls, this is what we're seeing across the thousands of startups in general, but it was even more concentrated within this cohort of top performing startups, was really this shift in measuring success beyond the lead. So now about 75% or 3 fourths of the top performing startups that we surveyed shared that their North Star metric was now downstream KPIs, like sales meeting volume, opportunities, total pipeline, closed one revenue. I could even say three years ago, there were much more startups that were measuring success on lead volume and demo volume. Like, hey, we just need to bring as many demos as possible. And I think it's great that we're seeing this shift to measuring metrics that actually matter down to the bottom line and holding both marketing and sales accountable together to those higher ROI focus metrics and really taking ownership over the entire journey through to closed one. We interviewed Kacie Jenkins, who's the SVP of Sendoso, and she really validated how great this is and how she is bringing this shift within her startup, Sendoso as well. And she actually even referenced the CMO panel at Sester that recently happened a few months ago where it was a core topic where more and more marketing teams are taking ownership over the full pipeline number and they're taking it a step further by doing away with those sales versus marketing attribution battles. And I really loved how Kacie, her and I chatted after this report to again, get her perspective and any other insights we can glean. And she made the call out that she now refers to her sales team and marketing team at Sendoso as one team called the revenue team. Cool. She's completely shifted where it's less about who gets credit for what. And instead these teams are really up leveling their measurement sophistication. And again, up leveling or adjusting and enhancing the timeline and time horizons to measure what shared motions or tactics both teams are seeing the most success with, what's moving the needle, what's driving the strongest pipeline, conversions to the funnel and ROI. And so that's been like a key shift that we're seeing. And although it's like, duh, like if startups are now gonna be very ROI focused, like marketers should be measuring success beyond the lead. It was really helpful to see the data and seeing how it's now like very much table stakes. Majority of startups are reporting on this change within that top performing cohort. But I'm curious your perspective on this AJ, like I'm curious if you're seeing more marketing and sales sharing, same numbers, if there's any challenges that are coming up as a result to that. But again, I was very excited to see this validated.
+
+
+AJ
+
+Yeah, totally we've seen the same thing. Over the last 10 years of us being an agency in business dealing almost exclusively with B2B, we definitely have seen like probably the first seven years of our inception, the majority of clients were very much lead focused. Like get us conversions, get us leads. We're gonna throw them over the wall to sales and then get mad at them when they're not working the deals hard enough. Over the last three years, I've definitely seen a movement. And if I had to guess why, I think there's probably two factors. The first is that we have better technologies at our fingertips to allow us this kind of tracking. If you didn't have even your CRM tracking what your LinkedIn ads performance or any ads performance was doing, you really stuck. Like, yeah, you could go and marry those things up manually, but that takes a lot of time and effort and you may not be able to do it super often. Whereas now all of these tools, I mean, we've got factors, dream data, I can go on and on. So many of these attribution platforms that do have direct integrations right into LinkedIn's ecosystem and they also plug into other ecosystems allowing us to kind of see everything in one picture. So that's kind of like number one, we have tools. And then second of all, I think marketers we're getting better. We're getting better at using those tools and understanding. And I think B2B marketers, like we're finally stepping into this role of like, we have to be smarter and we have to be more capable and better with data than B2C marketers are in a lot of cases because we're dealing with longer sales cycles, more of an incomplete picture, larger deals, all of these things just scream to me like you need to get better at data.
+
+
+Ruby
+
+Totally, this wasn't included in depth in the report, but coming again, as I've had more conversations about the data, about these insights and what we're learning from the research we did, I did a quick look, we use Gong and I was able to see the increase in mentions of these like third party sophisticated measurement solutions. As you mentioned, like factors, AI, hockey stack, RevShur dream data. And we've seen about 300% increase in mentions, just showing exactly what you said, where we're just seeing this shift towards bringing on these more sophisticated measurement solutions to be able to really track and understand what's moving the needle as you work, more closely with sales or align the same goals as sales. And then the other piece that just more anecdotally that I've been seeing, again, sitting on all the data that we have on the B2B side at LinkedIn is we are noticing more and more startups recently hiring for like a head of measurement or head of analytics. Oftentimes that role might sit with someone that also just owns demand gen or again, it's not bucketed as its own specific scope, but I'm seeing that it is now becoming more and more common to prioritize bringing that on sooner.
+
+
+AJ
+
+Oh, I totally believe that. Yeah, the sooner we can get those insights and anyone out there, if you're considering a job or a role switch, look into data science and your brain being plugged into marketing's data and sales data could do some incredible things. I think there's gonna be a role open, at least one in every large company.
+
+
+Ruby
+
+The other really interesting reaffirming insight we saw, and this is kind of a nice segue into the first part around just, again, sales and marketing, sharing more of those downstream metrics and marketing taking more ownership over the full pipeline number versus just looking at lead volume is what we're seeing startups do with ABM. And what we found that super interesting is the top performing startups have really doubled down on aligning their targeting with sales, which again, if we're gonna share a total pipeline number, like it makes sense that we'll then optimize or think about our targeting more strategically with them as well. We all know ABM is table stakes. So like this again was another like, okay, this is what we're seeing. This just like validates what we all already know. But what I thought was like, you know, more interesting or like a step further in what we already know was that we actually looked at on the LinkedIn platform percentage of startups by stage that are leveraging an ABM list. And the most interesting data point that we saw was we looked at this in 2022, and then we looked at it again this year in 2024. And we saw that early stage startups use of ABM actually grew by 30%.
+
+So even though we all know ABM is, you know, what you should have this as a portion of your strategy, we all know, you know, it's super important to align with sales and target their, the accounts that they're prioritizing. We saw that actual shift in behavior where more and more startups earlier on are actually bringing it into their strategy. And there's a few different ways that we kind of saw that come to life. I wanna quote, there's this amazing marketing leader, her name's Betty Mok. She used to lead marketing at LinkedIn and then she moved on to Pendo I.O. and now is at Consensus. And she, when her and I were chatting through this report, she talked about this trend of like marketing deepening their focus on what she calls riding shotgun with sales. And so, you know, she described that as more and more, again, of these top performing startups are targeting all of their decision makers. They're not just targeting the, you know, job titles that might be requesting the demo or, you know, just the C-suite. If they think that that's gonna be their needle mover or influencer, they're targeting decision makers, influencers, even hidden buyers across their target accounts. And they're doing one to many, one to few, one to one, ABM tactics. And then one of the newer things we're seeing is the addition of pipeline acceleration campaigns. So more and more marketing teams are targeting open pipelines to nurture these buying committees from initial conversion all the way to closed one. And we're seeing different tactics to do so, whether that's, you know, highly targeted nurturer streams, addressing persona specific challenges or addressing, you know, an industry or segment challenge. We really now have the data from this report. And again, from like a lot of the conversations that we had with these thought leaders that buy, as Betty says, like riding shotgun with sales from, you know, initial engagement with your brand all the way to close one. Those startups are seeing shorter sales cycles and higher win rates. So again, there's this opportunity cost in this new era of B2B go to market that again, if we're not staying present throughout the entire journey and marketing kind of helping sales do so and creating that halo effect, you know, you're not gonna see as strong of funnel conversion rates and close one conversion rates. And they're not gonna, your deals aren't gonna close as quickly. But, you know, again, you've been doing this for forever. I think you can agree that ABM has been a conversation for, you know, I want to say hundreds of years.
+
+
+AJ
+
+Yeah.
+
+
+Ruby
+
+But we'd love to hear your take on this. And again, like how you've seen ABM evolve most recently.
+
+
+AJ
+
+Well, it's so interesting because with LinkedIn ads, we've been able to do all of these things. I think it was like 2017.
+
+
+Ruby
+
+Yeah.
+
+
+AJ
+
+When we got the ability to upload lists. Like we've been able to do all of this stuff. But if you had to think about every time you have access to a new audience, let me download it to a CSV. Let me go upload it to LinkedIn. Let me go create a campaign targeting this list. Like, let's be honest, we as marketers were busy and we're not always thinking about doing that. But this is a technology nod, I think. Like now because we have CRMs that are directly integrated into LinkedIn, we have products like Zapier who can create a dynamic list and keep it updated for us, push it right into LinkedIn. It takes out all of those middle steps and now marketers are actually using it because surprise, surprise, if we have to do it manually, it's probably gonna drop.
+
+
+Ruby
+
+You're totally right. It's through the test of time, we've been able to upload accounts within LinkedIn. And that's really what differentiates us as our first party data and our ability to really accurately target, obviously the right professionals at the right specific companies that you want to engage and get in front of. I think to your point, what's been so great over the last couple of years is how we've evolved in our ability to leverage, obviously like a Zapier or even like our intent partners like G2 to kind of combine your data with intent data to get even more specific around, okay, like if I have X amount of dollars, I should be allocating that to the portion of my target account list. If I can't reach 100% of it, who's most likely to convert or most likely to talk to sales or ready to talk to sales? LinkedIn on our side, we've also developed a new tab where you can actually see it's referred to as like the company's engagement report, the new like ABM companies hub where you can actually see companies with the strongest engagement with your brand to help you think about slicing and dicing your list in different ways. Maybe you want to create target account list with the sales as target accounts that have shown low engagement with your brand and you want to serve them a different message than the accounts that have already gone to your website or have engaged with you organically. So what's cool is that again, to your point, AJ, we're evolving more and more how we can get even smarter with ABM, both with LinkedIn's data and then the data of our partners, which is pretty awesome.
+
+
+AJ
+
+Oh, I'm a huge fan. Thank you.
+
+
+Ruby
+
+Well, collective thank you to LinkedIn product if they're listening. They've been very avid too and like listening to Gong calls and understanding what more we can be doing to up level what it is we bring to our startups and the broader market, which is awesome.
+
+
+AJ
+
+Oh yeah.
+
+Ruby
+
+There's one other piece I think of this that might be worth sharing in like the what was reaffirming to you. And I know I mentioned it as a takeaway, like kind of like a always on hum in the beginning, but I think something else that needs to be mentioned is just like what sales and marketing alignment means today. I think what's interesting is, since the inception of our startups team, four to five years ago, we've been talking about sales and marketing alignment and what we found in our research that again, just validated what we already knew, but it's still important to say because it's so important is the startups with the highest year over year growth, the strongest funnel conversion rates and strongest efficiencies like cost per so the funnel, they actually cited not just strong sales and marketing alignment, but actually the behavior of continuing to find new ways to improve sales and marketing alignment as one of their most effective go to market strategy enhancements that helped improve their funnel conversion rates. So I bring that up because obviously aligning your targeting with sales, thinking about sharing, how you're gonna reassess your North Star metrics with sales and measure that, but also more generally, like how can you as a startup keep up leveling your sales and marketing alignment is just so, so, so important. And I think that kind of relates to everything we just talked about and kind of where, you know, what else we'll probably talk about, but I guess the reason I bring it up is because even if you think you have amazing sales and marketing alignment, there is still always something more you can be doing. And as you learn more about, you know, what's happening with the deals in your pipeline, you know, what you're seeing work, what you're seeing, you know, you need to optimize or maybe learnings, like those are kind of the data points that you can use to improve how you align with your sales team and consistently look into that on whether it's a monthly or quarterly basis, like reassessing how you can be more effective with sales.
+
+AJ
+
+Yeah, I've always said no amount of speaking with, developing a relationship with your sales counterparts is wasted. It's kind of this analogy of sharpening the saw. So if you're trying to cut down a tree, you could take your saw out there and, you know, have hard labor, you know, crank on that tree for two hours, or you could spend 10 minutes at the beginning to sharpen your saw and then only spend 20 minutes. You've taken time away from doing what you were expecting to do to spend a little bit of time to sharpen a saw. It feels like you're going out of your way. It feels like you're wasting time, but then overall, like you've actually ended up saving over an hour. That's kind of what I think about that sales and marketing alignment conversation.
+
+
+Ruby
+
+I love that, yes. And I think you're, that's actually one of my favorite quotes. I think it's an Abraham Lincoln quote. As you were talking, I looked it up. It's Abraham Lincoln was often quoted, "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." No, it's exactly so spot on where it's like every month as a sales and marketing org, as a revenue team, you should be carving out time to sharpen your axe. And even like last week, a VC partner reached out to me and asked for the latest insights on speed to lead, because even though, you know, one of their portcoes has a speed to lead process and SLA, they wanted to identify if there's been new data to support something different, or like they looked at their top converting deals and when the reps reached out to those marketing source leads and they were able to then further optimize that. So love that metaphor or quote of sharpening the sales ax, the sales and marketing ax on a regular basis.
+
+
+AJ
+
+Totally, I need to actually attribute it to Abraham Lincoln rather than.
+
+
+Ruby
+
+No, it's your quote now, it's fine.
+
+
+AJ
+
+All right, so those were all really good to be like, okay, this is reaffirming what we already knew, but maybe were there any insights that you got out of this research and report where you were like, whoa, I wasn't expecting that at all.
+
+
+Ruby
+
+Yes, I'm so glad you asked. And, you know, I get excited about the things that were reaffirmed, but obviously I'm most excited about like what came out that was like shocking or new or, you know, at this moment of innovation where like we're all learning together how to be effective. The most shocking insight is related to executive thought leadership and how that really moves the needle at the top of the funnel or when you're creating demand within your ICP. I first though, wanna kind of take a step back and mention one reaffirming table stakes thing that is gonna build on, you know, that allows us to jump off onto the shocking insight. But what I wanna first start by saying is like, it has become table stakes. Like we know that every single top performing startup that we surveyed and we looked at their performance and their strategy, it is table stakes to deploy a full funnel strategy on LinkedIn or I shouldn't say on LinkedIn in general. And we know that full funnel strategy is really accelerate the buyer's journey. We now have data support that startups active with a full funnel strategy, see a 6X increase in conversion rates to the funnel. They actually see a 2X increase in needs or prospects readiness to talk to sales. So we did some analysis to like validate that again. There's much stronger ROI and full funnel. Even though I feel like everyone knows this and I'm curious your thoughts, AJ, on this. Like, you know, four years ago, if we had recommended, if my team had recommended to some, you know, most of our startup customers to run top of funnel, like many or ungate things, like they would have laughed in our faces. And like, you know, the portion of investment that went to bottom funnel, product focused messaging or request demo pricing, like all the things that are more demand capture, we're seeing there's like a really big shift and a shift more towards ungated up funnel kind of top of funnel content and messaging. And so we're seeing a lot of that in our marketing and strategies. And what we found in the data, and this is really the shocking kind of exciting, innovative insight is around executive thought leadership and the role that it plays in your demand creation efforts. And even in your demand capture efforts, like throughout, you know, the funnel and your entire marketing strategy and demand gen strategy. You know, again, looking at everyone's running full funnel,you know, you can say you're running full funnel, but you're mainly focused on your product or you're doing XYZ, which isn't fully full funnel. But I say that because like what matters is, you know, how can I cut through the noise and what's actually working? And what we found is that again, this cohort of startups, you know, these top performers with the strongest metrics, both business and marketing and sales metrics, they actually cited content featuring company execs or industry thought leaders and third party reports as the most impactful content type that actually moved their buyers through their journey faster. So actually accelerated them through to close on revenue. So we now have data to support that you are really doing your startup a disservice. You're missing out on revenue. If you are not putting your executives front and center in your marketing strategy and, you know, LinkedIn and what you'll see in the report, LinkedIn published research that shows now, you know, people trust people, people trust humans over brands. This came from some research we did in collaboration with Edelman. You know, it makes sense, you know, if you go back to first principles, like it just makes sense, like people trust people. And so it is now something that, you know, we as marketers, especially startups, when they're sitting on such gold, like they have a founder who obviously has a reason that they founded their startup. They have a unique perspective. They're innovating in a space that, you know, might be saturated with some of these incuments. And we need to think about how we can bring those perspectives to the forefront. And that's really what we're seeing move the needle and actually drive higher conversion rates through the funnel.
+
+
+AJ
+
+And I totally agree with that, especially the very first time I got to use a thought leader ad when they came out back in like 2023, I ran exactly the same message from the company page as from one of the executives in the company. And the difference was shocking. It was like half a percent engagement rate from the company, the exact same message from an individual. We have like a 11% engagement rate. And I immediately became a believer like, oh, same message, same audience, but they gravitate to people. If you have a face telling you something, you're gonna pay more attention than if it's a company, a brand you've never heard of before. So absolutely believer in this, especially after all of our testing we've done with thought leader ads, it's game changer.
+
+
+Ruby
+
+Totally. And just at the macro level bird's eye view across our thousands of startups, both anecdotally and we have now legitimate data now that we've had thought leadership ads available for about a year now, as you mentioned, like we're seeing growing adoption of that leadership ads, but then as you mentioned, it is so far outperforming all of our other traditional brand ad formats. We're seeing higher engagement. It's about like a 1.6 X increase on average compared to brand ads that don't come from an executive. So just as you mentioned, that's again, the average over a larger sample size. And then most importantly, on the impact on their bottom line, like we did an analysis. So we actually looked at a retargeting audience that was built surely off of thought leadership ads. So every single prospect in that retargeting audience saw thought leadership ads. And then we also had a retargeting audience that only saw other brand ads, not using thought leadership ads. So there was no executives included in any of their ads. And we saw a 45% lift in demo conversion rates from retargeting audiences that saw a thought leadership ad compared to the traditional brand ads that didn't feature execs. Wow. And we also have data that, again, many of our startup customers will ask for where they'll say, "Hey, can we see the incremental lift between thought leadership ads versus something else we're doing on the brand side so we can really prove to our executives that this is something they should be spending their time on and investing in?" And I think that leads me to, and I'm curious, AJ, what you've seen with your clients, but I would say the biggest challenge we see and hear across our startup customers is that it's really hard to get executive buy-in and get them to participate. And I think, number one, I wanna bust this big myth. It seems like one of the bigger kind of concerns is that so many execs incorrectly think that they need to commit to this robust, big, exec engagement thought leadership strategy that's gonna be this huge investment in time. And in reality, it should be very low friction. And there's so many low friction, high impact ways to meaningfully accelerate your startup's growth and funnel conversion rates by getting out there and being part of your marketing team's content strategy. Some of the things that we're seeing is the best thought leadership ads are unplanned, unmanicured, very authentic, and it's literally just an executive sharing a hot take or a perspective from maybe a customer advisory board that day, or maybe someone posted something about a challenge that their ICP is having, and they just took that and re-shared it with a couple sentences. So again, I really wanna bust this misperception that you need to have this really robust strategy. And in reality, if you can just produce one to two, again, low friction, low lift, high impact perspectives, it goes a really long way in driving results for your marketing team and helping bring in more close to end revenue.
+
+AJ
+
+Totally. We've found some situations where a brand would share like a video that they paid 20 grand and they had a studio put all these complex animations together with. And we actually got better engagement, more conversions from a 30 second clip of an executive just talking right into their phone. And it was edited with an AI tool like Descript, that's 12 bucks a month. We got better engagement, better results from that. And what that taught me is like, people wanna hear from you and it doesn't need to be a huge ask or a huge lift from your executive team to just give you a quick snippet, a little bit of thought leadership.
+
+
+Ruby
+
+Totally. I love that. That's such a great kind of data point to again reinforce how low friction, low lift this is. Something that I know my team and I will be prioritizing heading into this new year. So early, you know, calendar year 2025 is more easy best practices and tips and tricks for executives and founders in the startup space to align and incorporate executive thought leadership into their startups marketing strategies because it has such a strong impact. And there's so many things you could be doing with again, very little time, very little resources. And there's no one more well positioned to be effective here than startups. Because again, they are kind of coming into this space as innovators, they're newer, they're always innovating. They have new perspectives that they should be sharing. So super excited to lean more into helping more and more startups adopt this portion of their strategy because we now have the data to support that it really does move the needle from an ROI standpoint.
+
+
+AJ
+
+Totally, love that. All right, going through the report, there's a lot of gold here. I specifically from the advertiser perspective, I saw a lot of suggestions that are going to help us with improving the overall performance of our ads, improving conversion rates, improving ROI. I'm curious, what sort of trends and new ways of thinking does the report give us that we as advertisers can go and implement?
+
+
+Ruby
+
+
+Yeah, love this question. And you warned me that you wanted to make sure this conversation went deeper than what we had in the report and above and beyond, a lot of the insights and obviously we have the data and then we have the insights and the takeaways we can pull through. And then we have the hot takes from a lot of the thought leaders that we brought in to give us their perspective and validate what we were seeing in our research. And something that came up a lot was again, this idea of re-imagining the funnel. We use the word marketing funnel throughout the report, both in how we share our benchmarks. It's a well-known framework and mental model for marketers. So I do feel a little bit silly saying this because again, the word funnel is all over this report. But I do think in reality,we know that that's not how B2B buyers buy. And LinkedIn, our B2B Institute introduced the 95 five rule years ago. And it's really become more apparent that the top startups are re-imagining the funnel and instead thinking about their prospects through the lens of in-market versus out-of-market. And so I think more and more, we'll see kind of the word funnel disappear. And that's something that really became clear in our research, but AJ, I've been following you for a while and I know you have some thoughts on this. So I'm curious your reaction.
+
+
+AJ
+
+Yeah, I've heard several advertisers come to me, I'm active in a Reddit community on LinkedIn ads and in our own private community. And I've had several people say, how do I go in and how do I reach that 5%? Cause they're the ones I wanna go and drive business from. And I just tell them like, forget it. Don't waste your money trying to hit the 5% because you're going to waste your money across the whole 95%. Think about your audience in terms of stages of interaction and getting to know you. And this really does feel a lot like the funnel, but we give them opportunities in stage one. This is what we would consider our initial touch with an audience. We have no idea at that point if they've ever heard of us before, have had any sort of interaction. And then we re-target those interactions at stage two where that's a little warmer. And then again, at a stage three. And what we find is even if you have the same calls to action all the way through all of those three stages, what you start to see is in stage three, conversion rates are five times higher than they are in stage two. And it teaches me that yes, there are 5% of your audience who are currently in market. Awesome. Do whatever you can to get in front of them for sure, but don't make your entire marketing program be about that. Instead, build an entire, I call it my lead generating machine. Build a whole ecosystem around your audience so that you can take those that are cold audiences and eventually warm them, educate them, nurture them until they are ready to respond at a high rate when you finally say, okay, you look ready, let's have you talk to sales.
+
+
+Ruby
+
+Totally. It's so spot on and super helpful to hear like specifically how you think about it. And like the real data points that validate that's the right approach and the way we should all be thinking about it. My brain goes to this, the Google Zero Moment of Truth study. And there's also a Forrester report that I recently read. So this is not, again, a groundbreaking stat, everyone knows it, but it's around like, I think three fourths of B2B buyers choose a vendor that's first to help them with useful content. So we know that it is so important to be there first, before your buyer is in market, because if you're not, again, if we know that 74% of these B2B buyers are actually selecting the vendor that is helping them in the beginning with before they're in market, before they're ready, helping them educate them on potentially a problem that they may not be aware of. And again, being present when it matters most, like what really matters, and Kacie from Sandoso said this too, like her focus is how they can get on as many of their prospects day one vendor list as possible. Because again, to your point, if you're also just gonna be focused on that 5% of buyers that are in market, they already have top of mind, likely who they wanna go with. And so you're already too late and you're reducing that 5% by 75%, because 75% of them already know based on who they engage with in the beginning.
+
+
+AJ
+
+Exactly.
+
+
+Ruby
+
+Yeah, love that, we saw it in the data, we saw it in our conversations with all the thought leaders and it's super helpful to hear how you advise your customers, because that's totally how we should, or clients, because that's really how we should be thinking about it.
+
+
+AJ
+
+Oh yeah, if you just show up right there at that last stage, more than likely they're just gonna say, "Ah, we've already done our research, "we don't have room for one more applicant to consider," and they just blow right past you.
+
+
+Ruby
+
+Maybe they'll take the call with sales because they wanna make sure that they've done their due diligence across all the vendors, but you're still wasting, in a way, your sales team's time by not being present in the beginning, because again, they're less likely to go with you, and they likely also took that demo. Maybe there's something there in us doing some sort of calculation of lost time spent, or sales time spent on leads that didn't have that specific vendor on their consideration list, but they're still taking that call to check the box and make sure that they feel good about day one vendor they decide to go with.
+
+
+AJ
+
+That would be super cool research, I would love to see that.
+
+
+Ruby
+
+Okay, I would say there's one other innovative kind of trend or new way of thinking, and it kind of goes back to what we were talking about at the beginning of this conversation that you brought up just around measurement sophistication and where we're seeing our startups go. So I kind of noticed in what became really clear in our research, as well as the conversations we've had with the thought leaders that we featured in our research is really just around measurement. So both top performing startups mindset around measurement and then also how they're approaching measurement. So on the mindset piece, it became really clear from again, our research and our conversations that the top performing startups understand and get their executives and board on the same page that it's not possible to measure everything. And single touch attribution is completely misleading.
+
+Although it's more comfortable to think that we can measure everything, I think getting to a place where everyone can agree that it's inherently impossible and it also just doesn't make sense based on the way B2B buyers buy and they're buying behavior. Even if you looked at like there's so many great insights that came out of hockey stack and factors AI come to mind specifically around someone that converts obviously maybe they're doing some research or maybe they're not doing research yet. They're obviously like scrolling LinkedIn, looking for information to make them more productive and successful. They might see some helpful pieces of content that gets them to a place where they're ready to actually do some research. Maybe they go to Google, search for different things. And then you ask them, they eventually convert on a form. You ask them, how did you hear about us? And your attribution tool is telling you they came from Google, but they're telling you that they heard about you from someone somewhere very different. Kacie, also I'm quoting her a lot because she's amazing. She should come onto this podcast as well. Yes.
+
+She can be part two, but she talks about how she was able to get her leadership and boards buy in on like rethinking measurement as a whole. Because if you actually just looked at your top performing channel, it would be website traffic. And she's like, that tells me nothing.
+
+And so again, it's step one in us all, or I should say like the top performing startups, just like rethinking and understanding and getting comfortable with the uncomfortable in adopting this mindset that it's not possible to measure everything. And we have to move away from just single touch attribution. And then that second piece is again, moving away from single touch attribution is like what I would call the umbrella of like approach. Okay, now that we know that the B2B buyer journey has gotten longer, it's more complex, we can't track everything. How can we at least up level the approach to measurement to at least feel really good about where we're seeing different tactics move the needle? Obviously, these different tactics work together. How can we understand incrementality? All the different pieces across multi-touch, across incrementality, across channel influence, measuring over longer time horizons, to at least get a sense of what's moving the needle and driving the strongest pipeline through the funnel and ultimately driving ROI. I was joking with somebody the other day, I know everyone's saying it's like the AI gold rush and I'm like, forget the AI gold rush, it is the measurement gold rush. And I feel like right now is this like key moment where we're watching startups, again, like up level and think through how they evolve their approach to measurement.
+
+Curious what you're seeing here too. I know that was a lot. So curious what you're seeing here too and your familiarity with kind of these different changes in mindset and approach.
+
+
+AJ
+
+Yeah, I think five years ago, clients would come to us and they would go, LinkedIn is not profitable in and of itself. Let's say it's 80% profitable. And they'd say, let's go to a channel that is profitable. And now I look at it and go, wow, if any channel with direct attribution, if you can tell that you're within 20% and that might even be low, there are synergies with all your other channels that you can't measure, you won't know the impact until someone tells you down the road, like in the middle of closing a deal, someone goes, oh, by the way, I heard you on, I saw your ad on LinkedIn and you're like, oh, had no ID, you were sourced from LinkedIn. Your UTM showed us as you coming direct or from Google or something. So I love that. I think we need to realize that our measuring, our tracking, no matter how hard we try, it's always gonna be imperfect. And if it's, I always just assume it's probably 20% at least better than what it looks like.
+
+
+Ruby
+
+Totally.
+
+
+AJ
+
+Ruby, thank you so much for coming on and sharing the report with us. I hope everyone is opening it up right now and you're gonna go scour it. This is fantastic. First of all, I'll just ask you, I know as an employee of LinkedIn, you probably have to tell people like, come follow me, but what would you like us to do? How can we best help you and follow you and all that?
+
+
+Ruby
+
+Yes, well, even if I wasn't an employee of LinkedIn, I actually don't have any other social media. So I'm a big LinkedIn fan across the board, no matter what. It's just given me the most useful insights and information and allowed me to connect with a lot of our customers and the segment and community in general. So please follow me, connect with me on LinkedIn. We'll definitely be sharing more rich insights as we head into the new year in January, kind of continuing on from like some of these key takeaways that we saw to share even more best practices. And if you have any thoughts, perspectives, feedback, I would love to hear from you on the report, what we could help you continue to solve or answer. Please reach out to me on LinkedIn.
+
+
+AJ
+
+Perfect, thanks so much Ruby, we appreciate it. We'd love to have you back for round two on your next awesome report that you'll publish. Thanks again.
+
+
+Ruby
+
+Thank you so much for having me AJ. You have such great perspective and insights across all the clients you work with. So it was really valuable to hear your perspective as well on some of the data that we were able to bring to life through this report, so thank you.
+
+
+AJ
+
+Oh, you are most welcome.
+
+
+Ruby
+
+Bye.
+
+
+All right, I hope you love this conversation as much as I did. Now, if you want to become a LinkedIn Ads top one percenter, you definitely can. And the best tools in your tool belt are you gonna be found in the LinkedIn Ads Fanatics community. For a low monthly membership, you get access to all of the top minds in LinkedIn Ads plus all four of our courses that take you from LinkedIn Ads Zero to LinkedIn Ads Hero. Plus there's even an upgrade to get on weekly group calls with me so I can give you direct feedback on your campaigns. If that sounds interesting to you, go check out fanatics.b2linked.com. Now, if this is your first time listening to the podcast, welcome, we're so excited to have you here. Make sure to hit that subscribe button if you wanna hear more LinkedIn Ads related content in your ears every week. Now, if you are a loyal listener of the show, you've been listening for a while, please do me the great honor of going to Apple Podcasts and leave a review right there. And tell anyone else about the show who you know is a LinkedIn Ads Fanatic. With any questions, suggestions, or corrections for the show, reach out to us at podcast@b2linked.com. With that being said, we'll see you back here next week and I'm cheering you on in your LinkedIn Ads initiative.
+
+transcript 4= 
+LinkedIn made a big push this year to tell advertisers not to pause their ads over the holidays, suggesting lower costs. Was it true? I'm sharing the results of $185,000 of holiday ad spend on this week's episode of the LinkedIn Ads Show.
+
+
+Welcome to the LinkedIn Ads Show. Here's your host, AJ Wilcox.
+
+‍
+Hey, hey, hey there LinkedIn Ads fanatics. As he said, I'm AJ Wilcox. I'm the host of the weekly podcast, the LinkedIn Ads Show. I'm thrilled to welcome you to the show for advanced B2B marketers who are trying to evolve and master their LinkedIn Ads craft and achieve true pro status. I hope you all had wonderful holidays. If you celebrated, I hope you had a blessed, peaceful Christmas. And happy new year. I wish to all of you that you only accidentally write 24 on your dates only three times instead of for two months like I usually do.
+
+
+All right. So question for you. Did you run your LinkedIn Ads over the holidays or did you pause them? Lots of the advertisers I spoke to planned on pausing them, but I kept getting messages from LinkedIn reps practically begging us not to pause. So I compiled the performance results for many different ads accounts and over $185,000 in spend. And I'm walking you through my recommendations of whether you should pause over the holidays or listen to LinkedIn and leave them unpause to get better performance.
+
+
+The LinkedIn Ads Show is proudly brought to you by B2LINKED.com. The LinkedIn Ads experts.
+
+B2LINKED is the ad agency, 100% dedicated to LinkedIn ads. And we have been since 2014, you know, back before it was cool. We build a custom strategy for every account we work with. You get to work directly with me and my local team. So you're never going to get someone who's not a LinkedIn ads expert. You won't get a cookie cutter approach or a standard account template from us. Plus with the strategies we've developed in our mastery of the platform, we always save our clients more than we charge. So it's kind of like getting the best in the biz for free. If you'd like to explore partnering with us for your LinkedIn ads management, schedule your free discovery call at B2LINKED.com slash discovery. All right. First of all, do you have a question that you want us to answer? Do you want to review the show, which I absolutely appreciate? Or do you have any feedback for what we've talked about in previous episodes? You can message me on LinkedIn or email us at podcast at B2LINKED.com. And if you send a link to a voice recording from you, I'll get to play them right here on the show. I love to shout you out.
+
+
+All right, without further ado, let's get to the topic at hand. Let's hit it. You may have gotten these two. I got a ton of emails from LinkedIn reps. They were saying something along the lines of, Hey, for the month of December, don't pause your ads because lots of B2B businesses pause their campaigns leading to less clutter in the ad space, which leads to lower costs per click for you and more visibility for your brand. And then they went on to talk about lots of other benefits to not pausing over the holidays. I totally see why LinkedIn would do this. They don't want us to pause our ads because they make less money. And so they want to convince us that we should keep our ads running over the holidays. When I've done deep data analysis about this in the past, I haven't found there to actually be better performance over the holidays. So I wanted to test this again this year. So here's my methodology for how I tested this. I collected all of the ad accounts that we manage that I knew didn't make any major changes across the holidays. So that way I could rule out any sort of human intervention or changes in the account. I pulled the data for all of these accounts by day, all the way from November 1st through January 2nd. Now the vast majority of the spend in these accounts was targeting North America, which is LinkedIn's most competitive market. So that means we should have seen swings due to the holidays much more clearly. The total spend of the accounts, like I mentioned in the intro was over $185,000 over this period. So it's not a small sample size. I looked at the performance on each of the major US holidays that was Thanksgiving, Christmas, and New Year's. But I also compared the performance on the day before the holiday and then the day immediately after the holiday. And then just for fun, I also compared the metrics of the period in between Christmas and New Year's just to see if there was that whole week period where things may have lifted or fallen. This is a time where many people in the US take time off, LinkedIn employees included. So I thought this would be a really interesting look. I then compared all of those days specifically in their performance with the normal averages from November 1st until the holiday period started. And that became our baseline for what we judge all of the other metrics by. I broke the performance out by ad format and objective. Those seem to be the most interesting and the most telling. And I also calculated a bunch of custom metrics that I use to evaluate performance. For instance, instead of looking at just the normal click-through rate metric, I actually calculate a variant that I call link click-through rate. It's the combination of clicks to the landing page plus sponsored messaging clicks plus lead form opens. And I divide that by the impressions. This allows me to calculate the propensity of someone to click to a position where they can now convert. And this is the same metric across all different ad formats and all objectives. So I can use the same definition of a metric across everything. It's really cool. I also use the same definition of a link click to calculate a cost per link click. I find that to be a much more accurate measure across objectives for how much did I have to pay to put someone into a position where they can now convert. Now I found the most variants and the most interesting things by breaking them out by ad format.
+
+
+Now, for those of you who are watching on YouTube, you will see my eyes look over to reference specific metrics and I won't be making eye contact with you the whole time. That's because I actually want to share with you the real metrics. All right, here we go. Single image ads. What we noticed is that engagement rates dropped across the board over the holidays. The baseline engagement rate was 0.87% and then all of the holidays, the before, during, after, and the between holidays, they were all significantly lower. They were between about 0.75 to 0.8%. So significantly less of an engagement rate, which definitely tells me that people during the holidays are less engaged. I also looked at link click through rate here because yes, they were engaging with ads less, but what if they were more likely to click on something that could then put them in a position to convert. And this kind of surprised me. Link click through rates only slightly. They did increase during our holiday times. Our average normal was 0.34% on a link click through rate basis, where in the holiday periods, that means the before, during, the day after each of these holidays, as well as the time between Christmas and new year's we saw 0.35 to 0.36. So not a huge rise, but it was a rise nonetheless. Now what about calculating this cost per link click? Because if what LinkedIn is saying is real that fewer people are running ads, so we should see costs drop, that should affect our cost per link click. And we do see this to a very small degree. The average cost per link click in the dataset was $8.70. And then we saw on the holiday, we were getting an average of $8.55. So about 15 cents less, maybe nothing to write home about, but it is a drop. The day after the holiday though, dropped down to $8.29. What was so interesting was the day before the holidays had a significantly higher cost per link click. We're averaging $10.88 over the $8.70 average. What about CPMs? We actually found that CPMs were slightly higher over the holidays than normal, but it really was just slightly. The average CPM that we were tracking was just about $30. And then we saw the holiday and the day after dropping to a little under $30. Again, the day before the holiday was more expensive though. They were averaging $36 CPM. All right. So all of those engagement metrics are one thing, but if we care about conversions, tell me about that. Well, conversion rates were lower across all the holidays that all led to higher costs per lead, especially during that break between Christmas and new year's. Now my cost per lead metric, this is costs divided by click conversions as well as leads. So it combines if you're driving conversions from the website or leads through LinkedIn lead gen forms. So our average cost per lead was about $139. The day before the holiday and on the holiday, we were averaging 199. So it really spiked higher costs per lead there. The day after the holiday dropped down to 156, which is still significantly over our normal of 139. All right. So here's my recommendation for next year. When you hear your reps saying what you should and shouldn't do, remember that engagement was down costs were up and conversions cost more across the whole board. So for single image ads specifically, I would scale way back on those or pause entirely. I just didn't see great performance from those.
+
+
+All right. Next is conversation ads. When we look at the metric of open rate, that shows us how members are engaging with their messages. It shows us that they're in there when they hit open, we know they are engaging even if it is just to mark a message as red. We see low open rates on the holiday itself and then much higher open rates during the break between Christmas and new year's. This totally makes sense to me. It signals that people were logging in and they were receiving these messages on the holidays, but they weren't actually opening them until after and during the break. For example, our normal open rate here across the dataset was around 41%. On holidays, it was about 31%. So quite a bit lower. But then if we look at the period between Christmas and new year's, we see a 46.9% open rate. Definitely people catching up. I also looked at this cost per link click metric we see on the holiday itself. Cost per link click was significantly higher. It was almost $30 when normal is about 21. Then because we had so many opens between Christmas and new year's in the period that I'll call the break that cost per link click drop down to $17. So about $5 less than average universally across the board. Conversion rates were lower during the holidays. Normal average conversion rate here across the dataset is about 24%. It was averaging during the holidays of about 21%. It did spike a little bit during the break. It spiked up to 25%. Now, if I had to guess, I would say that during the break is when people are having a lot fewer emails come in. They're able to think a little bit more. They're not quite as busy. And that's when they're opening and converting on some of those conversation ads. So my recommendation next year, go ahead and pause sponsored messaging on the day of the holiday, but then turn right back on immediately after. Next are thought leader ads. Thought leader ads are so interesting because it tells us a lot about how members are interacting with their newsfeed during the holiday. We see engagement rates are higher than average before and during the holiday, but actually dropped the day after. But those are engagement rates. When we look at link click through rates, which is usually what I'm most interested in. If you have a thought leader ad that will drive to some sort of a link or a landing page, our link click through rate was about 0.18%. The day before the holiday, it was 0.4. So it was over double on the holiday itself, still higher than normal. And then the day after it drops down to 0.12%. The break in between was about 0.3%. So still almost double the average. I'm not quite sure over holidays why we'd see engagement rates drop, but link click through rates increase. Not totally sure, but I'd love to hear your ideas on that. Now, normal CPMs on thought leader ads were about $31. The day before holidays, they spiked up to $38. But then on the day of the holiday and the day after they dropped a little bit from average. Strangely enough, during the break, CPMs were about $5 higher than they were on average. So based off of those findings, my recommendation next year is go ahead and pause your thought leader ads on the holiday itself, but keep active before and after. All right, now how about video consumption on holidays? Are you running video ads? I love them. This one actually really surprised me. View rates for video ads were universally depressed compared to the average. The average is about 23% view rates, but then during the holidays, either before and after, they were hovered between about 16 to 19%. So definitely seems like fewer people are willing to actually start engaging with video content. I tracked a cost per 25% view metric, a cost per 50%, cost per 75% and cost per completion. And what we noticed is that cost per 25% view, 50% and 75% were all lower than the average. So this is kind of cool. For example, here cost per 25% video view hovered around 31% on average, but it jumped between about 0.12 and 0.29 during the holidays. Cost per completion was only higher on the holiday itself and the rest of the holidays, it was lower than the average. So having lower video view rates, but also lower costs signals to me a drop in competition, just like LinkedIn says, we're getting slightly better video costing here because other advertisers are pausing their ads. And even though there are fewer people to see the ads, it all lowers down and costs us less. Video completion rate was a really interesting metric here because they are higher across the board than average, meaning fewer people are starting to watch the videos, but the ones who do, they end up watching longer. This is really encouraging for video content. To put some numbers here, the average video completion rate was 3.4%. And then the day before the holiday, 5.3, the day of the holiday, 4.7 and the day after 5.2. Then that break in between, we're at 5.6. So crazy high video completion rates. That's really interesting. So my recommendation for next year, keep running video ads during the holidays. Doesn't seem like you can go wrong. For all of these metrics, I combined the holidays, but we have to ask ourselves which holiday actually wins here. So I pulled each holiday out individually to analyze it. Interestingly enough, Thanksgiving has the highest ad engagement rates and the lowest cost per engagement. I don't know what to credit that to, except maybe if we're advertising to the entire North American continent, the Canadian audience, though smaller, if they're not actually celebrating Thanksgiving, then maybe we'd see engagement rates that didn't fall as much. New Year's Day had the highest video view rate and the very best consumption metrics for video. So I think people were sitting back on New Year's Day as they were lounging around and watching video content. Works for me. Thanksgiving had the best link click through rate, but New Year's had the lowest cost per link click. Thanksgiving won the award for having the lowest cost per conversion. Now Christmas didn't have the best metrics for anything, but I'm going to give it an award for my favorite holiday simply because of how much I love Jesus.
+
+So as for takeaways, would I advertise over the holidays with my own money? No, I probably wouldn't. I would keep video ads running and in fact I'd still go video thought leader ads. I think they're still going to perform really well, but pretty much the rest of the metrics across the board weren't impressive to me. I wouldn't go out of my way to advertise on those days. Now one major caveat here is that all of these accounts, because they are under our management, we are bidding really carefully for the majority of these were bidding manual CPC, which means if there were major spikes in CPMs and CPCs, we wouldn't see it. We would just see less volume. So it is totally possible that some of you saw costs super spike, especially when those engagement rates dropped and it's because you're bidding by maximum delivery, which I get it's LinkedIn's default. So you might just select it thinking that that's going to be the best thing, but if you did see your costs spike, remember, go check out episode 89 of the podcast where we talk about bidding strategies. A manual CPC bid is going to get you the lowest costs 90% of the time. I would love to hear how your ads performed over the holidays or even just a simple note saying we didn't take the bait. We paused all our ads. If so, good for you.
+
+
+Now, if you're not already a member of the LinkedIn ads fanatics community, what are you waiting for? You've got to get in there for a low monthly subscription cost. You get access to all four of our courses that are designed to take you from LinkedIn ads, beginner to LinkedIn ads, one percenter. Plus you get access to the community where all of us top minds in LinkedIn ads. We're sharing what we know and what we're learning and we want to take you along on that ride. There's even an upgrade option to hop on a weekly group calls with me along with the rest of the LinkedIn ads super fanatics. So check that out at fanatics.b2linked.com. If this is your first time listening, welcome. We're excited to have you here. Hit that subscribe button so you don't miss the episode next week. And the very best compliment you can pay me is to go over onto Apple podcasts and rate and review the show. You can give us up to a five star rating. I would love the five, but you can also be honest. Check that out. Now with any questions, suggestions, or sometimes I need it corrections, reach out to us at podcast@b2linked.com. With that being said, we'll see you back here next week. And as always, I'm cheering you on in your LinkedIn ads initiative.

@@ -1,0 +1,16 @@
+# Ignore Python caches and compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+faiss-env/
+env/
+venv/
+
+# Ignore local data and secrets
+.env
+chat_log.json
+transcript_faiss_index/
+
+# Ignore macOS system files
+.DS_Store
