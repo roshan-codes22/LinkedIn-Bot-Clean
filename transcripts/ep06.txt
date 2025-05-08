@@ -1,0 +1,66 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads Bidding &amp; Budgeting for the Best Performance
+AJ Wilcox
+March 10, 2020
+•
+Welcome to the LinkedIn Ads Show.
+Resources for this week:
+Budget tracking software:
+ 
+shape.io
+ and 
+adstage.io
+Chart of how LinkedIn bidding works:
+ 
+https://www.dropbox.com/s/co4fxjg04uy1d67/Economics%20of%20LinkedIn%20Ads%20Bidding%20Slide.pdf?dl=0
+Join 
+the LinkedIn Ads Fanatics community
+ for access to all our courses
+Contact us
+ at Podcast@B2Linked.com with ideas for what you’d like AJ to cover.
+ 
+Transcript:
+This episode breaks down how to optimize your 
+bidding and budgeting strategy on LinkedIn Ads
+ to maximize performance. It explains when to use 
+CPC, CPM, auto bidding
+, or specialized formats like 
+CPV and CPS
+, depending on your goals and ad type. A key tip: 
+start with CPC
+, and once your 
+click-through rate is 2.5x the average
+, switch to CPM for better cost efficiency. You’ll also learn why the 
+“Awareness” objective isn’t worth it
+, and how to test bidding options for video campaigns to lower your effective cost per result.
+You’ll also discover how to manage your 
+daily budget like a pro
+. Budgets act as 
+safety nets, not performance levers
+—so if you’re hitting your cap early, you’re likely bidding too high. Learn how to track flat spend patterns using 
+performance charts
+, and forecast your ad spend with tools like 
+shape.io, adstage.io
+, or even 
+Google Sheets
+. Whether you’re starting small or scaling fast, these strategies will help you make every dollar count.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

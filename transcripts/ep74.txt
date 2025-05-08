@@ -1,0 +1,202 @@
+AJ Wilcox 0:00
+The LinkedIn Collective, it’s a new community that you need to be part of. Here to introduce it as a friend of mine at LinkedIn, Alex Rynne, on this week’s episode of the LinkedIn Ads Show.
+
+Speaker 4 0:15
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+AJ Wilcox 0:24
+Hey there LinkedIn Ads fanatics! I’m excited to share this interview with you. Alex Rynne from LinkedIn came onto the show to talk about what she’s working on, and what she’s building inside of LinkedIn’s marketing solutions. She has been so instrumental for so many years creating content to help us marketers there internally. And we’re going to cover this new community that she’s working on, the LinkedIn Collective, as well as insights that she has from internal about which B2B brands are doing the best job of creativity, which I get asked about a lot, as well as tons of insights into LinkedIn’s platform growth. So without further ado, let’s jump into the interview.
+
+AJ Wilcox 1:00
+I’m so excited to have Alex Rynne here on the show. Alex is a senior Content Marketing Manager at LinkedIn. I think Alex, you and I go way back. We’ve gotten to hang out a couple times in San Francisco back when that was a thing, hanging out in person. And I’ve loved watching your progression there in LinkedIn. I don’t know what the structure there looks like for evangelist, but I would call you like the LinkedIn Marketing Solutions Evangelist if I got to give you a title. But, welcome so much to the show. Thanks so much for being on and great to have you here.
+
+Alex Rynne 1:29
+Thank you so much, AJ, appreciate you having me on. And I appreciate the evangelist title. I’m going to put that on my next review.
+
+AJ Wilcox 1:37
+You definitely should.
+
+Alex Rynne 1:39
+So yeah, I’ve been with LinkedIn for eight years now, all on marketing solutions the entire time. So I’ve been creating content for marketers, who are reading marketers, B2B marketers, of how best to use our products. And we started create, like back in the Jason Miller days when we were creating content around how to market on LinkedIn. And these books had never been created before ebooks. These are the days of like 100 page ebooks. We don’t do that anymore, because no one has time to sit down and read any book that long. But anyway, my career path has kind of grown in a way that now I’m creating a lot of thought leadership content. So we’re at top of the funnel unless it like the super tactical stuff.
+
+AJ Wilcox 2:20
+Oh, that’s socool. I love that being your role of being your focus. I do remember the old Jason Miller days where it was create one giant pillar of content. And it was great. I loved downloading those reports. But I have to imagine the 1000s of dollars that went into creating each of those reports.
+
+Alex Rynne 2:34
+Oh, think about the the lowly editor me having to edit through all of those hundreds of pages. That’s who you should really be thinking about. Those were really good days, his whole like big rock concept of creating one really large piece of content and picking off little pieces and keeping the drumbeat going, which is still something that we use in part today.
+
+AJ Wilcox 2:53
+Do you still think there’s a lot of value in that strategy, but maybe not the same way that the editor has to go through and edit 70 pages of the content?
+
+Alex Rynne 3:01
+Yeah, there’s definitely still value in that concept today. It’s something that we do right now. Because if you put out one piece of content, you kind of naive to think that your entire audience has seen it like you should be spending, you know, like 20% of your time creating content, 80% of your time distributing content, because if no one sees it, then what’s the point? So yeah, I do think there’s a lot of value in picking what like category entry points you want to own as a brand. And then keeping the drumbeat going on those and trying not to like over saturate on one topic in particular.
+
+AJ Wilcox 3:32
+Yeah, makes perfect sense. So when we were talking before about an episode, you told me about something really cool that you’re working on right now the LinkedIn Collective? First of all, I’d love to know what the LinkedIn Collective is how US B2B marketers, or how any marketer is going to get value out of it. And I’d love to hear the backstory. I don’t want to overload you with too many questions, but love to hear the backstory of how it all came about, and what the overall vision for it is. So tell us all about your baby here. That’s so amazing.
+
+Alex Rynne 3:57
+Absolutely. Thanks for asking. Yeah, the LinkedIn Collective is a brand new community for marketers, B2B marketers specifically, because we figured it’s about time that we had a place of our own. And we also feel like B2B is really having a moment. And we saw firsthand at Cannes Lions back in June, when we celebrated the first ever creative B2B lions that were just we’re having a renaissance. And we’re in the middle of redefining what B2B marketing should look like. And with 82% of B2B marketers, globally, believing that creative confidence is growing, we feel like this is only the beginning. So the point of it is really to amplify the voices of B2B marketers, and rally behind their thought leadership. That’s really the driving force behind it.
+
+AJ Wilcox 4:42
+And I think this is so important, because I’m assuming you feel the same way. I kind of grew up in digital marketing in the days of Google ads, where Google just couldn’t give two craps honestly about B2B Because it wasn’t as keyword driven. They catered more to B2C, and then Facebook came in and did exactly the same thing. It was like oh, B2C works really well. here. And so B2B marketers, not only did we not get tools or platforms catering to us, but we got ignored. We weren’t shared often like, tips, tricks, strategies, we had to figure it out ourselves. We were kind of thrown to the wolves.
+
+Alex Rynne 5:12
+Exactly. And you kind of still see that a list or B2C stuff B list or B2B stuff. And what I mean by that is, it’s like, what can we learn from B2C? And that’s all great, but I think what we’re doing with the collective is like, what can we learn from the best in B2B? How can we like push and evolve the category further instead of focusing on the A listers and less believing we are the B listers, because we’re not.
+
+AJ Wilcox 5:36
+You know, in fact, I’ve always been a fan of B2B because we have the large deal sizes. Yeah, when we’re good at our job, people make millions when B2C marketers are good at their jobs, lots of times they’re making hundreds or 1000s. I’m really proud of B2B marketers. I think we’ve stepped it up. Yeah, communities like yours are going to help us step up even more.
+
+Alex Rynne 5:55
+Exactly, yeah, the first campaign that came out of the new content franchise, I guess, I’ll call it is around creativity and B2B. Obviously, we had a lot of synergy happening within the company with our first ever B2B creative and B2B award. And one of the things we found is that most B2B businesses are overly focused on performance marketing, ie lead generation, resulting in the deprioritization of creative advertising, which is not shocking. And nearly 80% of B2B marketing budgets are spent on performance marketing or lead generation. But kind of what I’m seeing is the issue with that is that we’re deprioritizing human marketing. And we’re not prioritizing creativity, which we found that brands with higher emotional engagement, on average acquired like 198x more followers compared to the rest of companies. And we also found that emotion really impacts the lower funnel. So like top emotional brands had up to 44% higher average click through rate compared to the rest of the companies on LinkedIn. So creativity is really important. Emotion is really important. And so one of the things that we’re going to really drive home in our next topic around measurement is that brand is really the new performance marketing, especially when we’re in the middle of an economic downturn, you should be doubling down on your brand. I feel like most brands, they don’t think about the long term growth that you’re gonna see with brand marketing, they just want to release all of them. And it’s the bottom of the funnel, it’s like a worry tactic, rather than a tactic that’s going to help them grow their brand over time. Another thing that you can do in the middle of a recession is like releveraging old creative, and then using that extra money that you would have spent on new creative, releveraging old creative that was successful, and then using that money to distribute.
+
+AJ Wilcox 7:43
+Oh, I love that as a tactic. Not necessarily cannibalize, but go back and get more use out of what you’ve already created in the past.
+
+Alex Rynne 7:50
+Absolutely. I think a lot of brands think that they have to continually recreate and renew, but not necessarily. I mean, we go back and update a lot of our like, greatest hits, as we call them all the time. And we’ve just like, update them with more relevant data, or maybe like, put a new like photo on it or something. But you don’t even have to do that you can just like reuse the stuff that was working before. I did want to talk about some things that we found that advertising characteristics that work better in economic downturn. So things that we found that perform slightly better are ads using established brand characters or campaign scenarios, ads showing human connection. And between this or exhibiting some kind of self awareness, or ads with a connection to a place or community and ad set in the past. So kind of like that nostalgia. And then there were certain tactics or characteristics of advertising that perform slightly well and like a point of crisis or recession. And that’s hard sell ads directly focusing on price and promotions. Like I was talking about before, dumping all your budget in lead gen when you really need to be building your brand and building your trust and your goodwill with your customer base. Other things that didn’t perform super well, ads focusing on things over people, ads that are highly rhythmic ads that are reliant on on screen words and ads that indulge in vanity. So not like me, those are shocking, but just like things to keep in mind, especially when people are feeling ultra sensitive about their lives about their wallets, just to keep in mind,
+
+AJ Wilcox 9:22
+Ooh, do you have a definition for rhythmic? Like, what’s an example of a campaign that would feel rhythmic.
+
+Alex Rynne 9:27
+I think like something that’s super repetitive, but it doesn’t really have much substance. It’s a little bit like in your face.
+
+AJ Wilcox 9:34
+So we’ve seen clients even when recently, where they have very established brand guidelines for how they want their creative to look. And what that means is every time a new asset comes out or we refresh ads, they still look pretty similar. And we’re noticing click through rates dropping over time and our hypothesis and this is why I’m asking you about rhythmic. Our hypothesis is that like, even though they technically look different, and it’s a new ad set, like a lot of people might be looking at it and getting a view and going, oh, I’ve already seen that before, because it’s a visual trigger. But I could also see saying the same thing over and over or just saturating. It’s not working very well.
+
+Alex Rynne 10:11
+Yeah, I think there’s a lot of different ways that you can kind of like reskin something, but you’re right, if someone’s just seeing the same graphic, again, associated with like, some infographic that you’re continually updating, they might just do like a quick glance in the feed and be like, oh, I already saw that. So I think reinvesting what you have is good. But yes, sometimes you do have to make like slight changes.
+
+AJ Wilcox 10:33
+Beautiful. Okay, so you gave us some characteristics of things that do work well, during a recession, and then some things to avoid anything else you want to share with us, as we’re preparing for a potential recession here, that is going to impact B2B marketers?
+
+Alex Rynne 10:47
+Yeah, I would say, don’t sleep on organic. I think a lot of marketers think that it’s like, brand versus demand. And it’s not, it’s an integrated strategy that’s going to produce healthier results for you. So it’s about like how you employ brand and demand marketing at different times within your growth strategy. So for example, we found that organic audiences are super ripe to be converted to paid media, that actually page followers exposed organic and paid were 61% more likely to convert towards a paid action, compared to those only exposed to paid media. So like, super interesting, because the organic is still very, very important. It’s part of that like relationship building before they see the paid media. And then we also found that an integrated strategy encourages conversation. So an organic and paid strategy, we found can lift conversions by 14%, compared to a paid only strategy. And then finally, it also can reduce your cost per conversion, because unlike a paid only strategy, members were exposed to organic and PPE that can be converted at up to a 12% lower cost per conversion. So this was all research that we did last year when we made a whole campaign around like connecting your brand to demand and examples of good brands to demand. So yeah, anyway, I would say just don’t sleep on organic. And I also would say, beware of measuring too quickly. Like I think, as B2B marketers, we fall into a trap of measuring a campaign over just after one month to like, see if we need to turn it off. Or if we need to change things, or whatever. And a sales cycle in B2B is like six months. So not many B2B marketers are measuring after a month, which means that we’re really missing out on getting statistically significant data around like what our customer base is interacting with. And then maybe like reporting up to the CFO, that we’re not seeing any lead gen from our ads, and then you turn them off on LinkedIn, you know what I mean? So I think just being really cautious about not measuring too quickly before you make any huge changes,
+
+AJ Wilcox 13:01
+We’ve definitely seen that because we track everything all the way down through the sales funnel with our clients. And we had one where leads looked okay, cost per lead was okay, at the top end. But we had another offer that was way outperforming it. So we just kind of paused all those ads and kept moving. And we came back four or five months later. And all of a sudden we start seeing oh, those old campaigns now that they’ve matured a little bit, they had a really low cost per SQL. Maybe even a closed deal or two, we’re going oh, okay, there was some gold back there, you have to revive it. So it’s true, you really can miss stuff if you cut it off too early.
+
+Alex Rynne 13:38
+Yeah, if you’re following the wrong metrics, you could just go down a rabbit hole, that’s not good for your brand.
+
+AJ Wilcox 13:44
+So true. I also really love what you said about don’t sleep on organic, especially on a platform like LinkedIn where organic is so incredibly powerful. There isn’t that kind of reach on the other platforms. But with LinkedIn, I’ve been quoted as saying, “LinkedIn is the easiest network in the world to go viral on” all because it’s like you share valuable stuff that makes people want to engage, and LinkedIn is going to keep sharing it and help it go viral. If you could ask me, of all the networks, which one would you want to go viral on LinkedIn, the network where I’m gonna make money, whereas if I go viral on Tiktok, or Facebook, maybe I get some credibility with friends, but I don’t get the money.
+
+Alex Rynne 14:21
+Yeah, I don’t have the dance moves to go viral on Tik Tok, unfortunately, but maybe one day, I can hope I actually feel really old now. When I go on Tik Tok. I’m just like, these girls are 15? Do you know what I looked like when I was 15? Like, I had braces and like, I don’t know. It’s just funny. But yeah, Tik Tok is probably not my platform.
+
+AJ Wilcox 14:41
+Me neither. I don’t look good in a swimsuit.
+
+Alex Rynne 14:42
+Yes, you do! So yeah, if those stats don’t convince you that organic is valuable. I think it’s also worth noting that it’s the way that we use a lot of organic on our channels as testbeds for what we want to put paid behind, or what we want to create bigger campaigns around. You know what I mean? So if we post a blog post around like, last year I did a post around B2B isn’t boring, it’s brilliant. And provided all these examples of like, brilliant B2B campaigns. And that was one of our top performers of the year. So it’s like, okay, and that’s just looking at blog posts, looking at blog posts views, and like time on page. And so we’re like, okay, let’s take some of our top performers and create more synergy around the business around this, and work with our insights team to find more data around this, and then create a larger campaign. So it can be pretty powerful in terms of like, what’s resonating with your audience what you should spend more time talking about?
+
+AJ Wilcox 15:47
+Oh, that’s way cool. I think we’ve had brands in the past, who, like we talked to him about testing, and they’re like, oh, we have budget for testing, go for it. And so we really get to pile up data very quickly, across the board, testing a whole bunch of different things. But we also have plenty of clients who say, if there’s anything we can learn organically about where we should put our pay dollars and be that much more efficient. We want to I think that’s great advice. Yeah. All right, we’re gonna take a quick sponsor break, and then we’ll dive right back into Alex’s interview,
+
+Speaker 4 16:17
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+
+AJ Wilcox 16:27
+If you’re a B2B company and care about getting more sales opportunities with your ideal prospects, then chances are LinkedIn Ads are for you. But the platform isn’t easy to use, and can be painfully expensive on the front end. Here at B2Linked, we’ve cracked the code to maximizing ROI, while minimizing costs. Our methodology includes building and executing LinkedIn ad strategies, customized to your unique needs, and tailor to the way that B2B consumers buy today. Over the last 11 years, we’ve worked with some of the largest LinkedIn advertisers in the world, we’ve spent $150 million on the platform, and we’re official LinkedIn partners. If you want to generate more sales opportunities with your ideal prospects, book a discovery call at B2linkedin.com/apply, we’d absolutely love to get to work with you. Alright, let’s jump back into Alex’s interview.
+
+AJ Wilcox 17:19
+Let’s talk about the growth of the platform from outside shore looks like the LinkedIn platform is growing incredibly, I’m seeing so many more people engaging in meaningful ways. And then from an ads perspective, I was just looking at Google Trends this morning of LinkedIn Ads, just how it’s grown over the last year, it seems like growth is incredible. From internal, can you tell anything about LinkedIn growth?
+
+Alex Rynne 17:41
+If I could rattle off stats all day that I’m like, very proud of. I mean, LinkedIn marketing solutions surpassed $5 billion in annual revenue for the first time in July 2022. The platform is definitely on fire. We have over 850 million members in over 200 countries and territories now. And in terms of like engagement, we’ve seen a 22% increase year over year, and the number of feed updates viewed in FY 21 versus FY 22. Video is also like not going anywhere. The number of scheduled LinkedIn live events has increased 176% year over year, and that was a stat from July 2022. And then content, I mean now we have newsletters. So we have 188 editors on the LinkedIn news team across 15 countries. We have 36,000 newsletters on LinkedIn, including ones from influencers like Melinda Gates, Arianna Huffington, and Richard Branson. And even publishers like the Economist. We have 85 million total newsletter subscriptions. So newsletters are like the hottest thing. If you’re not getting on newsletters, I’d highly recommend it as a organic content play. And then you mentioned products. So what do I have on product. So conversion ads, we found conversion ads drive four times higher open rates and four times as much engagement compared to traditional emails. Conversation ads drive two times as much engagement compared to message ads and messages drive two times as much engagement compared to traditional email. And there’s also LinkedIn Audience Network. So marketers can achieve up to nine times more monthly touch points to LinkedIn members who are more active on the LinkedIn Audience Network. So I know I just threw a lot of stats at you. I’m actually in the process of creating an infographic around it. That will be published on the blog on the LinkedIn ads blog within the next couple weeks. So just keep your eye on that. I have a lot more stats around. I can’t remember off the top my head but like stuff about like trust. I mean, we’ve been rated three years in a row, the most trusted platform, I think that’s really important for our audience to know that it’s a trusted platform, and that we’re not using your data for weird reasons.
+
+AJ Wilcox 19:51
+I love that and I will say on newsletters, we launched our newsletter and had over 5500 subscribers just over the weekend, I don’t know how long this push is going to last, when LinkedIn or any network comes out with a new feature, they tend to give it a lot of airtime to make sure that people know about it. We were definitely the beneficiary. But by now, I think we have more subscribers on our LinkedIn newsletter than we do like our internal newsletter, which is crazy.
+
+Alex Rynne 20:17
+That’s awesome. Congrats.
+
+AJ Wilcox 20:19
+Thanks. I did forget to ask you about the LinkedIn Collective. I want to ask the same thing here. So you mentioned to follow the LinkedIn Marketing Solutions blog all share that link in the show notes. But for those interested in the LinkedIn Collective, what can we expect in terms of timing, and how do we follow it? And how do we find it? Any of that?
+
+AJ Wilcox 20:37
+So yeah, I should have mentioned that it’s a showcase page. So I’ll give you the link AJ, so you can share it out. But if you also just go either onto LinkedIn and search LinkedIn collective, you’ll find the showcase page, or it’s an affiliate of the LinkedIn main page. So you can find it through that way as well. We really wanted to double down on investing on our own platform. So LinkedIn collective does not right now have like an outside blog. All of the information is on the showcase page within like articles and imagery. I’m actually launching LinkedIn collective live in November. It’s kind of like a rebrand our Live with Marketer series that I hosted for all those years. So we’re continuing that strategy, but revamping it so that it’s more aligned with the certain themes that we want to pursue within LinkedIn collective live. So yeah, that’s where you can find it. You can expect the live show happening in November, that’s going to be huge. Jim, our VP of Marketing, is going to host it. And it’s going to be all about Ken all about our presence at Ken all about what we learned from our first year of hosting and award. We’re so Jim’s hosting. And we have EJ McNulty, who is executive creative director at Wunderman Thompson. And that was the agency that won the Grand Prix for B2B and creativity. And then we also have Chris Duffy, who was one of the can jurors. And he also does high level strategy at Adobe. So it’s going to be a really interesting conference. It’s going to be back in the studio, which I’m so excited about, because people are sick of seeing my shelves, whatever setup that I have going from someone’s house. So yeah, it’s gonna be awesome. And I will send you more info on that so that your podcast listeners can make sure they don’t miss it if you want.
+
+AJ Wilcox 22:17
+Right. Is that the studio in Mountain View?
+
+Alex Rynne 22:19
+No, it’s we have the brand new studio in San Francisco. I actually haven’t even seen it yet. So when I fly up there, it’ll be my first time seeing it.
+
+AJ Wilcox 22:27
+Very cool. All right. So it’s a showcase page, which means for everyone who wants to participate, make sure you go follow the page, I think you can ding the bell on a showcase page to make sure all this information is getting alerted to you right away. And I guess, tell me if you agree, I would say make sure like, be in there actively commenting. It’s a community. It’s not just a showcase page posted?
+
+AJ Wilcox 22:50
+Yeah, exactly. It’s meant to be a community and like, we chose the word collective because it’s not just our team. It’s not just our content team. It’s an addition with other teams like so like the insights teams and the agency teams. And then in addition to that, it’s collective voices within the industry. So like we’ve already had so many amazing, we’re calling them collective contributors that are writing articles for the page, for example, like Kirsten Allegri Williams, who’s the CMO of Optimizely, authored a piece around the art and science of creativity. We had Joe Kramer, who’s the CMO at Accenture write a piece about the future of B2B marketing and when complexity meets craft. Also, Tom Stein, who is the chairman and chief growth officer at Stein IAS, they do a lot of really great work for B2B clients. So we’ve already had an amazing voices on the page, and we look forward to gathering and curating more with all of your help.
+
+AJ Wilcox 23:46
+Great. So we need everyone who listens, make sure you go and follow the page right now. Don’t wait. Right now. And I will put a link right to it in the show notes.
+
+Alex Rynne 23:57
+Don’t walk, run!
+
+AJ Wilcox 24:00
+Alright, switching gears here, we’re seeing a lot of advertisers right now talk about their demand generation strategy. And I see this active shift going from where it used to be very heavy lead generation, where it’s all performance based to now more of a holistic brand awareness followed up by retargeting kind of strategy. What’s your take on the shift that we’re seeing? And what do you recommend for us LinkedIn ads professionals?
+
+Alex Rynne 24:23
+Yeah, I mean, I talked a little bit before about how brand and demand need to kind of like work together rather than like one versus the other. But I think one of the main things that we realized as a team is that the funnel, as it stands right now, like this, like doesn’t make as much sense. It’s not as audience centric as we might think. It’s more of internally how we organize ourselves to create content. Does that make sense? So like, it would make more sense if the funnel is kind of like flipped on its side, because the way that it is vertically, it’s just like it’s helping us organize Some things internally, but it’s not very audience centric. So, yeah, I mean, I think we’ve been saying that brand is the new performance marketing. And you know, lead gen is obviously still important. It still has a place, but I think that lead gen begins with the top of the funnel organic stuff. Like it’s all part of the journey.
+
+AJ Wilcox 25:18
+Yeah, I totally agree. I think that’s what we’ve seen. I liked that comment on flipping the funnel sideways, because it shows that when the funnel is vertical, it shows that gravity is kind of helping you. It’s like you have a touch point and boom, they just fall naturally to the next step. When we know it’s work. It’s work to get someone on stage. And yeah, walking them sideways actually feels better than just letting gravity kind of play.
+
+Alex Rynne 25:41
+Right? It’s like more human, too. It’s like, we’re not just like squeezing a little drip drops out of a funnel.
+
+AJ Wilcox 25:46
+Yeah, it’s true. So going back to when you were talking about the award at Cannes Lions, and creativity in B2B, I actually get asked all the time, like who in B2B is doing a good job. I’m curious to hear your perspective, who is doing a really good job of creativity in B2B? Who in B2B is doing a good job of mimicking the principles we’ve learned from B2C? Any learnings that we as B2B marketers can take from it?
+
+Alex Rynne 26:13
+Yeah, well, I have to say LinkedIn. No, I’m just kidding. No, I think I mean, I mentioned I think Optimizely does a great job. Accenture does a great job. Adobe is doing really cool things. IBM, I mean, Salesforce is an example that everyone uses. So I try not to use Salesforce as much, but Salesforce is definitely on the list as well, like their whole Trailblazers campaign, that was just like the perfect idea to create this little character that like everyone has all this affinity for, you know what I mean? Like, that’s a great case study in how to like, build affinity and likability for your brand.
+
+AJ Wilcox 26:47
+Yeah. And what I like about that character is it doesn’t matter who leaves the company, or what that character they still own, and they can still keep using, it’s a voice that they can leverage forever. Whereas if you have some kind of a another mascot, let’s say it’s a person, that person can die, they can move on.
+
+Alex Rynne 27:07
+Way to take it to morbidtown!
+
+AJ Wilcox 27:09
+Sorry about that. That’s where I’m at right now.
+
+Alex Rynne 27:13
+That’s a really great point. Yeah, agreed.
+
+AJ Wilcox 27:16
+Yeah, those are fantastic examples. I’m gonna go check them out, make sure I’m following and start sharing those as examples. When I’m asked to, I don’t see very much creativity and B2B, honestly.
+
+Alex Rynne 27:26
+Visa is another one. They’re doing some cool stuff around the World Cup. What is called, World Cup? The soccer game? Yeah. Obviously, I’m very into sports. They are doing a lot of cool stuff around that. So if you go check them out, this whole department on our team is doing this whole case study on sports marketing, which is really cool because we’ve never produced anything like on that topic before. It’s a very specific niche.
+
+AJ Wilcox 27:49
+Yeah, you wouldn’t think sports marketing going hand in hand with LinkedIn. But I do see LinkedIn has its hands in a lot of attention. I’m really eager to see how that turns out.
+
+Alex Rynne 27:58
+Yeah, I mean, Kevin Durant’s on the platform now.
+
+AJ Wilcox 28:01
+Oh, that’s cool. Yeah. All right. So last question for you, what are you most excited about either personally, or professionally? Or give us a little bit of both?
+
+Alex Rynne 28:09
+Yeah, personally, as you know, I just got married. We just got married within like weeks of each other. So I’m just really excited about this next chapter of my life. I feel a lot more like settled and focused than I ever have been. So yeah, I’m really, really excited about everything that’s to come with that. And then in terms of professionally, I’m just really excited to continue building this franchise. I mean, what we’re realizing is that something of this magnitude that everyone that’s creating content within LinkedIn marketing solutions, needs to contribute to and like align to, as we’re gonna need a lot more people. So I’m excited about the growth of my team. I’m excited about the growth of the franchise. I’m excited about the live with strategy and to see like how far we can reach with the caliber of guests that we can get on the show. So yeah, and I’m excited to just hear back from folks within the industry of what they think about what we’re doing. We’ve already heard a lot of great things around how people really appreciate the fact that we’re trying to kind of like, push the envelope with B2B. And I think we should have probably pushed all of our chips into B2B completely a lot sooner. But here we are, we made it.
+
+AJ Wilcox 29:22
+We are working on some awesome stuff. So excited to have you here on, finally. I’ve had you as a target guest for quite some time and now this is episode 74. So thanks for making it happen. Everyone, this is Alex Rynne, the Senior Content Marketing Manager at LinkedIn on LinkedIn Marketing Solutions. Thanks again for being here. And we’ll make sure people are following you and reaching out for any feedback that they want to share.
+
+Alex Rynne 29:46
+Thank you, AJ. Really appreciate your time and I hope that everyone learned something today.
+
+AJ Wilcox 29:51
+All right, I’ve got the episode resources for you coming right up. So stick around
+
+Speaker 4 30:01
+Thank you for listening to the LinkedIn Ads Show. Hungry for more? AJ Wilcox, take it away.
+
+AJ Wilcox 30:12
+All right, like we talked about during the episode, the LinkedIn Collective, you can see the link right to the showcase page that Alex was talking about right there in the show notes. There’s also an article introducing the LinkedIn collective, so you can read more about it, as well as a bunch of the stats that she was sharing about the growth of LinkedIn. We’ve got a link to a blog post detailing all of those. And she also shared an article with me before the show that I wanted to share with you guys all on building an iconic brand. If you or one of your colleagues are looking to learn more about LinkedIn Ads, have them check out the course that I did with LinkedIn Learning. The link is down below in the show notes. It is by far the highest quality, the best course out there for the lowest cost, so definitely check that out. If this is your first time listening, welcome, we’re excited to have you here. Make sure to hit that subscribe button, if you want to hear more about LinkedIn ads every week in your podcast player. If you’re already subscribed, a zero cost way that you can support us is to go ahead and leave a review for the podcast. Most are doing this with inside of Apple podcasts, but anywhere that you can leave a review, it would be greatly appreciated. With questions, feedback, anything about the show, email us at podcast at B2Linked.com. And with that being said, we’ll see you back here next week. Cheering you on in your LinkedIn Ads initiatives.
+
+‍

@@ -5,6 +5,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 import streamlit as st
 from langchain_groq import ChatGroq
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain_community.vectorstores import FAISS
@@ -13,27 +14,32 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain.prompts import PromptTemplate
 
-
 st.set_page_config(page_title="LinkedIn Podcast Bot", layout="centered")
-torch._classes = {}  # hotfix for Streamlit + torch class issue on Mac
+torch._classes = {}  # Fix for Streamlit + torch
 
-# --- SETUP ---
+# --- Setup ---
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 load_dotenv()
 
-# --- Load model ---
-model = ChatGroq(model="llama-3.1-8b-instant")
+# --- Model ---
+model = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
 
-# --- Load transcript only once ---
+# --- Load and split documents ---
 @st.cache_data
 def load_documents():
-    with open("transcript.txt", "r") as f:
-        text = f.read()
-    docs = [Document(page_content=text)]
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-    return splitter.split_documents(docs)
+    import glob
+    documents = []
+    splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=150)
+    for filepath in glob.glob("transcripts/*.txt"):
+        with open(filepath, "r", encoding="utf-8") as f:
+            text = f.read()
+            episode = os.path.basename(filepath).replace(".txt", "")
+            splits = splitter.split_text(text)
+            for chunk in splits:
+                documents.append(Document(page_content=chunk, metadata={"episode": episode}))
+    return documents
 
-# --- Create or load FAISS index ---
+# --- Load vectorstore ---
 @st.cache_resource
 def get_vectorstore(_documents):
     embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
@@ -45,19 +51,26 @@ documents = load_documents()
 db = get_vectorstore(documents)
 
 # --- Memory ---
-memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True, output_key="answer")
 
 # --- Prompt ---
 custom_prompt_template = PromptTemplate.from_template("""
-You are an expert summarizer and analyst. Given the following chat history and a new user question, provide a precise, concise, and informative answer based only on the transcript. Do not speculate. Stay grounded in the context.
+You are an expert summarizer and analyst. Given the following chat history and a new user question, provide a precise, confident, and informative answer based strictly on the retrieved transcript context. Do not speculate, hallucinate, or go beyond what’s available. Stay grounded in the excerpts provided.
 
-Instructions for you to answer:
+Instructions for your response:
 
-1) Always answer the questions in first person as if it is asked to you.
-2) If the question is not related to the transcript, politely inform the user that you can only answer questions based on the provided transcript.
-3) If the question is ambiguous, ask for clarification.
-4) Keep the answer crisp and confident.
-5) Try to answer as if you are a human being, not a bot.
+1. Analyze the nature of the question. Understand what the user is seeking — information, a solution, clarification — and tailor your answer accordingly.
+2. Gather all relevant context. Prioritize the most directly relevant excerpts first, then use the rest to support your response.
+3. Provide a detailed, context-specific answer. Do not invent or speculate — stick to what the transcript supports.
+4. Only include examples if they are available in the transcript.
+5. Always answer in first person, as if the question was asked to you directly.
+6. If the question is unrelated to the transcript, politely inform the user that you can only answer questions based on the transcript.
+7. If the question is ambiguous, ask for clarification.
+8. Write naturally — like a human expert, not a bot. Avoid robotic or corporate tones.
+9. Quote AJ Wilcox directly when possible to strengthen credibility.
+10. Eliminate generic filler — every sentence should deliver value.
+11. If multiple transcripts are referenced, list the relevant episode numbers at the end.
+12. Please provide detailed but relevant answer, if you have more context available but DO NOT HALLUCINATE.
 
 Chat History:
 {chat_history}
@@ -76,14 +89,15 @@ qa_chain = ConversationalRetrievalChain.from_llm(
     llm=model,
     retriever=db.as_retriever(search_kwargs={"k": 5}),
     memory=memory,
-    return_source_documents=False,
-    combine_docs_chain_kwargs={"prompt": custom_prompt_template}
+    return_source_documents=True,
+    combine_docs_chain_kwargs={"prompt": custom_prompt_template},
+    output_key="answer"
 )
 
-# --- Streamlit UI ---
-st.title("🎙️ LinkedIn QA Bot")
+# --- UI ---
+st.title("🎙️ What did AJ say?")
 
-st.markdown("Ask me and I shall answer!")
+st.markdown("Ask me any LinkedIn Ads-related question covered in the podcast transcripts.")
 
 if "chat_log" not in st.session_state:
     st.session_state.chat_log = []
@@ -94,14 +108,22 @@ if query:
     with st.spinner("Thinking..."):
         result = qa_chain.invoke({"question": query})
         answer = result["answer"]
-        st.session_state.chat_log.append({"user": query, "bot": answer})
 
-# --- Show chat history ---
+        episodes = list({
+            doc.metadata.get("episode", "unknown")
+            for doc in result.get("source_documents", [])
+        })
+        reference_note = f"📌 Reference: {', '.join(sorted(episodes))}" if episodes else "📌 Reference: unknown"
+        final_answer = f"{answer}\n\n{reference_note}"
+
+        st.session_state.chat_log.append({"user": query, "bot": final_answer})
+
+# --- Chat History ---
 for chat in st.session_state.chat_log[::-1]:
     st.markdown(f"**You:** {chat['user']}")
     st.markdown(f"**Bot:** {chat['bot']}")
 
-# --- Save on exit (optional) ---
+# --- Save button ---
 if st.button("💾 Save Chat Log"):
     with open("chat_log.json", "a") as f:
         for entry in st.session_state.chat_log:

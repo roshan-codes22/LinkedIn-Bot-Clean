@@ -1,0 +1,184 @@
+AJ Wilcox
+We ran LinkedIn Video Ads under three different objectives and compare the results, we show you exactly how to get the best performance for your video ads on this week’s episode of the LinkedIn Ads Show.
+
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+AJ Wilcox
+Hey there LinkedIn Ads fanatics, I’ve got a guest for you that I’m super excited about today. It’s Eric Jones, who is B2linked head of marketing. He brought the results of a killer AB test to me and I just had to have him on as a guest to share with you the results. Eric is one of my favorite people on the planet. You’ll appreciate the depth that he thinks about LinkedIn ads in his responses, I know you will. First in the news. When I logged into the platform today, I saw a pop up announcement that says, “We’ve added new metrics”. While we make improvements on conversation ads, we’ll start tracking and reporting on headline impressions and headline CTR. And then you can click learn more. So I did. As I clicked this, it took me to a help article, all about the new conversation ad format. And I was actually really shocked to see this because I knew at some point that conversation ads are going to become conversation starter ads. But this seems like an evolution even before that. So there’s this table in the bottom that shows you the difference between legacy conversation ads, and the new and improved ones. And what really caught my attention, were a couple of the things. First is in frequency caps, you probably already know that legacy conversation ads, they’ve only been sent to a LinkedIn member once every 30 days. So once you’ve sent one, your competitor can’t send one for 30 days. But in the new and improved one, it says it will generate up to three impressions every seven days. So this is really interesting to me. Now our conversation ads are going to have more impressions rather than just that initial one. Now, you probably already know that the only way to pay for conversation ads before was on a cost per send. And that was usually anywhere between about 50 cents to $1 per send if you were sending in North America. But the new and improved conversation ads have a cost per click price. It says advertisers pay only for the initial click that opens the message. The last call out I’ll mention here is that with the legacy conversation ads, it was right at the top of either the focused or the unfocused version of your inbox. But in the new and improved version, it opens in the focus tab. And if someone clicks on the ad and then clicks on a call to action button, the ad will stay in the focus tab. But if they click to open the ad, but don’t engage with any of the calls to action, then it automatically gets moved to the other the unfocused inbox. So this actually sounds really cool. And now that I’m reading through this, this really could become conversation starter ads. So maybe that’s what this is. They’re just not putting a name to it yet. But everything I’m reading so far, I’m a fan of. I wanted to highlight one review here from Apple podcasts, the user FancyNancyPansty, which is the greatest username in the whole world. Nancy, reach out to me, let me know that this is your review. I’d love to tell you how impressive that name is. But she says, “Makes me better at my job five stars. It’s pretty nerdy to look forward to a podcast about paid media buying, but I do. Really great actionable content here. Fun and lighthearted and not dry. Give it a listen.” Nancy, I really appreciate that review. I try really hard not to make this dry. Alright, without further ado, let’s jump right into the interview.
+
+AJ Wilcox
+I’m so excited to have Eric Jones on the podcast for the first time. Eric is very much what I would consider my partner in crime. I’ll give you kind of his background here. He’s been in digital marketing for six plus years now, plenty of experience, obviously with LinkedIn, but also with Google and Facebook. He’s managed ad campaigns in many different industries, many of which were also B2B, SaaS, healthcare, finance, entertainment, and more. He’s currently our Director of Content Marketing here at B2Linked. Eric, welcome to the show.
+
+Eric Jones
+AJ, I’m so stoked to be here. Thank you so much for having me.
+
+AJ Wilcox
+Absolutely. Eric, is the reason that we put these podcast episodes together so efficiently. He works together with me on almost every single one. So having him actually be interviewed on the show is a big deal because he’s been behind the scenes so much. So I’m excited to actually have people hearing from you.
+
+Eric Jones
+And honestly, that means a lot. Thanks, AJ. I appreciate that call out.
+
+AJ Wilcox
+Of course. All right. So obviously I give you a little bit of intro tell us anything personal or otherwise that I didn’t cover in the intro.
+
+Eric Jones
+I think you pretty much covered it. I’m a digital marketing nerd at heart with a passion for advertising and content strategy. That’s my profession by day, I would say if I were to add anything more, I do have some side projects that I’m working on, including a graphic novel and some tabletop games. So super fun stuff, just things that I enjoy doing in my spare time.
+
+AJ Wilcox
+And I’ll tell you, the graphic novel was one of the main reasons that I wanted to hire you originally. How long have you been here?
+
+Eric Jones
+It’s been about three and a half years now,
+
+AJ Wilcox
+Three and a half years. So three and a half years ago, as I was interviewing you, I was like, Whoa, if he’s willing to work on a graphic novel on the side, like that shows an intense dedication to craft, it shows interest in writing, interest in visuals, these are all very, very important to advertising, obviously. And it has not led me down. You have not let me down, Thank you!
+
+Eric Jones
+That’s good. That’s really good. But I lived up to the expectation at least. It’s actually really funny because I did start my graphic novel, but it’s really been pushed to the backburner, especially because I think my tabletop games have have kind of taken off a lot faster than the graphic novel. So I’ve been investing a lot more time into that lately. And I mean, I’ve got like three that I’m working on all at once. It’s a little chaotic, but it’s been a really, really cool learning experience. Like I said, it started out as a passion project. But I would be thrilled if I could sell them in the future. I think that’d be really cool. So that is my eventual goal. But as of now, it’s just been a really fun passion project. And I’m excited to see where it goes.
+
+AJ Wilcox
+And this is all totally new to me to this. This is great to hear. The reason we’re bringing you on here for this episode is because you just recently ran our super cool AB test. I’d actually probably categorize it as a an ABC test. And I was so excited to share the results of this with the audience. Who else better than the person who ran the test to tell us all about it. So you’ve been running this really cool test for about the last month. Can you give us the setup? Tell us about what led you to want to start the test, how it was set up, and all that?
+
+Eric Jones
+Yeah, absolutely. So the whole test really revolves around the video ad format. It’s arguably the ad format that we’ve had the least experience with as a company. And that’s not to say that we don’t believe in video, it’s just that we’ve always held this belief that video content is expensive, and time consuming to produce. And I think a lot of businesses feel that way. I mean, as we’ve worked with clients in the past who have wanted to run video, that seems to be a consistent concern that they share with us is it’s difficult in general to create. And so we’ve we tend to steer clear video. But we’ve recently come to the realization that video doesn’t have to be expensive or time consuming to produce. Video can be raw, it can be concise, it doesn’t have to be overly produced to be effective. And personally, I think it’s more authentic that way. So we’ve been testing more short form video content as a company. And because of that, because we haven’t, like used this ad format, much in the past, I did want to know what was the most efficient way to run video. So that essentially led me to testing this in the first place.
+
+AJ Wilcox
+I love it. Okay, so here’s the test, it was running exactly the same video ads across three different objectives. Because many don’t know, you can run video under a website visits objective, which is kind of interesting. I think most know you can run it under a video views campaign, that’s in the name. So we have three different objectives we can run it under. And I think you got tipped off by one of the members of our team that there was a certain objective that worked really well for video. Tell us about that.
+
+Eric Jones
+Yeah, so one of our team members, we were just talking about video ads and talking about the initiatives that we wanted to run for our next paid ad campaign. And he talked about the experience that he was having with running his own video ads, because he was running video ads at the time for a client. He was saying that under the engagement objective, he was seeing more cost efficiency then, when he was running the website visits objective. And I thought that was super interesting. So that was really where this whole test started off was. I thought okay, well, this is a great hypothesis. So based off of this information, if we go into this thinking that the engagement objective is going to be more cost efficient than the website visits objective. Well, that’s a great thing that we can measure against, right. That’s a great hypothesis we can test. And so when we went into this whole test, the way we set it up was like you mentioned we chose between three objectives. So obviously engagement in website visits because that tied into that hypothesis, but I also wanted to test video views, because like you mentioned before it’s in the name, it made sense to test video views alongside these other two. So what I did was I left all else the same. Audience targeting, campaign structure, ads. The only thing I changed was this one variable and that was the objective. And I tried to keep bidding the same across them all as well. I bid manually for clicks in both the website visits and the engagement campaigns, and then I bid manually for video views in the video views campaign, since LinkedIn doesn’t allow you to bid for clicks under this objective. So I tested each of those objectives at separate times, because LinkedIn also doesn’t allow for ads with differing objectives to be in a single campaign. And I ran each objective for about seven to 10 days, and then monitored and compare the results from week to week.
+
+AJ Wilcox
+And what order did you do it in? Did you do engagement, then web site visits, then video views?
+
+Eric Jones
+Yeah, yeah, that’s exactly the setup. So yeah, engagement first. Wanted to launch with that one, just to test that hypothesis with that anonymous tip that we got from our employee. And then following was website visits and video views.
+
+AJ Wilcox
+Alright, so when you went to go set your bid for video views? How did you set a bid there? Because that was the one where bidding is going to be different? Did you look at the effective cost per view on the other objectives, and then try to set around there? Or did you just set somewhere in Lincoln’s range?
+
+Eric Jones
+Great question. So with the first two, I should say, so for engagement and website visits, we typically like to bid low. So what I did actually was I compared to LinkedIn bidding recommendations, but I tried to bid as close to the lower end of those ranges as I possibly could. For website visits, I may have been a little bit lower. Just because historically, in the past, we’ve been able to spend our full budgets and get even more cost efficiency by bidding lower than LinkedIn is recommended bidding range. So for website visits, I may have been a little bit lower. But for engagement and video views I did use LinkedIn’s recommended range as a benchmark, and I bid on the lower end of that range, just to start off with. Excellent, that’s super helpful context. And I should note, so about the videos themselves, the video ads, what they were was they were essentially stories. So we wanted to introduce our audience to be to B2Linked’s why. If you’re familiar with Simon Cynics start with why. That was kind of the inspiration, we wanted to tell more of a story revolving around the origin of the company, its mission, its values, our intent with these videos was to communicate to our audience like these stories in a relatable way. And in a way that established an emotional connection between us and our audience.
+
+AJ Wilcox
+Oh, I love it. Perfect setup. So with these videos, they’re essentially telling a story. So what we wanted was for people to watch the story. When I say the word objective, we don’t know if it’s the marketers objective, or if it’s the objective that someone selected inside of LinkedIn. So we’re saying our objective as marketers was, we wanted people to watch the videos. And if someone clicked to the web page, which is the homepage afterwards, that’s great. It’s a nice little bonus. But that wasn’t necessarily what we altra cared about, right?
+
+Eric Jones
+Yeah. You nailed it.
+
+AJ Wilcox
+Okay, soyou’ve told us all about how the test gets rolled out. This is great. The planning is all super sound, in my opinion. Now, can you share with us the results? What did you actually see from all three of these objectives? How are they different?
+
+Eric Jones
+Yeah, so this was definitely super interesting to compare the results. So there were really a lot of different metrics that we looked at. But the core metrics that we wanted to analyze were our cost per click, our cost per view at 50%, and what that means is essentially, like, you can track what percentage of the video people watch. And so we wanted to see people who at least watched half of our video content. We consider that to be high intent. So anything beyond 50%, we wanted to measure from a cost standpoint. And then the last metric that we measured was completion rate. So starting with our CPC, we noticed that engagement and website visits were both roughly around $20. Website visits was about $20. And then engagement was just a couple dollars more, so really close. But then video views was double that. So we were around $40 for CPC. So from a cost standpoint for clicks video views was really expensive. So that’s the interesting thing is when we look at cost per view, engagement was about $5. It was $4.75 and then web visits was higher than that. So it was more expensive to get views at 50% under website visits than an engagement. We were sitting around $7 for website visits. But then video views, under the video views objective, we were getting views at 50%, around $3. So even though it was the most expensive for clicks, it was the cheapest for video views, which totally makes sense. Again, it’s in the name, that is the thing that LinkedIn is going to be optimizing towards. From a completion rate standpoint, it was pretty much the same. Video views, we have the highest completion rates, and then website visits, we had the lowest completion rate, and then engagement sat somewhere in between them both.
+
+AJ Wilcox
+It’s so interesting to me to see under the website visits objective, the completion rate was a third of that of video views objective. So if you’re only looking at your cost per website visit, you’re thinking like, oh, website visits is looking pretty good. And then when you start looking at your cost per completion, your cost per 50% view, all of a sudden, it’s astronomical compared to video views. This was great for me to understand and see. Because, you know, for the longest time, I’ve talked about how LinkedIn is objectives, they don’t have nearly as much data to work with and optimize because people don’t use LinkedIn nearly as often as people use Meta. So when Facebook says, Yes, we can optimize towards those who are more likely to watch video content, I say, absolutely. I trust it. With LinkedIn, though, LinkedIn hasn’t had video for very long, they haven’t had conversion tracking for nearly as long. So when we start looking at their objectives, I kind of tend to count them out. But this study actually proves me dead wrong.
+
+Eric Jones
+Yeah, absolutely. And you and I have talked about that too, in the past. And so I think that was probably one of the most surprising results from this test was just seeing how well LinkedIn did optimize towards its given objectives. It was really cool to see that kind of unfold over the past few weeks. And in
+
+AJ Wilcox
+the data, it’s very clear that when we bid for video views, we got cheaper video views, when we bid for website visits, we got cheaper website visits, we bid for engagement, it was like right down the middle, which I think makes sense. A website visit and a view of video are both types of engagement. So when you tell it to like, take any kind of engagement into account, it’s probably gonna do a little mix of both of those. Let me ask you this. Why do you think this was the case? Why do you think we saw the results that we saw?
+
+Eric Jones
+I think youyou already kind of hit on it. I mean, LinkedIn is optimizing towards what they’re claiming to optimize towards video views is obviously optimizing towards getting more video views, web visits, is optimizing towards getting more website visits, and engagement, is really optimizing towards getting any sort of click or interaction with your ad as possible. So that includes likes, comments, shares, and clicks to your landing page, and more. So I think that’s why we saw the results we did. But the one head scratcher for me was really looking at cost per click between website visits and engagement. Because I looked at that, and I thought, well, there’s really not much different here. Like there’s not enough statistical significance. What visits was just slightly cheaper than engagement, but it was like a $2 difference, right? Like, we’re not talking about a huge, huge difference. Not like web visits to video views, where video views was double the cost in cost per clicks compared to website visits. It was super comparable between web visits and engagement. It kind of made me think like, why is that? But also the added context of engagement is getting a similar cost per click as website visits, but a cheaper cost per view at 50%. And so I looked at that, and I think the reasoning for that is, engagement is almost operating like a website visits campaign in this instance. I mean, the two objectives in general are very similar. They’re optimizing towards clicks, even though engagement is really optimizing towards any sort of click. In general, it’s very broad website visits is only optimizing towards clicks that are driving traffic to your website. But but they’re really similar in those regards. They’re optimizing for clicks. But my biggest question was, where are we getting cheaper video views under engagement and cost per click is staying the same? Well, I think it’s likely due to the fact that those who engage more with ads are also willing to watch video content for longer periods of time, if that makes sense. So if your audience is engaging with your ad, they’re liking, they’re commenting, they’re sharing, it’s likely that those people are also going to stick around and watch your video for longer than those that LinkedIn is optimizing for under the website visits objective, which is literally just sending traffic to your website.
+
+AJ Wilcox
+And that actually makes perfect sense to me. Because if engagement objective is optimizing towards the kinds of people who are going to generally interact with an ad, some are going to click on the landing page and leave. And so they’re going to stop watching the video at that point. Some are gonna like and comment. These are types of actions that you can do while the video is still playing. So it makes sense website visit, as soon as someone clicks, you get charged, but the video stops. And so there is going to be this teeter totter effect of website visits, you get more visits, but less viewing? I think it actually makes sense that way.
+
+Eric Jones
+Yeah, absolutely. You nailed it.
+
+AJ Wilcox
+Perfect. So if we as advertisers, if we’re going to take something away from this, what did we actually learn from this? If I’m gonna go and start running video campaigns in the future? Can you tell me like, are there certain objectives that I should stick to or stay away from?
+
+Eric Jones
+Yeah, so based on the results, I would say that website visits is probably the weakest of the three. You have a higher cost per view at 50%, a lower completion rate, and CPC is on par with the engagement objective, even though we talked about it’s slightly lower, it’s really only a couple dollars cheaper in the test that we ran. So not enough difference there for me to want to run website visits over engagement objective, especially when you consider the much lower cost per view at 50% that you get under the engagement objective when compared to website visits. So we’re talking about a similar CPC, between website visits and engagement, and a lower cost per view at 50% for the engagement objective compared to website visits. Engagement feels like the better option between the two. And in general, when you compare all three, engagement seems to be a healthy balance of both clicks and views. You’re getting a comparable CPC to website visits, decent click volume and getting a good CPV at 50%. as well. Video views on the other hand, even though it has the worst click volume and CPC of the three, it’s drastically outpacing website visits and engagement on the cost per view at 50% front. And even it has the highest completion rate of the three, which, again, to me shows really high intent. So the biggest takeaway for me is this if your goal is to get as many people to consume your video content and completion as possible, then video views is going to be your best option. But if your goal is to get a healthy mix of both website traffic and video views, then go with engagement. And probably just avoid website visits altogether. But that said, I mean, these are results that I saw from my own test, someone else’s experience could be totally different. So I would encourage anyone listening to this episode, really to test this for themselves, and find what works for their accounts. But feel free to use this data as a guideline if you’re wanting to get video ads going quickly.
+
+AJ Wilcox
+What and there are very different kinds of video ads. So I think depends on the setup of the ad. These ones were very much like we talked about, they were telling a story, we were more interested in people watching them and consuming them than if they clicked. But let’s say a different scenario. Maybe someone has a video ad, but the video is what I would call a decoration. Like maybe it’s a boomerang video, that’s five seconds that repeats over and over just something to grab their attention. But your actual goal is to get people to click on your call to action. Maybe in that case, website visits would be a better objective. But I think it just comes down to what is the actual result you want. And knowing that LinkedIn is objectives actually can get you what they say they’re optimizing towards.
+
+Eric Jones
+And that’s a really good point. I think if our video content had been a little different, like where you said, our main focus was really just getting people to watch the video. If we have made more of an emphasis in our content to hey, click to the landing page, click to the website learn more about us at B2Linked.com. Like if we had made that more of the emphasis of the content, I think our audience would have behaved a lot more differently than where we were with our current test where we were really just focusing on getting people to watch through the entire video.
+
+AJ Wilcox
+Perfect!
+
+Eric Jones
+So I’ll say one more cool takeaway, in addition to what I talked about before was when you take a closer look at cost per completion, which this wasn’t a metric that we talked about earlier. But as advertisers we consider a click, right, we consider a click to be a signal of intent. Someone has at least an ounce of interest in what we’re promoting that they’re willing to click on our ads and be driven to wherever we’re sending them to. I consider a video completion to represent the same thing. So just to give you some some further metrics, cost per completion was also a lot lower for the video views objective in comparison to the other two, we were sitting around, just under $5 for cost per completion. For engagement, it again set in the middle around $8. And cost per completion for website visits was under $16.
+
+Eric Jones
+Wow. Drastic.
+
+Eric Jones
+It was a lot higher. Yeah. But when you compare these costs to an average cost per click on LinkedIn, especially the video views, one, I mean, it’s about four times cheaper for us to get a video completion than it is to drive someone to our website.
+
+Eric Jones
+Wow.
+
+Eric Jones
+And that’s not to say that these two things are an apples to apples comparison, right. But if we’re just considering level of intent, like I say, that’s a pretty significant difference. And you consider also like how long it can take to build audiences to retarget and nurture further, where LinkedIn requires an audience size of at least 300 people that the platform recognizes in its user base in order to create a campaign. I mean, retargeting audiences can take months to create if you’re building them based off of leads or website traffic. But retargeting audiences can be built in a matter of days using LinkedIn, video views, retargeting, even if it’s an audience full of those who watched your content all the way through, which again, I think is pretty significant.
+
+AJ Wilcox
+That’s absolutely huge, great call out there. Here’s a quick sponsor break, and then we’ll dive right back into the interview.
+
+The LinkedIn Ads Show is proudly brought to you by B2Linkedcom, the LinkedIn Ads experts.
+
+AJ Wilcox
+Managing LinkedIn Ads is a massive time and money investment. Do you want to return on that? Consider booking a discovery call with B2Linked, the original LinkedIn Ads performance agency. We’ve worked with some of the largest accounts over the past 12 years. And our unique scientific approach to Ads management, combined with our proprietary tools, allow us to confidently optimize and scale your LinkedIn Ads faster and more efficiently than any other agency, in house team, or digital ads hire. Plus, we’re official LinkedIn partners. Just go to B2Linked.com/apply to fill out the form, and we’d absolutely love the chance to get to work with you.
+
+AJ Wilcox
+Alright, let’s jump back into the interview with Eric Jones.
+
+AJ Wilcox
+So we’ve learned some great things here. I’m sure you’re looking at this already devising your next test. What’s the next thing you want to test? What’s the next thing you want to learn based off of the data you already have here?
+
+Eric Jones
+Great, great question. So my test revolved mainly around bidding manually for all of these objectives. So like, if I were to further this test, I think it would make sense to continue to test efficiency and how it’s affected when bidding by impressions, or even running the brand awareness objective, which only allows you to bid for impressions or reach. I think that makes the most logical sense to go next.
+
+AJ Wilcox
+I love it. Alright, so we can try bidding aggressively, we can try changing bid type, there is one more objective that we can try. So lots of different options here. And I hope I mean, just given the initial start, we’ve already learned, like which objective seems like the better bet. It seems like just testing, aggressive bids, very low bids, somewhere in between, we’re going to learn something. But I think the majority of the learnings here, we’ve presented pretty well.
+
+Eric Jones
+Yeah, for sure. And I mean, you could also test like we hinted to earlier, I mean, you could test different types of video creative or different calls to action within your content, to see also how your audience might behavior or respond differently based off of, you know, what is actually being promoted or presented in your video content. So there’s really a lot of different ways we can take this, but all I would say are great ideas.
+
+AJ Wilcox
+Well, I think that’swhy we’re presenting this now and not three years ago is because video ads are just really complex. With everything dealing with click like single image, it was really easy to test different elements. But it’s so hard to stick a pin in something in video and categorize it. Because there’s so many different ways of communicating emotion and a product and a service all in video. So to just put everything into a category and say, This is how video works extremely hard. So that’s why it’s taken us this long to present it. But it also makes it really hard to analyze too, because video is just so intimidating. So please let us know how future tests go. And I’m excited to get the learnings from it.
+
+Eric Jones
+Yeah, we’ll do.
+
+AJ Wilcox
+Alright, so next one, is there anything that LinkedIn is working on right now that you’re excited about that maybe could influence or help with these tests?
+
+Eric Jones
+Yeah, you know, I’m really excited for thought leader ads. I know they were just barely released and masked to advertisers this past week. The thing that crushes my soul, though is that it’s limited to single image ads. So if you have content that promotes or utilizes video or utilizes an in feed document, like you can’t use any of that content, like you can’t boost it, it’s not even available under the thought leader ad format to be able to put money behind. So that’s super depressing to me that I can’t boost a video ad.
+
+AJ Wilcox
+Hopefully LinkedIn fixes that in the future, maybe they release different kinds of personal posts that can be boosted. That would be cool.
+
+Eric Jones
+That’s my hope, too. I think releasing the feature and limiting it to single image ads, I think makes sense. But I do, I hope they make updates in the future. So I know that’s not directly related to video ads, particularly. I hope we can do like video thought leader ads in the future. But as far as anything else that LinkedIn is working on, I’ll be honest, I’m not super excited about anything else related to video. I have heard that in stream video ads on LAN, LinkedIn’s Audience Network, are coming. But I’m not super, super excited about those for a couple of reasons, right? Because every time I’ve tried the LinkedIn Audience Network, I’ve never gotten great results. I’ve always seen really inflated click through rates and seemingly low quality of website traffic that comes from land. So I’m not thrilled about the idea of more stuff coming out on LinkedIn that is related to LAN just because I’ve never had a positive experience with it. But to add, most in stream video ads that I’ve seen, have been more of a turn off than anything. So just the combination of those two things. The fact that it’s in stream videos, and it’s on LAN, really doesn’t get me too excited. So I’m not very, very thrilled about that. But I am hopeful that video thought leader ads can come to us in the future. That’s what I have to say on that.
+
+Eric Jones
+Amen to that. I think video representing the company page is definitely going to be not as exciting as video that represents a human. II think people are going to interact with it a lot more. I am so excited that you know, as of the time of recording, thought leader ads have just barely been released to all accounts. So I’m with absolutely thrilled. So professionally right now, what are you most excited about?
+
+Eric Jones
+Professionally, I would say I recently discovered April Dunford. If you’ve heard of her, she’s a thought leader on positioning. And I’ve essentially subscribe to her content. She’s written a book. And she’s coming out with a sequel here soon, which is exciting. But all of her content on LinkedIn is great. She also just released a podcast, which is awesome. Like just so much value that she brings to the table on the topic of positioning. And so I’m kind of just kicking myself that I wish I had discovered her sooner because their insights on the topic are just so helpful. And so mind blowing to in just a way that I’ve never heard from anyone else who talks about positioning. So April Dunford, she’s awesome. If you guys aren’t familiar with her, I would encourage you to check her out to look her up on LinkedIn, Google her and her book. But I mean, in addition to that, I mentioned before that I’m making a lot of tabletop games in my spare time. And I’m working on a few all at once. But there is one in particular that I’m deeper in the playtesting phase. And that’s been really exciting. I know it has nothing to do with LinkedIn ads. But it is just exciting to kind of see this project, like come so far after investing so much time. So that is also just something kind of a combination of professional and personal that I’m excited about.
+
+AJ Wilcox
+Amazing. I love it. Well, thanks so much for sharing your insights on such a cool test. This definitely won’t be the last time we have you on the show. We’ll have you back to share either a different insight or deeper into video ad testing. Eric, thank you so much for joining us.
+
+Eric Jones
+Yeah, thank you so much, AJ, for having me. This was a real treat. And a real pleasure. Thank you.
+
+AJ Wilcox
+All right, I’ve got the episode resources for you coming right up. So stick around.
+
+Thank you for listening to the LinkedIn Ads Show. Hungry for more? AJ Wilcox, take it away.
+
+AJ Wilcox
+Alright, Eric mentioned April Dunford, who was big on positioning and we’ve linked to her LinkedIn profile so you can go follow her. She’s awesome. We also have a link to the help article where LinkedIn is talking about the new conversation ad format. That’s well worth a look. Also, just in case you missed it last week on episode 100. We announced the official LinkedIn ads fanatics community that you can be a part of. Go check it out at fanatics. B2Linked.com. And if you sign up within the next month, you can be one of our founding members and be grandfathered into the lowest pricing ever. The community has our four courses that take you all the way from the very beginner stages of LinkedIn Ads all the way through 1% expert. Plus, there’s an upgraded tier that we’re calling the super fanatics and for an extra $200 a month on your subscription, you get access to weekly group coaching calls with me and the B2Linked team. If this is your first time listening, please hit that subscribe button. But if you’re a regular listener, please do do us the honor of leaving a review on Apple podcasts. And I’d love to shout you out live. With any questions, suggestions, or corrections on the show, reach out to us at Podcast@B2Linked.com. And with that being said, we’ll see you back here next week. I’m cheering you on in your LinkedIn Ads initiatives.
+
+‍

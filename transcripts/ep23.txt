@@ -1,0 +1,150 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads Reporting Insights | Targeting Audit
+AJ Wilcox
+July 7, 2020
+•
+Show Resources:
+Free audit – click the scheduling link at the bottom of this article to get it
+Sam Fonoimoana’s email: 
+sam@thestokegroup.com
+Join
+ the LinkedIn Ads Fanatics community
+ for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with ideas for what you’d like AJ to cover.
+Show Transcript:
+Today we’re talking about the advanced reporting capabilities for your LinkedIn Ads that you didn’t even know were possible. Strap in, and let’s do this.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+0:22
+Hey there LinkedIn Ads fanatics. Today I get to introduce you to my secret weapon. Sam Fonoimoana from Stoke Analytics. He’s a reporting and data ninja, which you’ll absolutely soon find out. And he’s got access to LinkedIn Ads API, which allows him to gather data and insights that you won’t find in campaign manager for your account. I’m excited to introduce you to him as we are longtime friends, and he’s even got a really cool free targeting audit to offer you. So definitely take him up on that. With that being said, let’s hit it.
+0:58
+Alright Sam, thanks so much. Welcome to the podcast.
+1:01
+Thanks so much AJ for having me.
+1:03
+So excited to be talking to you here. We’ve obviously worked together on LinkedIn Ads for a long time. And this is so cool that I get to introduce you to the LinkedIn Ads Show audience, I would love just to have you start telling us about yourself. Tell us about your background and why you do such cool stuff with LinkedIn Ads reporting?
+1:21
+Well, it’s true. Like we we’ve known each other now for a while, remember our days back at the back of demo working for that company? And you know, data was everything. And we had a lot of fun. I remember you taking that sequel course when we were over there, you did a good job for a marketer.
+1:36
+Not bad for a marketer.
+1:38
+Yeah, my world really has revolved around data I started off as a finance guy. And, you know, quickly discovered that if I really want answers to the questions I’m asking as a finance guy, I need more data. And so it just led me down this path of being able to pull the data myself from many different data sources. And really, you know, try to try to answer the questions myself, you know, using this data
+2:00
+Well, and Sam is crazy impressive. For those of you who don’t know, like he said, started out in finance and he is incredible at sequal, incredible at servers, incredible at Python, and, and even more. So just incredible with all kinds of data. And it’s been so fun to see him innovating and building stuff specifically around LinkedIn, because that’s what I get to use all day.
+2:22
+Well AJ, I really appreciated working with you over the years. And, you know, working with LinkedIn getting access to that that exclusive LinkedIn API, you know, we have access to more data than then than anyone else trying to go into campaign manager. And it’s been a blast, just learning, like what you can do. And I know that’s what we’re going to talk about today. But there’s so much reporting you can do, you know, if we’re pulling data straight from the API, and that’s what you know that’s what we’ll talk about today. So
+2:49
+Cool! All right. We’ll get to dive super deep into the kinds of reporting and things that you can pull that like you mentioned, we don’t get through campaign manager. I don’t want to reveal too much of our secret sauce as an agency, but just a heads up, Sam has built all of our reporting stack, we are able to report on things that not even LinkedIn can report on. And that’s really all thanks to him. So super stoked on that. Anyone who’s looking to really up your reporting game, check out Stoke Analytics.
+3:17
+Thanks so much AJ. Thank you.
+3:19
+Okay, so you’ve got kind of four different reports that you can give a client who is advertising on LinkedIn. Could you give us a kind of quick rundown on the types of reporting that’s available? What we as advertisers can can get with your help?
+3:33
+Sure. So the first one is, is an ABM report. And it basically just drills a little bit deeper than then LinkedIn. But that’ll tell you how your content is resonating with specific targeted accounts you’re going after?
+3:47
+Yeah. And so anyone who is in your ads account, you can go into the analytics into the demographic report, and you can see the last 10 companies that have interacted with your ads, those that have interacted the most or whatever. How deep does your report go?
+4:01
+You know, we can get, you know, top 100 companies that have interacted, you know, with with your leads, and that’s over time. So you know, we can go back by month and and show that for, you know, up to six months back.
+4:15
+I love that my report I was just looking at has 3,500 companies represented there. So you get a lot more data than we can get through a campaign manager. Then also tell us about your your persona level reports.
+4:29
+So next one is his persona and as similar to the ABM. You know, for those companies that are specifically targeting, you know, job titles, you know, we can we can do a similar type of report where we can see which content is resonating with specific job titles.
+4:42
+Cool. I love that the exact ad that the exact job title clicked on and interacted with, you can see which titles tend to win, which titles tend to lose. So we’ll go deeper into that one as well. Now, tell us about your most recent one, which is really exciting, the targeting audit that you’re offering.
+5:00
+Right. So this his next one is is our audience targeting audit. And it’s it’s built to be able to show like for all your campaigns that are using audience targeting, you could see, you know, what percentage of your budget is going towards those audiences you specified. And you know, just as importantly, if not more, you know, how much of your budget is not going towards those.
+5:21
+Super super valuable to those who are advertising to know how much of your audience is people you actually chose versus those who don’t? So these three reports are really cool for LinkedIn advertisers. What else do you offer? I mean, what is your agency offer to everyone?
+5:37
+I mean, really, our agency is focused around customer journey analytics and so you know, we’re really good at integrating multiple different systems, all CRM to web analytics, web analytics to AD platforms. And you know, that really is our bread and butter. We’re Adobe’s official partner to do any, any Salesforce or dynamics integrations into into Adobe products. I mean, they just Trust us to do that integration. And yeah, that’s that’s where we focus on customer journey. It’s where it’s at.
+6:05
+I love it. And I can I can say an amen to that because we’ve been using your, your whole suite of reporting and analytics for years and years. So thanks for hooking us up there.
+6:14
+You got it, AJ.
+6:15
+Okay, so let’s dig specifically into the targeting audit, because this is something that you’re offering to any of our listeners for free, dive way deep tell us like, what are the capabilities? What are they going to be able to find, etc.
+6:28
+I mean, I think what’s attractive about the LinkedIn platform is that you can target you can set up your campaigns to target audiences better than any other platform. You know, the the platform, however, it doesn’t really give good optics into how that targeting is performing. And so this audit will go in and will pull any pull all of your campaigns that use some sort of audience targeting and basically just show you. It’ll show you the total number of dollars that is being spent outside of audiences that you’ve specified.
+7:01
+And this works by what sort of targeting facets? Can we look by job title? Can we look at job function? Can we look at company sizes? You know those types of things?
+7:10
+Yep. So we can look at job title, seniority, company, industry, company size, location. I believe there’s one more, but those are the main ones that people seem to be interested in.
+7:26
+Awesome. So you can take a lookat specifically your targeting that you’ve selected for a campaign. And it will tell you how much of your budget, how many of your clicks, how many of your impressions came from that audience versus audiences you didn’t explicitly choose?
+7:41
+That’s right. And I was able to, to build this with your help AJ, so you know a little bit about this. And in the early stages, it was interesting to see because you would think that, you know, if you explicitly targeted let’s say, a job title such as CEO, you would think that LinkedIn would dedicate the majority of of that campaign spend towards that job title. But you know, in our early test so far, we’ve seen like, you’ll, be surprised there’s big chunks of, of campaign budget that’s outside of those job titles.
+8:11
+Yes. And there are opportunities to use this information to tighten up our targeting and make us even more efficient, which is nice. I don’t want this to feel like we’re crapping on LinkedIn as a platform, because, you know, their targeting doesn’t actually hit who it does. We find both winners and losers in this report. And we can actually take action on that to improve things. So I think this is still really valuable for anyone. And because this is a free audit, any of you guys listening, can go get this audit for your account and see what percentage of your budget is allocated to people that you haven’t explicitly chosen, which on an expensive platform like LinkedIn, I mean, every dollar every click, you can save is such a good thing.
+8:56
+Yeah, that’s right. I mean, I would just add, it’s like you said, there’s both winners. You know, and losers, like we, you know, there’s one use case where we find a job title that wasn’t included, but the click through rate was way higher, the cost per click was way lower. And so instead of getting angry that they’re happy about that, oh, we’re just gonna, we’re gonna add this to the campaign and get more of that traffic.
+9:16
+Oh, yeah, in fact, I remember seeing an example on one of our accounts, where one of our job titles that was being included that we didn’t explicitly say, had something like a 2.3% click through rate, I think was like VP of sales or something. And so we went and explicitly added that as like, yes, this campaign wants to target this job title. And we saw a couple others, where spend was going and we went out, those are not the right title. We could go in and explicitly add them as an exclusion, which is really cool. All right. So for anyone who wants to get this audit on their account, how do they get in touch with you? How do they get ahold of this free audit so they can get ahold of me I’ll leave my my contact information, but it’s a quick process. You basically just set up a meeting with me. You invite one of our our LinkedIn user accounts to your campaign manager to your ad account, the one that you’d like to have the audit on. And then we’ll have this spun up for you. And within 24 hours, email you the link, and then we can go through the audit results to help you interpret the results.
+10:17
+Very cool. So this is something I encourage every one of you listening to take Sam up on. Super, super valuable even as just insights to verify the targeting strategy that you’re using. This is really, really cool. I like I said, we’ve used it for all of our accounts. And it’s helped us to take some actions that have improved performance significantly. I’ll make sure that that Sam’s email address and web address are all in the show notes so you know exactly how to go and get there. So what are some of the actions that advertisers can take if they are looking at this audit and they see, oh, man, this percentage looks really high towards audiences. I’m not explicitly targeting, what sort of actions can we take?
+10:56
+There’s three main actions you can take off of the audit. The first one is, you can already check on the audience expansion, if there’s like a, let’s say there’s 65% plus of your budget that’s going to outside audiences, then you can go in and double check that audience expansion is not enabled. And automatically, that’s going to cut down that percentage, you know, if you do have it enabled, and you don’t want those broad matches, you can go ahead and uncheck that. So that’s one quick one. Second thing is you can go through and exclude any any losers. You know, instead of just saying, hey, just include this audience, but you don’t do an exclusion, you can go in and explicitly exclude clear cut losers. And then the third thing is, is the opposite of that you can come in and include any winners kind of like that, that use case that you’re talking about AJ.
+11:49
+I love that. And for any of you who’ve listened to more than one episode, you know, my stance on audience expansion. I absolutely hate it. I think it should be not included on any campaign, but certainly if you use the audit and you do see, you know, we had a situation where we did the audit pre and post removing audience expansion. And we saw a 20% difference. I mean, it was like, night and day between using audience expansion and the types of roles you’re reaching that you wouldn’t want to necessarily versus not. And from using this, what are some of the results you’ve been able to see? I mean, I can share what we’ve seen by by using the audit, but I wonder some of the other results that your other clients have seen?
+12:30
+Sure. So we, you know, we had a large client of ours who spends quite a bit on LinkedIn every month. And, you know, they they definitely went through and double, you know, double checked all the audience expansion, they went ahead and excluded some clear cut losers. And, you know, in in one case, they just had spent so much money on a on a job title that’s so far outside of the, of the target audience that, you know, they went back to LinkedIn, they’re still kind of in the process of trying to negotiate a credit and that’s no good. guarantee, but just because they had spent so much money on it, you know, they felt like they had to go back to LinkedIn. And so these are some of the things that our customers are doing with it. I mean, for sure you can you can streamline that campaign and you can get more optimized with this data. And then who knows, maybe you can win some credits back. I don’t know.
+13:19
+So when you’re looking at the results of your audit, what are you going to see? Can you tell us the specifics here?
+13:25
+Sure that there’s four main sections of the audit. The first one up at the top, you’ll see the overall dollar amount spent on other audiences. And then the next thing you’ll see is a pie chart and it’ll show you the spend percentage breakdown, you know, targeted audiences versus other audiences. So that’s quick, easy reference. Third thing is it’ll show each campaign and it’ll break down that campaign you’ll be able to see if it has audience expansion enabled on the campaign. And you’ll also be able to show you know, the dollar spent on targeted versus other audiences by campaign That way you can click on any campaigns that are just way off. And then that that’ll that’ll filter the last part of the audit, which shows you every single audience that has received impressions and clicks on that campaign. And then you’ll be able to see, hey, this was this was part of my targeting. And it’ll also identify, hey, these ones are not part of the targeting, but are still spending dollars against the campaign.
+14:24
+Very cool. All right so anyone listening, make sure you hit pause on the podcast right now, go in order your audit so that it’s running and you’ll get to see this 24 hours from now. And then specifically around the other reporting that you offer. Tell us about what you offer. I’d love to know how much it costs, you know what we all get access to as advertisers by getting to work with you.
+14:47
+Sure. So you know, for the full ABM reporting, you know, job title reporting and for the targeting audit ongoing, you know, we try to we try to keep it fairly cheap for advertisers. It’ll run between $100 and $400 a month if you’re just depending on on your spend levels. And, you know, it’s quick, it’s automated and you’ll have it whenever you need it.
+15:13
+Awesome. Let’s dive into the the ABM report. Can you give us specifics? Like when we’re looking at the ABM report, what exactly are we going to see? What sort of insights is it going to give us?
+15:23
+You know, for the ABM report, it’s useful to see you know, which ads are resonating with with targeted accounts. I know for for a lot of our customers they’re trying to go after certain accounts. The content team is coming up with so many different ads hoping that it’s, it’s going to be sticky, you know, with these targeted accounts, and they don’t really have a good way of measuring it. So this report will help you to see like what really is, you know, sticky with with your targeted accounts, and what’s not, I mean, because that’s the last thing you want to be is, is noisy, you know, to your targeted account, and this will clearly help you to be able to see that
+15:59
+Yeah. So you’ll get to see your impressions, your clicks, by company, your click through rates, your, if they’re filling out forms, either lead gen form or landing page, you’ll get to see which companies are converting. You’ll be able to sort them, you’ll be able to see the exact ads that people from those companies have interacted with, clicked on. I’ll just add my, my voice to this. It’s incredible. We use this for all of our clients and gives us pretty significant ammo that we can bring to our client reporting every week.
+16:32
+Awesome, AJ. Yep.
+16:34
+All right. So let’s also talk about the persona reporting, because the persona reporting is really similar to the ABM. It’s just, it’s targeting the persona rather than the company. Walk us through what we’re gonna be able to see by looking at the persona reports.
+16:48
+Yeah, it’s similar to the ABM one, you’ll be able to see by by job title, you know, which ads are resonating and which ones are not. All those same metrics that you had mentioned. You know, same same type of things. So we can see clicks, impressions spanned. If it’s a video, you can see video start, percentage of completed videos, all those different metrics. And I think for us the use case. You know, one of the big use cases that we’ve had is, there’s companies that, you know, for example, one of our customers, they started this new campaign, they’re really trying to penetrate the mind share of, you know, three, three different personas. One of them CMO, the other one is CIO, and the last one is this new, CRO, Chief Revenue Officer. And so with this reporting, it was awesome, were able to bring to light that they were killing it with CMO and CRO, like a lot of the content that they were serving up to these job titles. They’re very engaging high click through rates, low cost per low cost per leads. And then for the CIO, it was also able to reveal that there wasn’t one CIO, there wasn’t one CIO click, I think we looked over a three week period. They were kind of kicking themselves, but that It is important to know. You have to know what’s resonating and what’s not so you can swap it out. The last thing you want to be as noisy tier two target audiences.
+18:09
+Oh, yeah. And it’s important for advertisers to not take it so hard if you launch an ad to a persona, and it’s a total miss. It’s, it really is valuable to see that miss to know how you can change. It certainly doesn’t reflect on you as a marketer, like, oh, you were really bad at predicting. Predicting is what it is. We can do really poorly and still learn from it and do great afterwards. One thing I really love about this report, I don’t know if this is something that that is going to be publicly offered. But we were able to break down not only the job title, but also the job function of, of these personas. And it was really cool to see the exact job titles and what LinkedIn which job functions LinkedIn considers them, to be with him. So that was really insightful information for us being able to not only include/exclude job titles, but also do the same thing for job functions.
+19:04
+Yep, job function is definitely available as well.
+19:07
+And then of course, you offer reporting that is not just for LinkedIn. I mean, obviously, we’re friends specifically because you’ve got really cool stuff. I mean, we’re friends, because you’re awesome. But then we’re, especially friends because of the insights you give us into LinkedIn Ads, but you do not just LinkedIn. What are the other channels that you bring into your reporting? What sort of insights are you providing for your other clients?
+19:29
+I mean, really, our our company, I think I mentioned it before, but we’re all about true customer journey analytics. And so that’s every you know, from from the first ad click from the first visit to a person’s website all the way to the first dollar of sale. I mean, we’re we’re gathering data from all the platforms. So from all the platforms Facebook, LinkedIn, Bing, Google Ads, and from all the different web analytics platforms, we have connectors into all those. Very importantly for B2Bs, the CRM system, Salesforce and Dynamics. We are well versed in all these different platforms and, and really how to stitch them together in the right way so you can see the full customer journey.
+20:10
+Oh, yeah, Google Analytics, Adobe analytics, every platform you can think of Stoke does it. So I can testify. Sam, tell us where we can find you. We’ll have links in the show notes. But how do people follow up with you? How do people follow you how to people learn more? Sure, if you want to check out our website at stokedata.com. And you’ll see a little bit more about some of the things we’ve talked about today and in our other services. And then of course, you can find me on LinkedIn, Sam Fonoimoana and then my email address is Sam@thestokegroup.com
+20:44
+Love it. Sam, thanks so much for sharing your awesome findings and what you’re offering with us today. I’m really excited for other people to see the audit and get to take a peek at what they’re doing on LinkedIn and how to further improve because that’s what we’re all about here at the LinkedIn ads show.
+20:59
+Awesome AJ. Thanks so much for having me. Thank you.
+21:03
+So there you have it ladies and gentlemen. Reporting you didn’t even know was possible on your LinkedIn Ads initiatives. I’ll share Sam’s contact info right after this.
+21:18
+Thank you for listening to the LinkedIn Ads Show. Hungry for more? AJ Wilcox, take it away.
+21:28
+All right, as promised, here’s the episode resources. So we’ve included the link in the show notes down below, or on the B2linked.com/podcast website, if your show notes don’t have it. So check that one out. Absolutely, go get that free audit. And then if you want to contact Sam Fonoimoana his email address is Sam@thestokegroup.com. So you’ll find his email address down below there as well. If you are new to LinkedIn advertising, you’ll want to check out the LinkedIn learning course that I did all about LinkedIn Ads. The link for that down below as well. Or you can just navigate right to LinkedIn learning or lynda.com and search for the LinkedIn ads course you’ll see my face there. This course is either free or I think $25. So it is a smoking good deal, considering if you hired me to come in and train your team, the same thing would cost somewhere around $750 in training time, so definitely well worth boning up on that. Look down at your podcast player right now and hit the subscribe button. And please do go into wherever you’re listening and leave us a rating. And I would love it if you would leave us a review as well. I will shout you out if you review us. So if you want that shout out definitely take me up on that. And then with any ideas, any any suggestions, anything you’d like us to cover, reach out to Podcast@B2linked.com and I would love to take those and incorporate those into future episodes. Okay. With that being said, I’ll see you back here next week, Cheering you on in your LinkedIn Ads initiatives.
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

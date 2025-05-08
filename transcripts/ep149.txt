@@ -1,0 +1,108 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads Audience Penetration Hacks
+AJ Wilcox
+September 27, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Episode Summary:
+In this episode of the LinkedIn Ads Show, host AJ Wilcox explores the newly introduced 
+Audience Penetration Metric
+ in LinkedIn Ads. He shares insightful hacks on how to use this metric to better understand campaign reach, calculate audience sizes, and even estimate audience overlap—helping you optimize your LinkedIn Ads strategy and drive greater impact.
+Key Discussion Points:
+What is the Audience Penetration Metric?
+AJ introduces the Audience Penetration metric, explaining how it measures the percentage of your target audience that has been exposed to your ads. This provides a clearer view of how well your ads are reaching the intended audience.
+Hack #1: Calculating Total Audience Size:
+Learn how to reverse-engineer LinkedIn’s estimated audience size using the audience penetration metric and reach data. This allows you to get a more precise measurement of your audience size beyond LinkedIn’s rough estimates.
+Hack #2: Understanding Bid Effects on Audience Reach:
+Discover how to test the effect of your bid on audience reach by adjusting your bid over time. This helps you determine if increasing your bid results in a proportional increase in audience reach or if it leads to diminishing returns.
+Hack #3: Measuring Audience Overlap:
+AJ shares how the Audience Penetration metric can be used to measure overlap between different audiences, giving you a new way to analyze targeting strategies and ensure you’re reaching unique audience segments.
+Use Cases for Audience Penetration:
+Find out how to leverage this new metric to optimize your budget allocation, improve targeting accuracy, and better understand the engagement of your target audience on LinkedIn.
+Potential Limitations:
+AJ highlights some nuances of the Audience Penetration metric, such as differences in calculated and estimated audience sizes, and shares his thoughts on why these discrepancies occur.
+Additional Updates:
+Predictive Audiences Expansion:
+LinkedIn is expanding its predictive audience capabilities to include retargeting lists, conversions, and lead gen form interactions, allowing advertisers to create more sophisticated lookalike audiences.
+Inbound Conference Recap:
+AJ gives a brief recap of his experience at the Inbound Conference, sharing key highlights and announcements about the next year’s event location.
+This episode is packed with practical tips and advanced strategies for using the Audience Penetration metric to its fullest potential.
+Show Transcript:
+The audience penetration metric is rolling out, and I found some cool hacks you can do with it on this week’s episode of the LinkedIn Ads Show.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey hey, hey there, LinkedIn Ads fanatics. As he said, I’m AJ Wilcox, and I’m the host of the weekly podcast, The LinkedIn Ads Show. I’m thrilled to welcome you to the show for advanced B2B marketers that want to evolve and master their craft and become true pros at LinkedIn Ads.
+Admittedly, I didn’t think too much about the audience penetration metric when I first start getting rolled out across our accounts. But then after I did a little bit of a deep dive into the data, I’m a big fan. And I’m about to share all the really cool insights right after this short break.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+B2Linked is the ad agency 100 percent dedicated to LinkedIn Ads.. And we have been ever since 2014. You know, back before it was cool. We build a custom strategy for every account we work with. You get to work directly with me and my local team. No cookie cutter approaches or standard account templates from us.
+Nope.
+Plus, with the strategies that we’ve developed in our mastery of the platform, we always save our clients way more than we charge. So it’s kind of like getting the best in the biz for free.
+If you’d like to explore partnering with us for your LinkedIn ads management, schedule your free discovery call at b2linked.com/discovery.
+All right, first off in the news, I just got back from the Inbound conference. It was really good this year. There were 12,000 attendees in Boston. The keynotes were crazy, I got to hear Serena Williams, the tennis player, Kara Swisher, the tech journalist, I’ve been listening to her podcast for years, . David Spade was our stand up comedian on one of the nights and Ryan Reynolds was our closing keynote. I couldn’t have asked for more in the celebrities department.
+Next year, they announced that Inbound is going to be held in San Francisco instead of Boston, which I’m pretty excited about. And for those of you loyal listeners who attended and came to my presentation, thank you. It was awesome to get to meet so many of you.
+And thanks for coming up to say hi.
+We got a new feature. Predictive audiences has a new version rolling out. So you might have access to it now, or it might just be coming into your account here in the next few weeks. But Kasper Hundebal Hamann from Denmark, he’s in our LinkedIn Ads fanatics group, and he brought it to my attention. So, historically, we’ve been able to create predictive audiences from contact lists. That was pretty much it. Well, now, you’ll be able to create a predictive audience from a retargeting list. So, let’s say, your website visitors, you can create a predictive audience that looks like them. Or those who watch 50 percent of one of your video ads, you can now create a predictive audience that looks like them. You can also create it from conversions, or people who interact with lead gen forms. I am aware currently of a beta where you can create predictive audiences from company lists, not contact lists.
+So , we have some of our clients on that. I won’t be too surprised if that rolls out in the next quarter or so, if performance looks good.
+You know I love to hear from you. If you have a question, a review, or feedback for the show, you can message me on LinkedIn. My DMs are free and open. Or you can always email us at podcast@b2linked.com. And if you attach a voice recording from you, I’ll play them right here on the show, and I’m happy to shout you out, or keep you anonymous, just let me know.
+Alright, onto the topic at hand, let’s hit it. Audience penetration is a pretty simple metric. What it is, is it’s the total unique reach of your campaign, divided by the total audience size. So that means the number of unique individuals in your target audience, who have seen at least one impression, divided by the total.
+If you have it, you can see it underneath columns delivery. It might still be rolling out to accounts. So if you don’t see it yet, you’ll probably get it soon. What this does is it helps us calculate what percentage of our audience received at least one impression. And it’s a great way to understand how much of your ideal target audience you’re reaching, and especially how much you aren’t able to reach. But we’ll get into that a little bit more later.
+You can calculate this manually, and I used to do this for clients, but it was very manual. Because there’s no easy way to export your audience sizes for campaigns. You have to go into the edit process of every campaign and manually write it down.
+It’s a huge pain. But at least you do get the reach metric easily from an export.
+All right, so my first hack I want to share with you is actually calculating your total audience size. Because like I said, you can’t get a report from LinkedIn with it, but you can use this new metric to calculate it. And this is actually in your favor, because when you look at LinkedIn’s estimated audience size, it’ll say something like 100, 000 plus, but it’s not going to tell you the exact number.
+But when you use this hack to calculate it, it appears to be more accurate. But we’ll see, I’d love to hear your feedback. So what you do, export your campaign data to Excel and then create another column that is your reach column divided by your audience penetration percentage, this new column. And if you do this, the result is going to be your total audience size.
+So how does it work? I think it actually works really well. I did a full calculation for one of our clients. Reach numbers are exact. They’re down to the single number. And the audience sizes are always estimated, saying a certain number of hundreds of thousands or whatever, and above. So, theoretically, if you calculate your audience size from your reach, it might be more accurate. The audience sizes I calculated were 330, 000 from a 310,000 estimated audience. That checks out. One was 9, 972 from an audience that told me it was 7, 900 or above, that also checks out.
+I did end up getting a couple, especially from larger audiences would say around 610, 000 from an audience that LinkedIn in campaign manager says is 660, 000.
+So about half the time the calculated audience was larger than the audience size that campaign manager told us. And half the time it was below. But every time it was below, it was always in the much larger audiences. These audiences with, you know, 400, 000 plus, which by my standard are very large audiences, and I don’t like to run audiences that large. But in all cases, they were within about 10 percent of each other, which feels good.
+All right. So now you have a tool to be able to calculate your audience sizes without having to write those down individually. Very helpful. The next hack I want to share with you is how to determine how much your bids are affecting your reach. We know that bids have a big effect on reach because LinkedIn’s system is an auction.
+So, let’s say that you’re bidding artificially low. Let’s say you’re bidding like 7 per click when LinkedIn is recommending $20 per click for that audience. It makes sense that you won’t reach everyone in your audience. Since you’ll probably lose most of the auctions where you’re purporting to show your ads.
+So as you bid higher you qualify in the auction to show to more unique individuals So your reach should go up But the amount that it goes up is really really important. Alright, so here’s the test you bid really low for a month And you see an audience penetration percentage on that audience of like 10%.
+Okay. So then you decide to up your bid to let’s say 10 per click instead of seven. You do that for a month and you check your audience penetration score. Let’s say that that increases from 10% to 14%.
+Of course, you could obviously test this with much higher bids. Maybe you’re using LinkedIn’s recommendation of $20 per click. But what this is teaching you is that if you want to reach more of the members of your audience, then you’ll have to pay X percent more. So in this theoretical example, to get an extra 4 percent of your audience, you have to increase your click costs by 30%.
+So if you raise your bids significantly, let’s say you raise them to $20 per click, and your audience penetration score goes to 15%, you’ve now bid what LinkedIn was recommending anyway, which likely means that you would win the majority of auctions. And what that means is if you still have 85 percent of your audience that is untouched for a whole month, you’ve just determined that 85 percent of your audience is not active on LinkedIn over the course of 30 days.
+That’s really good information to have.
+When you do this test, you can also start to determine Okay, if I bid three times as much to get 5 percent more of my audience to see my ads, was that worth it in the hit of my efficiency to do it? You might determine that, yes, it’s worth it to get that extra 5%. In most cases, I’m going to say, no, I’d rather stick with the 10 percent I can get and pay realistic amount.
+All right, the next hack I have for you, I’m actually really excited about. This is measuring your audience overlap. If you’re a meta advertiser, you know, they actually have an audience overlap tool where you can calculate this, but LinkedIn has never had anything like that.
+Rumyana Kercheva , who’s in our LinkedIn Ads fanatics community. She pointed out something really interesting. She said the greatest part of this new audience penetration metric is that audience overlap is in the totals row. So you can see your total audience penetration when you’re inspecting individual campaigns. And I didn’t realize that it would account for the overlap. I think it’s super cool because we’ve never been able to calculate it. So to test this, I analyzed campaigns that were targeting the same exact audience. I selected both of those campaigns and looked at the total audience penetration.
+One of them had 15. 7 percent penetration and the other had 0. 5%. It was because it didn’t run very long, it didn’t spend very much. But when you click both of them and you see the penetration metric, it said the average was 15. 7%, which is the exact number of the one that had the highest penetration.
+Which tells me those two campaigns had nearly 100 percent overlap, which makes perfect sense because they are the same audience. So what that means is, campaign one with most penetration It hit all 15. 7 percent of those people, and then campaign two that only hit 0. 5, those 0. 5 were part of the 15. 7 percent that had already been reached in the other campaign.
+So I thought that was really cool. Then I wanted to compare different audiences, and I wanted to calculate what the average penetration could be between them.
+When I did the manual math of reach and total audience size, I calculated 13. 3 percent audience penetration, but when I look at them in Campaign Manager, it shows me 12. 9 percent. So that remaining 0. 4 percent is the likely overlap between those audiences. Which makes perfect sense because they were very different targeting, but there is going to be some overlap if you’re targeting similar kinds of audiences.
+I haven’t thought of a mathematical calculation to actually quantify the audience overlap, so I would love it if LinkedIn would come out with a tool like Meta. Otherwise, this is just me checking on a gut feel of what overlap looks like between audiences. That being said, if you’ve figured out a way to calculate this in any sort of meaningful way, I’d love to hear it from you, and I’d love to share it in a future episode.
+Big thanks to Kasper and Rumyana for pointing out the things that I pointed out in this episode. They are both in the fanatics community. So if you are not in the fanatics community, what are you waiting for? One very low monthly cost gets you access to the entire community where we’re all sharing what it is we’re learning. Plus, you get access to all four of our courses that take you from absolute LinkedIn Ads beginner to LinkedIn Ads hero.
+Plus there’s an upgrade to hop on a weekly group call with me and I can answer all of the questions you have very directly.
+You can check out the group by going to fanatics.b2linked.com.
+If this is your first time listening, we welcome you. Make sure to hit that subscribe button. If you want geeky LinkedIn Ads content in your ear holes next week. If you are a loyal listener, I’m always grateful for you, please take me up on this. Go to Apple podcasts and leave a review.
+Because it is by far the best way you can say thank you for us putting this content together. Plus, I’d love to shout you out. With any questions, suggestions, or corrections, reach out to us at podcast@b2linked.com Or you can reach out to me personally on LinkedIn. With that being said, we’ll see you back here next week. And as always, I’m cheering you on in your LinkedIn Ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

@@ -1,0 +1,157 @@
+AJ Wilcox
+Have you thoroughly tested the LinkedIn Audience Network yet? Some big changes have been made to it recently. And there’s a lot to appreciate. Today on the LinkedIn Ads Show, we’re diving into the LinkedIn Audience Network.
+
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+AJ Wilcox
+Hey there LinkedIn Ads fanatics. If you’re like me, you’ve seen the option for enabling LinkedIn Audience Network and sponsored content campaigns for years. Maybe it’s something that you’ve occasionally used, or in some cases, maybe you’ve always excluded it. Well, LinkedIn recently made big changes to the audience network. And I wanted to bring LinkedIn’s product team in to come and talk to us about it. Now we as marketers, we seem to always be shortening things to acronyms. I’ve called the LinkedIn Audience Network LAN for lots of years. And in this episode, we mostly refer to it by its full name, but don’t be confused. It’s the same option that I’ve talked about in the past. Now, Peter Turner was one of the product people at LinkedIn for lots of years. And I’ve gotten to interface with him for a long time, as he’s worked on many different projects. And as I wanted to have an episode all about the LinkedIn Audience Network, of course, I knew he was all over it. And I wanted to make sure we brought him on. And he introduced me to Lipika Gimmler, who’s also over it. And so we’re trying to kind of dual interview approach. So I hope you like hearing from both Peter and Lipika.
+
+AJ Wilcox
+I wanted to give a shout out to Rob Baijens from the Netherlands. And Rob I’m sorry if I butchered your last name. But he left a review on the podcast and he said, “100% the LinkedIn go to podcast five stars love AJs podcast, he gives so much insights, updates, and inspiration when it comes to LinkedIn advertising and more. What I especially like is not only his guru level expertise, although he is a LinkedIn guru, but the AJ also tells the audience when he simply doesn’t know yet asking the audience to share their thoughts. This makes his podcast 100% authentic. I want to apologize to AJ for not taking the time until now to give him the five star review he deserves”, with a little smiley face. “AJ, please keep up the good work as you bring so much value to the LinkedIn community. All the best Rob Baijens, the Netherlands.” Rob, I don’t care how long you waited. I’m so grateful that you left this review. I do try really hard to be truthful when there is something I just don’t know or don’t have enough data on. So I’m glad you picked up on that. I do have an ego. I don’t like to admit when I don’t know something, but I try really hard for you guys. Thanks so much for heeding the call when I asked for reviews. So thank you. And of course everyone else, please do follow Rob’s lead here and go and leave a review as well. As a reminder, make sure you go back and listen to episode 83. It was the holiday ad Performance Report. We’ve had about 35 man hours go into producing that episode and the report. If you skip that episode, do go back and listen to it. Okay, without further ado, let’s go ahead and jump into the interview.
+
+AJ Wilcox
+All right, Lipika and Peter, I’m so excited to have you guys here. Lipika, let’s start with you. Tell us about yourself and what you do at LinkedIn.
+
+Lipika Gimmler
+Hey, AJ, my name is Lipika. And I’m a product marketing manager at LinkedIn. And I work on the LinkedIn Audience Network. And I typically sit at the intersection of our product build and our go to market teams, really helping in the formulation of product value propositions as well as partnering with our product teams in continuing to build meaningful solutions for our customers.
+
+AJ Wilcox
+Fantastic. And, Peter, same question to you.
+
+Peter Turner
+Hey AJ, great to be here. I’ve been at LinkedIn for a little over six years now. I’ve had a variety of roles focused on different partnership programs. Throughout this time, one of those programs has been the LinkedIn Audience Network. And I’ve been a part of the growth of LinkedIn Audience Network from its founding. And now my team looks after the partnerships and ecosystem strategy necessary to keep growing the value we create for marketers.
+
+AJ Wilcox
+That’s awesome, Peter, as long as I can remember you and I’ve been talking about the LinkedIn Audience Network. The impetus for this whole interview was I haven’t had an episode about the LinkedIn Audience Network. And I’ve always been telling myself as soon as I can have Peter on that’s when we’re going to have an episode. So this is the culmination of that. Really excited to have both you and Lipika here. Well, I think we need to start out with just a general definition here. What is the LinkedIn Audience Network? I’d love for you to tell us even more about how it works, what it’s used for? How we see it within campaign manager.
+
+Lipika Gimmler
+Yeah, absolutely. So in a nutshell, the way we describe the LinkedIn Audience Network is that it’s a placement available within LinkedIn suite of advertising products. So it essentially enables our advertisers to reach their targeted professional audiences at scale across a network of vetted publishers really to maximize their advertising outcomes. So by leveraging the LinkedIn Audience Network, what advertisers can do is number one, they can extend the reach of their sponsored content campaigns, to LinkedIn professionals who happen to be active on trusted third party apps and sites and advertisers are also able to boost campaign performance across full funnel objectives. So by leveraging the LinkedIn Audience Network, they can achieve better return on adspend and improve their marketing outcomes by really activating their campaigns across both the LinkedIn feed and the LinkedIn Audience Network. So it really is a powerful, powerful tool that should be considered by advertisers who want to really expand the scale of their B2B campaigns.
+
+AJ Wilcox
+And I love the audience network for the exact reason. When we’re just advertising on LinkedIn, it almost feels like we’re bidding on someone and we’re waiting for them to come back to LinkedIn. But through the LinkedIn Audience Network, we’re able to reach those exact right professionals, with the right targeting pretty much all the way across the web. So I’m a big fan.
+
+Lipika Gimmler
+Yep, absolutely. And that’s exactly what the product was designed to do is to really work in partnership with a LinkedIn feed to help our advertisers ultimately reach their intended audiences across the touchpoints that matter whether that’s on the platform, or whether that’s off the platform. So it really is a fantastic tool to consider experimenting with.
+
+AJ Wilcox
+Perfect. And Peter, tell us about how LinkedIn decided who would be a great publisher to partner with on the audience now?
+
+Peter Turner
+Well, first, we couldn’t have an audience network without publishers. And so we’re deeply grateful for our publishers and the role they play. Our publisher partners strategy is one that is deeply rooted in our principles provide value to our B2B marketers. And we do this by extending campaign scale and reach while helping ensure that their brand messages appear in safe environments. We look at both quantitative data like the relative level of invalid traffic on a publisher as well as more qualitative reviews of their ad experience and ad load. We prioritize publishers that we know to be spaces where our professional audiences are present and engaged, and we have checks and balances in place to bid on quality inventory. Because brand safety is incredibly important to our advertisers and to us, we work with leading partners like DoubleVerify, Integral Ad Science, and Pixelate to help protect marketer campaigns.
+
+AJ Wilcox
+And what I love about this is it seems like every ad platform who has an audience network, the general feel is it’s going to be a lower quality network. But I’ve never felt that with LinkedIn, it always feels like there’s premium placements. And I would imagine that you’re probably to thank for that.
+
+Peter Turner
+Just like with LinkedIn, we take brand safety very seriously and want to make sure that marketers can trust coming off LinkedIn as much as they trust running from their campaigns on LinkedIn.
+
+AJ Wilcox
+Most of us know that the various display networks out there for digital marketers are commonly regarded as being low quality. So how is the LinkedIn Audience Network different from the Google Display Network? And Facebook’s Audience Network?
+
+Lipika Gimmler
+Yeah, that’s a great question. And to really summarize it succinctly, the LinkedIn Audience Network is truly designed and built differently from other audience networks, as it’s ultimately rooted in enabling our advertisers to reach highly coveted professional audiences and engage b2b decision makers across the touchpoints that matter, and do so at scale. So we consider our audience network to actually be a core part of our ad placement offering. So it’s considered to be a truly vetted product from both a performance standpoint and from a brand safety standpoint, as Peter alluded to, so advertisers who are looking for ways to further scale their campaign and engage with their target professional audience across the surfaces that matter, find a lot of value in leveraging our audience network, as we’ve had studies show that marketers can achieve up to nine times more monthly touch points to reaching LinkedIn members who tend to be more active on our audience network. This is definitely something that really does set us apart from other audience networks. And we’ve also invested a lot in making sure that we reach and target the right audience through integrations to third party supply sources, and bolstering our audience graph. And of course, doing so safely with leading brand safety and suitability solutions through the partners that Peter mentioned as well. DoubleVerify being one of the most recent partnerships that we’ve forged in the past quarter,
+
+Peter Turner
+AJ, we found that advertisers achieve better return on adspend improve marketing outcomes by by asking their campaigns both on LinkedIn on instant work, and alongside the LinkedIn feed. Advertisers see an estimated cost per 1000 impressions reduced by 47%. And 63%, lower cost per conversions when leveraging the Audience Network.
+
+AJ Wilcox
+And that makes perfect sense to me. This is the right people seeing your message more often. in more places. I like to use this thought idea of like, what makes you cool in high school? Is it one friend who tells 1000 people that you’re cool, or is it 1000 different people saying that you’re cool. We know what drives popularity, and its multiple sources. I really see that as being one of the the big ways that the LinkedIn Audience Network helps our campaigns.
+
+Peter Turner
+We help LinkedIn marketers be cool. I like that.
+
+AJ Wilcox
+Yeah, exactly. So speaking of cool, what are some of the ways that marketers are using the LinkedIn Audience Network? If you want to share any like cool case studies or what people are doing? That has been really exciting?
+
+Lipika Gimmler
+Yeah, absolutely. So we’ve actually seen some remarkable case studies of customers leveraging LinkedIn Audience Network for very various use cases such as brand awareness being one that comes top of mind. So an example is a leading technology company that works with LinkedIn primarily because of our zero party and our first party data. So just double clicking into what those terms mean specifically. So zero party data is anything that our members willingly provide us via their LinkedIn profile information. So this is publicly available information that they have on their LinkedIn profile and updated continuously. Whereas first party data is what we can then derive from user behavior on the platform. So an example of this would be engagement data. So this customer in question that leveraged LinkedIn Audience Network for brand awareness, actually leveraged it for a very specific use case, which was Account Based Marketing. So they leveraged our audience network to really reach hard to find strategic members of the buying committee, and were ultimately able to see a 58% decline in CPM or cost per 1000 impressions, and saw 151% increase in their ability to reach CXOs, which was a core audience segment that they were looking to target. Similarly, we’ve also seen advertisers leverage the LinkedIn Audience Network for consideration campaigns. So here, an example that comes to mind is a client who leveraged the LinkedIn Audience Network to lower cost per clicks by about 65%. And saw an uptick in click through rates by about 90%. And we have another client who saw 2.2 times higher video view through rate, and 2.5 times higher video completion rate and 64%, lower cost per view. So as you can tell from a lot of these examples, the LinkedIn Audience Network is really great for full funnel objectives. So well, brand awareness is sort of an obvious use case for advertisers to use our audience network for we’ve also seen a lot of our clients use it for consideration and bottom of funnel campaigns as well.
+
+Lipika Gimmler
+We also as a team recently figured out that the LinkedIn Audience Network, if you’re using the single image ad placement, you can build your single image ad retargeting audience very quickly. So those are some of the great things I hear you loud and clear for the results that you’ve seen across these other clients. Peter, what about you?
+
+Peter Turner
+Yeah, you know, it’s not just for branding. As Lipika talked about, AJ, we’ve all seen customers leveraging LinkedIn Audience Network for bottom funnel objectives as well. I didn’t get to work with our customers as much. But these examples are so impressive, this one sticks out to me. There was a client who’s a leading provider of business cloud communications, who use the audience can work as a way to help their team connect the brand initiatives to business outcomes and saw 65% Lower CPMs while driving 93 times more conversions from CTOs the audience that mattered most to them. And another interesting use case we’ve seen recently is one in APAC, where an agency client enabled LinkedIn Audience Network for their branding campaign and then built a retargeting campaign afterwards, to retarget audience reach via LinkedIn on instant work enabled campaigns via Legion forms. And they saw a 2x increase in Legion form converts as a result. It’s kind of like that example you were talking about AJ building that retargeting audience from a LinkedIn Audience Network campaign.
+
+AJ Wilcox
+We were so excited when we found out that the audience network could build your retargeting audience. I mean, anytime we’re going after an audience on LinkedIn, you have to have a minimum of 300 people. It can take a while to build a retargeting audience and 300 people, but it built very quickly on the audience. So I think that’s way cool. Here’s a quick sponsor break and then we’ll dive into the rest of the interview.
+
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+
+AJ Wilcox
+If you’re a B2B company and care about getting more sales opportunities with your ideal prospects, then chances are LinkedIn Ads are for you. But the platform isn’t easy to use, and can be painfully expensive on the front end. At B2Linked, we’ve cracked the code to maximizing ROI, while minimizing costs. Our methodology includes building and executing LinkedIn Ads strategies customized to your unique needs and tailored to the way that B2B consumers buy today. Over the last 11 years, we’ve worked with some of the largest LinkedIn Ad spenders in the world, we’ve spent over $150 million on the platform, and we’re official LinkedIn partners. If you want to generate more sales opportunities with your ideal prospects, book a discovery call today at B2Linked.com/apply. We’d absolutely love the opportunity to get to work with you. Alright, let’s go ahead and jump back into the interview.
+
+AJ Wilcox
+So what some of the work that goes behind the scenes and ensuring that LinkedIn’s Audience Network is brand safe, and that advertisers have the controls that they need.
+
+Peter Turner
+AJ, this is one of my favorite questions and one that you know, we spend a lot of time at LinkedIn, a lot of work goes on behind the scenes. So at its core, we want to make sure that marketers feel really confident running off LinkedIn just as much as they do on LinkedIn. And we continuously work to uphold LinkedIn brand safety standards, across both the feed and the Audience Network. There’s both manual and automated brand safety checks that we perform as a team. And we partner with industry leaders, such as iOS, DoubleVerify and Pixelate to filter out low quality inventory across the network. And we also have an in house team that manually invests and audits publishers regularly, to make sure that we’re prioritizing publishers based on performance and audience engagement to maintain the quality of a network. This is core to what we deliver for our marketers, and really important for my team to get right.
+
+Lipika Gimmler
+Yeah, and in addition to all of the fantastic under the hood protections that Peter mentioned that essentially come out of the box with a LinkedIn Audience Network, something that we’re really, really excited to announce, the launch of this quarter is a brand new brand safety hub, where an advertiser can actually design their own brand safety guardrails to reach their desired professional audiences across third party apps and sites, while still remaining aligned with their brand safety needs. So with this new brand safety hub that we’ve launched, what people can essentially do is number one, they can download and review the entire list of publishers that make up the LinkedIn Audience Network. So as to, you know, take a look at them and ensure there’s transparency into what makes up our audience network. In addition to this, they can also create an upload, custom allow lists and custom block lists to be very specific in identifying the publishers that they want their brand messages to appear on. And finally, we also have introduced a new feature where advertisers can now import and apply their own DoubleVerify powered authentic brand suitability and custom contextual targeting profiles to the LinkedIn Audience Network campaigns. So this is a brand new partnership that we’ve forged with an industry leader like DoubleVerify. So it’s a pretty fantastic new feature that can be leveraged by advertisers who use DV in their campaigns. So in addition to all of these new features, we also have category blocking, which essentially leverages tech lab content taxonomy categories, at the campaign level. So a ton of customization, a ton of manual controls that our advertisers can apply in setting up their brand safety guardrails is what they can look forward to, in addition to the automated checks that are already in place within the product.
+
+AJ Wilcox
+Lipika, I have to say, I’m a huge fan of the new brand safety hub. Some of the initial exploration that we did, as soon as we found out that we could upload our own targeting and block lists, we thought, well, hey, what if we started showing ads just to apps, maybe for something like a mobile app? Or what if we blocked apps and just showed to publishers, and we wouldn’t have had that level of control without the brand safety hub. So props to you guys for releasing that. That was a really cool release.
+
+Lipika Gimmler
+Yeah, absolutely. It was something that was a top asked by a lot of our customers. And we’re really, really excited to be able to bring them to life and encourage anybody and everybody who is sort of on the edge of wanting to test out the LinkedIn Audience Network to kind of give it a go and see how it works out for them from a brand safety perspective, specifically, and obviously, feedback is always welcome.
+
+AJ Wilcox
+So Lipika, I know this is kind of your wheelhouse. I’m curious to ask about what the future of the LinkedIn Audience Network looks like.
+
+Lipika Gimmler
+Yeah, absolutely. So the future for the LinkedIn Audience Network is absolutely bright. And our teams are consistently working to introduce new ad formats and ad placements that are exclusive to the LinkedIn Audience Network. As I mentioned, prior LinkedIn Audience Network is considered to be a core part of our advertising solution. So there’s a lot of investment from an r&d perspective, and a lot of investment in terms of really soliciting what our customers are looking for, in terms of what’s going to bring them value. So we really are looking to further fortify LinkedIn as a whole as the B2B marketing partner of choice for brands and agencies and the LinkedIn Audience Network is a key component to how we’re going to get there. So we’re really excited to what’s in development. But at this point, there’s a lot of under the hood work that’s being done. But we’re happy to share more about it in the coming months, hopefully, on a future episode that we might be able to guest on again with yourself, AJ,
+
+AJ Wilcox
+Perfect. Well, we’d sure love to have you back for any new developments. That’d be fantastic. Always. So excited to see how fast LinkedIn is moving at coming out with new features, and especially around the LinkedIn Audience Network, I’ve noticed, I’ll be inside of campaign manager and just see something new and go, wow, I didn’t even know they were working on that, especially like the brand safety hub, those awesome. We had an episode several back about the cookieapocalypse that’s happening. I’m curious how the cookieapocalypse is affecting the LinkedIn Audience Network, especially after chrome stops respecting third party cookies. What can we expect?
+
+Lipika Gimmler
+Yeah, that’s really great and a very timely question, because it’s definitely top of mind for a lot of folks in our industry. And this is one that our team has really been focused on for the past few quarters to address and to find meaningful solutions for. Ultimately, it boils down to the fact that the LinkedIn Audience Network, again, is truly an extension of LinkedIn, with the anchoring feature being LinkedIn’s zero and first party data, our targeting data, that is really second to none when it comes to professional audience targeting. So along with these deterministic data assets, we rely on our proprietary privacy enhancing group identity solution, which essentially leverages LinkedIn first party data to group members based on shared professional attributes. So examples of this could be title or seniority. And this essentially enables us to reach professionals at scale through our first party data and not individual trackers. So we’ve truly think that B2B can be better served by using group level, and other privacy enhancing solutions that are rooted in this proprietary first party professional data. And with our audience network, advertisers can harness the power of LinkedIn’s targeting to really accelerate their marketing outcomes across a network of vetted publishers where their audience is engaging the most. And they’re able to do so while enhancing member privacy in an evolving identity landscape. So the investments we’re making across LinkedIn within this particular space is definitely being bolstered within the LinkedIn Audience Network as well.
+
+AJ Wilcox
+Perfect. So it doesn’t sound like we should be afraid of cookieapocalypse happening, it’s not going to shut the LinkedIn Audience Network down.
+
+Lipika Gimmler
+Not at all it is in fact being thought of at the forefront of all of this innovation. So you know, we’d recommend we encourage our advertisers to leverage the Audience Network to really reach their audiences at scale, because it’s not something we’re necessarily afraid of at this point, but we’re actually thriving in the current environment.
+
+AJ Wilcox
+Beautiful to hear. So as we are turning on LinkedIn Audience Network campaigns, and we’ve been testing them quite a bit, we’ve noticed that when you turn something on, it’s going to react in the auction slightly differently. So I love to ask, like, how does the LinkedIn Audience Network interact within the auction for LinkedIn traffic? How might you scope the right balance of ensuring that you have as much traffic going towards on network as LinkedIn Audience Network?
+
+Peter Turner
+So at LinkedIn, we work to maximize marketing outcomes for all of our customers across all the available placements we have. It’s really based on what they’re trying to achieve a scale. So our platform algorithms work to show brand messages across both feed and LinkedIn Audience Network that match an average professional target audience first, and then based on the campaigns objective second, and, and at the same time, while considering their budget in bid type. And again, the priority is to drive you know maximum key results, as per their objectives at the lowest cost. And this ultimately decides how impressions are split across the LinkedIn Audience Network and our feed, as our ad platform behaves in a placement agnostic matter, and considers all available placements at par with each other. This also helps ensure that advertising on LinkedIn is seamless and data driven, while being anchored in our robust and proprietary professional audience graph for member interactions with LinkedIn. One suggestion for advertisers, as I’m thinking about the problem presented, you know, prefer testing and monitoring a campaign or forums across, you know, the LinkedIn Audience Network and their feed distinctly would be to run parallel AB campaigns, one with LinkedIn audience network enabled and one without while mimicking the exact same campaign parameters. This way we can assume that 90% of LinkedIn Audience Network enabled campaigns will deliver on LinkedIn Audience Network, while the other would be pure feed campaigns, and better the chance of reaching professionals across both the feed and LinkedIn Audience Network semi-equally.
+
+AJ Wilcox
+And that’s exactly what I’d recommend to because you can’t run just a LinkedIn Audience Network campaign. So duplicating both campaigns having one set to do the LinkedIn Audience Network, the other set to be LinkedIn only. That’s a great way of AB testing the campaigns, so I’m a fan of that approach. All right, so final question for both of you. What are you both professionally and personally most excited for right now or this year.
+
+Lipika Gimmler
+Yeah, I’m personally really excited to see more B2B marketers leveraging the LinkedIn Audience Network and finding interesting use cases for it in their marketing campaigns. A ton of times we connect, when we connect with our advertisers, we find use cases that we hadn’t even thought about in the first place. So it’s really, really engaging for us to connect with our clients and learn about how they’re utilizing the audience network within their toolkit. And there are so many learnings that are to be had by experimenting with the LinkedIn Audience Network and unlocking test budgets for it. So I’d really encourage all of the marketers who are tuning into this episode to connect with your LinkedIn account team, and explore ways by which you can expand the possibilities of what can be accomplished by tapping into, you know, LinkedIn and the LinkedIn Audience Network to achieve your B2B marketing dreams and ambitions.
+
+AJ Wilcox
+Love that. And, Peter, same question to you.
+
+Peter Turner
+This is a fun one for me. So I’ve got two young boys at home, one and three. And so I’m getting a ton of energy and excitement, watching them learn and grow. And as much as I think about my work at LinkedIn, and specifically on the Audience Network, I spent a lot of time reading about parenting, and how to raise kind kids, and connect it back. That multi dimensional sense of who we all are, is really the key to LinkedIn Audience Network, I spend a lot of time on LinkedIn, but I also spend time elsewhere. And the value that the audience member creates is for marketers to reach me in multiple ways. And I’m very excited about that.
+
+AJ Wilcox
+I’m excited to hear congratulations on being an amazing parent who cares, and is trying to raise kind of children. That’s awesome. This kind of concludes the questions I had, do either of you have anything else that you want to add?
+
+Lipika Gimmler
+At this point? Not really, I think this was a fantastic opportunity to really connect with your audience and to chat with you, AJ about, you know, what the foundational concepts are that the LinkedIn Audience Network was founded upon, and just all of the excitement that we have for what’s to come. So we’re really grateful for the opportunity and the time here, and we hope to come back and share more about, you know, the product roadmap, and maybe talk with customers and learn more about some of the use cases that are using the audience network for so again, appreciate the chance to chat today.
+
+Peter Turner
+And AJ, from mindset, you know, like the open to it, we’ve known each other for six or so years now working across, you know, various solutions at LinkedIn. And it’s great to be on the podcast, and thank you for all you do to champion you know, and and support that LinkedIn marketer. It’s not unusual for me to have a question about how to run a LinkedIn ad campaign and think to ask you first, and so I really think of you as an expert on what you do. And so thank you for the time today.
+
+AJ Wilcox
+Well, thank you, Peter. Thank you Lipika! Grateful that you would come and share so deeply with us and answer all my terrible questions. So much appreciate it! And have a great rest of your day.
+
+Lipika Gimmler
+Thank you. Thank you.
+
+AJ Wilcox
+I’ve got the episode resources for you coming right up. So stick around.
+
+Thank you for listening to the LinkedIn Ads show. Hungry for more? AJ Wilcox, take it away.
+
+AJ Wilcox
+Alright! I hope you enjoyed the interview. I wanted to walk you through some great resources we’ve got for you. If you’re looking to learn more about LinkedIn Ads, look no further than the course that I did on LinkedIn Learning all about LinkedIn Ads. You’ll find the link in the show notes below. It is by far the most detailed, the least expensive, and the highest production value course out there, so check it out. If this is the first episode you’ve heard, congratulations, we’re excited that you found us. Make sure to hit that subscribe button on whatever podcast player you’re listening to. We’d love to have you back next week. But if this is not your first time listening, I would ask you please do leave us a review. Most of these reviews are done in the Apple podcasts section, but if you have anywhere else that will let you leave a review, please do. It truly means a lot to me. With any questions, suggestions, or corrections, reach out to us at Podcast@B2Linked.com. And with that being said, we’ll see you back here next week. We’re cheering you on in your LinkedIn Ads initiatives.
+
+‍

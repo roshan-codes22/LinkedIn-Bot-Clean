@@ -1,0 +1,120 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads New Website Actions Feature Blows Google/Meta Away | The LinkedIn Ads Show
+AJ Wilcox
+September 20, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+LinkedIn’s help article about Website Actions
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Episode Summary:
+In this week’s episode of the LinkedIn Ads Show, host AJ Wilcox introduces 
+LinkedIn’s groundbreaking new feature—Website Actions
+—which simplifies conversion tracking and retargeting. Unlike Google or Meta, LinkedIn makes setting up conversions incredibly easy without the need for coding. AJ breaks down how this feature works, its benefits for marketers, and some challenges to be aware of.
+Key Discussion Points:
+Website Actions Overview:
+ Learn how LinkedIn’s new feature helps track conversions by monitoring button clicks and page visits on your website, all without needing any coding skills.
+Why Website Actions is Groundbreaking:
+ Unlike other platforms where you need developer assistance or complex setups, LinkedIn allows you to track button presses directly within Campaign Manager, making conversion tracking straightforward and marketer-friendly.
+Setting Up Website Actions for Conversions:
+ AJ walks through the step-by-step process of setting up Website Actions to track conversions and create retargeting audiences, as well as tips for optimizing these features.
+Limitations and Workarounds:
+ While Website Actions is powerful, AJ also highlights some of the bugs and limitations, such as delayed updates on page changes and reliance on cookies for retargeting.
+Retargeting with Website Actions:
+ Discover how to create retargeting audiences based on specific button clicks or page visits, and learn why this feature could be a game changer for LinkedIn Ads.
+Wishlist for Improvements:
+ AJ discusses potential future enhancements that could make Website Actions even more useful, like the ability to manually refresh updates or view pages as LinkedIn sees them.
+Additional Updates:
+Axiom Audiences:
+ AJ shares exciting news about LinkedIn making Axiom audiences more accessible, allowing advertisers to use advanced targeting criteria such as household income or property value.
+Speaking at Inbound Conference:
+ AJ gives a brief update about his recent speaking engagement at the Inbound Conference.
+Listener Review Spotlight:
+ AJ shares a 5-star review from a listener in Italy who credits the podcast with helping them achieve significant results in LinkedIn Ads.
+This episode is packed with actionable insights, making it beneficial for any B2B marketer looking to enhance their LinkedIn Ads performance with the latest tools and techniques.
+ 
+Show Transcript:
+LinkedIn Ads has a new feature that neither Google ads nor meta ads can match. And it makes our lives as marketers a lot easier. We’re talking all about it on this week’s episode of the LinkedIn Ads Show.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey, they’re LinkedIn ads fanatics. As he said, I’m AJ Wilcox. I’m the host of the weekly podcast, the LinkedIn ad show. I’m thrilled to welcome you to the show for advanced B2B marketers who want to evolve and master LinkedIn Ads and achieve true pro status.
+The topic of this week’s episode is LinkedIn’s new website actions functionality. Like I said in the teaser, it’s great for us as marketers and no other platform that I’m aware of has a way to make setting up conversions so easy.
+I’ll share what makes it so groundbreaking right after the short break.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+B2Linked is the ad agency 100 percent dedicated to LinkedIn Ads. And we have been back since 2014. You know, before it was cool.
+We build a custom strategy for every account we work with. You get to work directly with me and my local team. You won’t get any sort of cookie cutter approach or standard account template from us. Plus with the strategies we’ve developed and our mastery of the platform, we save our clients way more than we charge. So it’s kind of like getting the best in the biz for free. If you want to explore partnering with us for your LinkedIn ads, schedule your free discovery call with me today at b2linked.com/discovery.
+First off in the news, I’m speaking at the Inbound Conference this week. So by the time you hear this episode, I will have already presented, but if you’re there, I hope we got to chat after the session was over.
+Something really cool I noticed this week, many of you might know, but LinkedIn has a partnership with the data provider called Axiom, and it used to be really difficult. You would have to ask your LinkedIn rep to add an Axiom audience into your campaign. And then they would go to Axiom, have it added, and then by the time you got the audience added to your campaign, now you can’t do anything with it. If you want to remove it, you have to ask your rep to do it. So they’re really inflexible. What I love about these Axiom audiences though, is you get access to the kinds of data that LinkedIn just doesn’t have. A lot of it’s financial ability to target. So for instance, if I want to target just people who have a high household income or a high home value, or live in certain zip codes, or drive a certain car, lots of those kinds of things are axiom audiences that LinkedIn can pull in.
+Alright, so what I noticed this week is that Axiom audiences are now loaded into your audiences under plan. And so now you can use them however you want. You can add them to as many campaigns as you want. You can add them as exclusions. The world is really your oyster at this point.
+So those of you who use Axiom’s audiences often, I’m sure you’re going to find this to be quite a treat. All right, do you have a question, a review, or feedback for the show? Message me on LinkedIn. My DMs are open and they’re free. Or you can always email us at podcast@b2linked. com. You can attach a link to a voice recording from you, and I’ll play it right here on the show. I’m always happy to keep you anonymous, or I can shout out your details as well.
+I want to read a recent review that was left on Apple Podcasts. It says, &quot;Invaluable resource, five stars. This podcast is the best resource on LinkedIn ads available online. I want to highlight the most important things for those of you who, like me, deal with digital marketing on LinkedIn. AJ’s advice and suggestions really work. They allowed me to save a lot of money and obtain results that I believe would have taken me months, if not years, without AJ’s precious advice. Bravo.&quot;
+Alright, this was left by Pelpa78 from Italy. Pelpa, I don’t know who you are. Let me know if you want me to shout you out, but I really appreciate the review. It warms my heart. Nothing makes me happier than knowing that someone is taking this advice, they’re putting it to work, and it’s saving them money and getting better performance.
+As always, I want to feature you. So please go to Apple podcasts, leave us a review, and I’d love to shout you out. All right. Without further ado, let’s hit it.
+Back in 2022, LinkedIn announced the acquisition of an Israeli company called Oribi. O R I B I. The official announcement from LinkedIn said that the acquisition of Aribi will accelerate our marketing attribution capabilities and establish a new LinkedIn office in Israel.
+I didn’t think much of it at the time, but then at the beginning of 2024, A new product came out that I got really excited about called Website Actions.
+I didn’t realize it, but Website Actions is a direct result of the Oribi acquisition. And it’s awesome. Let me paint the picture for you on why it’s so awesome. So whether you advertise on LinkedIn, Google, or Meta, If you want to track a conversion, you’ve got a couple of options. Number one, and this is my preferred way, when someone fills out a form, you can then redirect them to a thank you page. You then make sure you install the tracking pixel on that page, and then you set the address of that page, so that when that page loads, LinkedIn counts that as a conversion. I’ve recommended this for years and years, because it’s so easy to troubleshoot, and it doesn’t require much technical knowledge at all. Most marketers can do this.
+But I remember five ish years ago, when I encountered my first developer, who said, Oh, we don’t want to redirect to a thank you page. That’s a bad experience to redirect to a new page. So instead, once the form’s submitted, the URL is going to stay the same, and we’re just going to pop up a conversion message with JavaScript AJAX saying, Thanks, we’ll get back to you.
+If this is the case, it’s so much harder to set up conversion tracking, but it’s not impossible. What you have to do, you have to get your developer to attach a piece of JavaScript code to execute when that button is pressed. And then the ad network will give you a little snippet of, I think it’s HTML, that the JavaScript will then fire.
+Most don’t do this actually inside the HTML of the page. Most end up doing it with a tag manager solution, like Google Tag Manager, because it is easier than manually coding the conversion into the button’s code in the HTML. But since I’m no JavaScript developer, that was never something I figured out how to do. I hated how difficult it was to troubleshoot if a conversion wasn’t working.
+When a client said, our developer said this is good to go, I would just have to sit back and cross my fingers and hope, and watch, wait for a conversion to actually show up in the account. And if it doesn’t fire for a while, then you and your developer are kind of stuck changing stuff and hoping that it works next time. Really annoying.
+Well, I’m happy to report that this is a challenge of the past for LinkedIn advertisers. With website actions, attaching conversions to a button press is super easy and it requires no coding whatsoever. How it works is you first have the LinkedIn insight tag installed on the page of the website that has the form that you want to track. LinkedIn’s website actions inspects the page behind the scenes. And it finds the various buttons and links on the page so that it knows when they’re pressed. Then you, the advertiser, you can go in and set up a conversion. And then Website Actions just shows you the names of all the buttons. You select the box of the button name and boom, you’ve got a conversion. It’s really straightforward.
+This same technology can be used for creating retargeting audiences.
+So you can create a retargeting audience of anyone who clicked a specific link or pressed a specific button.
+All right. If you want to follow along, this is how it works for conversion tracking inside of campaign manager, you go to analyze in the left hand menu. You click conversion tracking. And then create conversion. The type of conversion here is an insight tag conversion. You follow the same steps you always do when you create a conversion. You give it a name, you specify what kind of a conversion event it is, you set the time frame, and choose your attribution model. By the way, I always suggest the attribution model called Last Touch, Last Campaign.
+Even though the default is something different. The default is Last Touch Each campaign. The reason I don’t like Last Touch Each campaign is that it will double count your conversions, and it’ll actually overstate your actual performance. For me as an agency, I’m always super embarrassed if I report a certain number of conversions, and the client looks in their CRM and says, Oh, we didn’t have that many. It makes me look dumb or like I was trying to pull the wool over their eyes. So I would much prefer it only to count the conversion to the campaign that last touched it. All right, so you hit next, and this is where the website actions actually kicks in. The Website Actions tab appears with two categories underneath it. There’s one for Buttons, and there’s one for Pages. Now, Buttons is what I use the most. This is where you select the name of the button or the link on the page that you want to be your conversion. If you select Pages, it’ll show you a list of all of the pages on your site that the Insight tag’s installed on.
+If you select a page, it counts any visit to that page as a conversion. So this is best used if you’re actually tagging a thank you page.
+It’s important to note that when you very first go to set up the conversion, over to the right, you’ll see a drop down with all of the different domains that LinkedIn sees using your tag.
+So let’s say you’ve attached your tag to your website and then maybe a landing pages product and then maybe something like your Calendly has it. You can there, select the domain for where the button actually is that you want to track and you can set up conversions, on different web domains as well.
+Alright, so one mistake that I made, and I’m actually really embarrassed about it, I thought that if you selected a button. And then flipped over and select the page that the button was on that it would filter. It would act as an and, and it would only count the button presses on that specific page as a conversion.
+That’s not the case at all as it turns out. What it does is it counts any visit to the page that you selected as a conversion. And then if there were any button presses on that button, it just adds it into the same bucket. Totally not helpful.
+What you want to do instead, if you want to actually just track a specific button on a specific page, you select the button first, and then on the next page, you can click add filters, and then you can click the radio button for track only on specific pages, then you can add the page in that you want it to filter for. When you do this, you have a few different options for how to match that page.
+There’s one called contains. There’s one called starts with, and there’s one called equals. I really like to use contains, and then I give it some string that is only in the URL of that page and no other pages. And I like contains or starts with. Because if you have different tracking parameters, like UTMs, that are on the end of the URL, if you selected equals, it won’t count the conversion because it looks at the entire URL and goes, Oh, that’s not what they supplied.
+And of course, as you know, tracking with UTMs and other tracking parameters is super important. You don’t want to give up on that.
+If you’re counting a submit button that submits a form, Don’t forget to click the box at the bottom that says track only buttons that submit a form. I’m not totally certain what this button actually does, but I think what it’s doing is in case there’s another button or link with the same name, or maybe someone attempts to submit the form but they don’t have all the fields filled in, it won’t actually count it as a conversion until it knows that the form actually submitted.
+Then on the next page, you can select the campaigns that you want to attach this conversion to. Which is by far the easiest way if you have a lot of campaigns But if you don’t have a lot of campaigns or you’re gonna be creating the campaigns later You can always go into each campaign and select the conversion manually later.
+So that’s the flow for creating conversions. But if you want to create retargeting audiences, it’s very much the same, but just in a different area inside of campaign manager, you go to plan. audiences, and then create audience. This is a matched audience and it’s specifically on the website. Then you’ll follow the same flow that we just went through to define what the action is that someone takes to then qualify them to be a part of your retargeting audience.
+This is very cool functionality. And I’m actually really impressed that LinkedIn has baked this in when to my knowledge, Google and meta advertisers still need to fire these JavaScript conversions the old fashioned way. Congratulations to LinkedIn for having this awesome functionality and having it first.
+Because as we know, LinkedIn is oftentimes behind the other platform.
+Now is website actions all sunshine and rainbows? Well, as we know, nothing in marketing technology ever is. There are some limitations. Let’s say that you launch a new web page, or you change one and the button name changes. Now you go in to edit your conversion to choose the new button name, but it still looks the same, it hasn’t updated. I’ve seen this happen several times, and LinkedIn’s help article says that website actions updates every 24 hours. But sometimes I find myself waiting much longer than that. I’ve even had some HubSpot forms that LinkedIn’s website actions never recognizes the button. And I still don’t know why that would be the case. HubSpot and LinkedIn are really good partners. So if any of you listeners have any insights into this or have a workaround, please reach out to me. I’d love to share it. I’ve also noticed that there’s a bug that I see pretty much every day, and I keep hoping that it’s going to get fixed. When I edit an existing website actions conversion about half the time the website action buttons and pages load but my selection doesn’t appear so it looks like the conversion tracking isn’t actually tracking anything. But then I hit the refresh button on the page and then the checkbox with my previous selection does pop up
+So if you’re finding the same thing the refresh button is your best friend
+The promise of getting to use website actions for retargeting is super compelling, but I have found it quite limited in practice. Remember, website actions is still website retargeting down at the basics. And that means it’s 100 percent reliant on the cookie still being in your prospect’s browser for when they come back to LinkedIn. Or when they land on a LinkedIn audience network partner page, so they can then be shown a retargeting ad.
+With all the browsers war on cookies. This is already super limited. Plus we still need at least 300 people in an audience to be able to run a retargeting campaign on LinkedIn. And it can take a long time to get enough people to click that button with their browser cookies enabled so that you can have a large enough audience to be useful. It would be infinitely more useful if it was like LinkedIn’s other retargeting that we call engagement retargeting. Where LinkedIn remembers the identity of that user, it remembers that it was there, and logs it in LinkedIn. So not only would you not need cookies for it to know that that person belongs in the retargeting audience, but then that audience would also build in arrears if you set this audience up after the fact. Of course, I don’t know if that’s even possible.
+I mentioned a couple wishlist items back on episode 146 about my wishlists for LinkedIn. That we’re all about website actions. First off, I wish that we could see the page, how website action sees it somehow. Maybe there’s like a portal button you can push where it lets you view your site.
+Every so often, I’ll see that the button has a different name than what Website Actions shows it as, and I never know, does that mean it’s tracking a different link, and it just doesn’t see that button? I don’t know. I wish we could actually see the page the way that Website Actions sees it.
+I also wish that we could ask Website Actions to specifically update a certain page or give it a page to check.
+That way, when we launch a new webpage or a redesign or something, we could request it and hopefully have it within a few hours.
+Have you used website actions to track conversions in a really useful way or have you found any other limitations that I didn’t mention? Reach out to us at podcast@b2linked.com and I’ll share it on the next episode and shout you out. And of course, you can always reach out to me personally on LinkedIn.
+If you’re not already a member of the LinkedIn Ads fanatics community, what are you waiting for? For a very small monthly amount, you get access to all four of our courses that will take you from LinkedIn Ads beginner to expert. Plus, you get access to all of the top minds in LinkedIn Ads who are all sharing the results of their tests, what’s working for them, and asking questions.
+Plus there’s an upgrade option to hop on a weekly group call with me, where we get to address all of your specific questions you’ve got.
+To check it out. Go to fanatics.b2linked.com. If this is your first time listening, welcome. We’re excited to have you here. Make sure to hit that subscribe button. So you get to hear us in your ear holes next week as well. But if you are a loyal listener, thank you. I hope you share the show with everyone, you know, who is a LinkedIn Ads fanatic. Please do me the favor, go to Apple podcasts and leave a review. And I’d love to shout you out live on the show for it. With any questions, suggestions, or corrections. Reach out to us at podcast@b2linked.com. With that being said, we’ll see you back here next week. And as always, I’m cheering you on in your LinkedIn Ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

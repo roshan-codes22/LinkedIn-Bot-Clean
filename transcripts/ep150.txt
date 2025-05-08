@@ -1,0 +1,112 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads Audience Network Traffic Can Be Good With Block Lists | The LinkedIn Ads Show
+AJ Wilcox
+October 4, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+FouAnalytics provides the best intelligence I’ve found on spam/bot traffic
+Dr Fou’s LinkedIn where he publishes awesome deep-dives into traffic quality
+B2Linked LAN Whitelist
+B2Linked LAN Blacklist
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Episode Summary:
+In this episode of the LinkedIn Ads Show, host AJ Wilcox dives into a topic that many advertisers have been frustrated with: the quality of LinkedIn Audience Network (LAN) traffic. While LAN traffic has a reputation for being poor quality, AJ shares the breakthrough strategies he used to significantly improve traffic quality and get results worth paying for. If you’ve been avoiding LAN due to low-quality clicks and bot traffic, this episode is a must-listen!
+Key Discussion Points:
+What is the LinkedIn Audience Network (LAN) and Why Does It Matter?
+AJ explains the role of LAN in reaching LinkedIn’s high-quality audience beyond the platform itself, and the common issues marketers face with traffic quality from this network.
+Understanding Bot Traffic and Its Impact:
+Discover the prevalence of bot traffic on LAN and why it can skew your results. AJ shares insights from working with Dr. Augustine Fou, a renowned expert in ad fraud and analytics, and how tools like FooAnalytics can help diagnose and understand traffic quality issues.
+Before and After Case Study:
+Learn about a real-life case study where AJ implemented a strict allow list on a client’s campaigns and saw significant improvements in traffic quality. Before applying the allow list, 63% of the traffic was identified as bot or problematic. After implementing the allow list, the ratio of good to bad traffic improved to over 100%.
+How to Implement Allow and Block Lists for Better Traffic:
+AJ details the process of creating and using allow and block lists to improve traffic quality. He provides his own curated lists, which include high-quality publishers like Forbes, The New York Times, and Business Insider, and explains why allow lists are generally more effective than block lists.
+Breaking Down the Results:
+While traffic costs increased after applying the allow list, the quality of traffic improved significantly. AJ explains why this happened and what it means for optimizing LinkedIn Audience Network campaigns.
+Why Bots Click on LinkedIn Ads and What You Can Do About It:
+AJ reveals the reasons behind bot clicks, including creative validators and low-quality apps that simulate clicks. Understanding these factors can help you make better decisions about your LAN strategy.
+Step-by-Step Guide to Applying Allow and Block Lists:
+A detailed walkthrough on how to upload and apply allow or block lists in your LinkedIn Ads Campaign Manager to immediately improve traffic quality.
+Resources and Tools to Measure Traffic Quality:
+AJ shares links to FouAnalytics and his curated allow and block lists so you can implement these strategies in your own campaigns.
+This episode provides in-depth, actionable strategies to turn LinkedIn Audience Network traffic into a valuable resource. Learn how to optimize your campaigns and start seeing the high-quality traffic results you’ve been hoping for!
+ 
+Show Transcript:
+I got quality traffic from the LinkedIn audience network. Whaaat? And I’m sharing with you exactly how to get the same for your campaigns. On this week’s episode of the LinkedIn Ads Show.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey, hey, hey there LinkedIn Ads fanatics. As he said, I’m AJ wilcox. I’m the host of the weekly podcast, the LinkedIn Ads Show. I’m thrilled to welcome you to the show for advanced B2B marketers who want to evolve and master their craft and become true LinkedIn Ads pros.
+You may have heard that the LinkedIn audience network, or LAN, produces bad quality traffic. You’ve probably heard it from me because I say that quite often. It hurts so bad to say that LAN traffic is garbage because I want to love it so much. Think about it. On LinkedIn, we have the best business targeting of any platform out there, but since most LinkedIn users aren’t active all the time, it’s super valuable to be able to reach them anywhere that they’re surfing around and not just sitting around twiddling our thumbs and waiting for them to come back to LinkedIn.
+That’s exactly what the LAN network is supposed to do. And well, I may have fixed it. So in today’s episode, I’m going to share with you exactly what I did and how you can do it too. Plus, I’ll be sharing my block lists and whitelists for you that you can go and directly download and use in your campaigns.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+B2Linked is the ad agency 100 percent dedicated to LinkedIn ads, and we have been since 2014. You know, back before it was cool.
+We build a custom strategy for every account we work with, you get to work directly with me and my local team. You’re not going to get a cookie cutter approach or a standard account template from us. No way. No way. Plus with the strategies that we’ve developed and our mastery of the platform, we always save our clients more than we charge. So it’s kind of like getting the best in the biz for free.
+If you’d like to explore partnering with us for your LinkedIn ads management, schedule your free discovery call with me, B2Linked.com/discovery.
+Alright, if you have a review, a question, or feedback for the show, you can message me privately on LinkedIn. My DMs are open and they’re free. Or you can always email us at podcast@b2linked.com. You can attach a link to a voice recording from you, and I’ll play it right here on the show. Or you can send text, I’ll read it on the show. I’m happy to keep you anonymous or share your details. So just let me know what your preference is. Either way, I want to feature you. All right, without further ado, let’s hit it.
+This episode was a long time in the making. I’ve shared before. I want to love LAN traffic. But it’s been so terrible before, and I’ve spent hours with LinkedIn’s product team trying to understand why and how to fix it. I’ve read a bunch of content that others have published about their being bought and spam traffic on the LinkedIn audience network. I’ve taken those to the product team to try to understand it, and I’ve come to some conclusions.
+Now, of course, I reserve the right to change these conclusions as I gather more data and understand more, but here’s what it looks like. Yes, there is bot traffic that comes from LAN. You can see this in your analytics and server logs, but the cool part is, LinkedIn doesn’t charge us for the bot traffic, if it can tell that it’s bot traffic.
+I’ve been doing a lot of research on land traffic to try to understand it better, and I reached out to Dr. Agustin Fou, he’s the founder of Fou Analytics, because he’s published some incredible data and analysis on traffic quality across the various ad networks. Specifically, he’s got really cool ones on Google ads. And he’s even published a couple on LinkedIn.
+His LinkedIn articles have gone absolutely viral. He’s a rockstar at spotting and interpreting bot and spam traffic. So I was really excited to get some of his help with this analysis.
+So I installed his tool, Foo Analytics, on a client site to measure the traffic quality of the LinkedIn audience network. And I’m sharing this as a case study. The before and after data, the research, the analysis, and of course, my block lists. I hope this is hugely helpful to you. And of course, a huge shout out to Dr. Fou for his help with this analysis. What I did is I allowed LAN traffic from LinkedIn with no block or allow lists on a client site from September 3rd through September 11th.
+Then I implemented a pretty strict allow list that I’m going to share with you at the end of the show. And I measured the difference in traffic quality from that period to September 13th through 30th. And the results are pretty incredible.
+First, for those of you who don’t know about Foo Analytics, what it does is it breaks down traffic by everything you could possibly dream of, and much more. You can see the referring URL, all of the UTM parameters that were used in the traffic, the user agent, the operating system, the screen size, all of that. And even the specific apps by name that are driving traffic.
+I narrowed my traffic to just the visits that came from the UTM source LinkedIn, and then Fou Analytics breaks out the traffic into whether it’s a declared bot, or confirmed problematic, or even just suspicious. And then on the good side, it’ll break down whether it’s likely good or confirmed human.
+To come up with that, it looks for clues in the technical makeup of the traffic, like whether the user agent actually agrees with the operating system and whether the referring URL makes sense, given what kind of traffic it is. It’s obviously very challenging to assess this, and I’m really glad that Dr. Fou took this on.
+All right, so I compared the traffic from LinkedIn’s audience network against the traffic that arrived on the site and broke it down by these metrics.
+During the first time period, where we weren’t using any sort of block or allow list, LinkedIn charged us for just over 2000 clicks. And then when I looked at the analytics here, the site actually saw almost 4, 000 visits from LinkedIn with our UTM parameters.
+So the natural reaction here is gonna say, Wow, I paid for 2, 000 visitors, and I got almost 4, 000 on the site. Sounds like a buy one, get one free deal, right? Well, not so much. Foo Analytics classified 2, 800 of these as being a bot, or problematic, or at least suspicious. And 1, 079 were classified as human or likely human.
+Then I went and calculated the ratio of good traffic to likely bad. And it was 37%, so 37 percent good versus 63 percent bad. Yikes. So we paid for 2, 000 clicks, we got about 1, 000 to the site that are human. And that’s probably about to be expected, because since display traffic almost always has a really high bounce rate, and there are certainly accidental clicks, 50 percent of the traffic that we pay for making it to the site actually feels pretty good.
+Then I analyzed the traffic after implementing this really strict allow list. And the results were quite different. So in our second time period, LinkedIn charged us for 1, 160 clicks, just over a thousand. The site saw 733 visits. So there’s a little bit of a drop off there from 1160 down to 733. The allow list that I used, and I’m sharing with you here at the end. This is only allowing the highest quality publishers on LinkedIn’s list. It’s sites like the New York Times, USA Today, Forbes, Business Insider, those kinds of places. They’re national publications that you’ve definitely heard of.
+After implementing this list, I recalculated this ratio of good to bad.
+The ratio of good to bad was over a hundred, meaning that we had more good traffic hit the site than bad.
+So we went from a good to bad ratio of 37 percent to 102 percent just by applying this allow list.
+There is also a cost difference here. Before the allow list, I calculated my cost per good visitor, and it was just over a dollar. It was like a dollar and five cents. After the allow list, my cost per good visitor was four dollars and eight cents.
+And after implementing, I saw lower click through rates across the board.
+Alright, so why would we see higher costs and lower click through rates? I’ve got a couple theories. And I’ve also seen this same effect across multiple of our clients. I think it’s maybe because the sites that we’re being shown on are higher quality, and the ads aren’t as prominent. That would explain why our CPCs are a little bit higher.
+Plus, because they’re higher quality sites, there might be a lot more competition of other advertisers who want to show up there kind of bidding it up. Alternatively, we’re also right during peak political advertising season here in the US. And I’m thinking that the exchanges might be slammed with political ads and other competition driving costs up.
+If this is the case, we’ll see if it all drops back down. If it is the additional competition from political ads, we’ll see after November 5th if our LAN click through rates go back up and our costs go back down.
+You’re probably asking yourself, why are bots clicking on my LinkedIn Ads? I know because I wondered it and all of the clients I’ve talked to about it are all asking the same thing. The biggest reason why there’s bot traffic is that the ad exchanges have something called creative validators.
+Their job is to click through the ads being shared on their exchange and do this regularly. And what they’re looking for is malware or anything else deceptive that would cause their users a bad experience.
+A bad actor, like a bad site who is trying to share malware, you wouldn’t want them to be able to block these creative validators. So, the creative validators, they have to look like humans, so that the bad actors don’t block them and get away with it.
+So they purposely act human, and they attempt to evade detection. This isn’t a problem, because LinkedIn’s aware that the ad exchanges use this, and they’re not charging us for the traffic from them.
+The other big reason that I’ve found why bots are clicking on ads, as far as I can tell, there are some very low quality apps where the developers, they know that they make more money when their users are watching ads. So what they do is they serve the ad and then they simulate a click on it behind the app while you’re using it.
+So you or your child may be using the app and you might not know it clicked on an ad and showed it back behind the app. For instance, one of the apps before I blocked it with the block list is called WordTrend. And it alone accounted for 22 percent of all of the clicks for a campaign. And a hundred percent of those clicks were all categorized as bad. Not awesome at all. I would not recommend advertising on apps.
+And there is one important distinction that I want to share with you. And that’s the difference between a blacklist and a whitelist. I worked in computer networking for a few years, and so I understand this concept of blacklists and whitelists. LinkedIn’s LAN uses the same principle here, so I’ll walk you through how it works. What a whitelist does is it only allows traffic from a specific list of sites. And a block list, it only excludes traffic from a specific set of sites or apps that are on the list.
+So I’m sharing my whitelist and my blacklist with you, but I would recommend only using the whitelist. There are pros and cons to both, but the downside of a whitelist is that if some new great partner site pops up on LinkedIn’s list, because you’re showing only to a specific list of sites, you won’t show up on that new awesome partner site.
+The danger of a blacklist though, is that you could block undesirable publishers now, but let’s say a new site or app gets added next week, you’ll automatically start showing your ads on those new partners. So I think the pros of a whitelist outweigh the risks of a blacklist.
+So here’s how to install either a blacklist or a whitelist. LinkedIn calls these block lists or allow lists. First download either the whitelist or the blacklist from the show notes below. Or if your podcast player doesn’t have show notes in it, you can just go to b2linked.com and then go to this podcast episode. It’s episode 150. Then inside of your campaign manager, click on plan in the left hand navigation and then go to brand safety and then upload list. Go ahead. I’ll wait. Nah, I’m just kidding. When it pops up asking about the list, you specify whether it’s a block list, which is what I’ve called a blacklist, or an allow list, which is what I’ve talked about being a whitelist. Give it your own name and upload it. Then you’ll need to go into the settings of each LAN enabled campaign. You scroll down to placements, and then click show brand safety options. Then click the little plus sign that says add publisher list. And then you can select either your white list or your black list.
+Ta da! Now you’ve enabled your white or black list, and you are good to go. And you definitely don’t have to use my lists. You’re welcome to create your own. This was just a good way to get you started, so that you don’t have to comb through a thousand sites, one by one. It’s really monotonous, so I wanted to give you a leg up, because I already had to do it for our clients. I can’t say this enough, I highly recommend checking out and signing up for FooAnalytics. I don’t get anything for recommending it, I just legit can tell you that this is the best analytics platform for measuring traffic quality.
+It provides the best intelligence I’ve found on spam and bot traffic. I’ve linked to Fou analytics down in the show notes. That’s FOUanalytics.com I’ve also linked to Dr. Fou’s LinkedIn profile, where he publishes awesome deep dives on traffic quality of ad networks. It’s amazing. You’re going to love following him.
+In the show notes, I’ve also linked to both the white list and the blacklist that I recommend. I have already shared these block lists on the LinkedIn Ads fanatics community, so they got it first. You’re welcome, fanatics, but if you’re not already a member of the LinkedIn Ads fanatics community, you’ve got to get there. You get access to all four of our courses that take you from absolute beginner to to total LinkedIn ads expert. Plus you get access to the top minds in LinkedIn advertising who are all sharing what’s working for them and asking questions to each other. There’s even an available upgrade to get on weekly group calls with me. So I can give you direct feedback. If you want to be a LinkedIn ads, one percenter, go right now to fanatics.B2Linked.com. If this is your first time listening, welcome. We’re excited to have you here. Make sure to hit that subscribe button. So you hear us in your ear holes next week as well.
+But if you’re a loyal listener, would you do me the favor of telling your LinkedIn Ads fanatics friends about the show? That’s by far the biggest compliment you can pay me. And I would absolutely love it if you would go out of your way to leave us a review on Apple podcasts. Seriously, it would mean the world. And of course, I’ll shout you out. With any questions, suggestions, or corrections, reach out to us at podcast@b2linked.com. With that being said, we’ll see you back here next week, and I’m always cheering you on in your LinkedIn Ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

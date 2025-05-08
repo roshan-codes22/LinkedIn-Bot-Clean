@@ -1,0 +1,169 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads New Features in 2024-2025 | LinkedIn Advertising Product Updates | The LinkedIn Ads Show
+AJ Wilcox
+October 17, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+LinkedIn Learning Course
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Episode Summary:
+Show Notes: Episode Summary:
+In this episode of the LinkedIn Ads Show, host AJ Wilcox dives into LinkedIn’s product roadmap, detailing new and upcoming features advertisers should get excited about. If you’re looking to stay ahead of the curve and leverage the latest tools in LinkedIn Ads, this episode gives you everything you need to know. AJ shares personal insights, community feedback, and predictions for how these features could impact your campaigns.
+Key Topics Covered:
+Pro Tip for Lead Generation Ads:
+Keep ad copy between 
+100-160 characters
+ to avoid the “See More” link, saving costs on unnecessary clicks that don’t trigger lead forms.
+Dynamic Sponsored Content in Alpha:
+Salesforce is testing 
+dynamic variables
+ (like industry or company name) in sponsored content. Expect more personalization options coming soon.
+Reserved Ads & Primetime Ads (2025):
+Reserved Ads:
+ Secure the first ad slot in the feed for maximum visibility.
+Primetime Ads:
+ Achieve 100% audience reach within a 24-hour period—ideal for major campaigns.
+Live Event Ads Rolling Out:
+Promote live events dynamically before, during, and after the event, with advanced 
+retargeting options
+ based on attendee engagement.
+Connected TV (CTV) in Public Beta:
+Use LinkedIn targeting to deliver 
+non-skippable video ads
+ on streaming services like Roku, Hulu, and Peacock.
+Buyer Group Targeting (Q2 2025):
+Automatically target the 
+entire buyer’s committee
+ with roles and titles relevant to a specific prospect.
+Conversion API Now Available:
+Report conversions with high accuracy without relying on cookies. Partners include HubSpot, Zapier, and Google Tag Manager.
+Dynamic UTM Parameters Launched:
+Apply dynamic UTM tracking at the 
+campaign or account level
+ to streamline campaign setup and reporting.
+Business Manager Enhancements:
+Block/Allow Lists
+ can now be applied at the Business Manager level, simplifying brand safety management across multiple accounts.
+Coming Soon: Publisher Reporting & Share of Voice Insights:
+Get performance breakdowns by publisher for 
+LAN and CTV ads
+, and measure how much visibility your brand captures compared to competitors.
+Objective-Aware Creative Rotation (Q1 2025):
+AI-powered ad rotation tailored to campaign objectives for better performance.
+Predictive Companies Beta:
+Expands on predictive audiences by identifying entire companies showing interest, offering more precise B2B targeting.
+If you want to stay ahead with these new LinkedIn Ads features, we’ve got AJ’s expert breakdowns and actionable tips!
+Don’t miss this opportunity to prepare for the future of LinkedIn Ads. Get insights into what’s working, how to optimize campaigns with the latest tools, and how to use new features to boost your results. Join the 
+LinkedIn Ads Fanatics community
+ to discuss strategies, learn from experts, and upgrade your advertising game!
+ 
+Show Transcript:
+What are the new upcoming features of LinkedIn Ads? I’m going to walk you through the roadmap on this week’s episode of the LinkedIn Ads Show.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey, they’re LinkedIn ads fanatics. As he said, I’m AJ Wilcox. I’m the host of the weekly podcast, the LinkedIn Ads Show. I’m thrilled to welcome you to the show for advanced B2B LinkedIn advertisers who want to master LinkedIn Ads and achieve true pro status.
+It’s been a while since we did an episode about the LinkedIn Ads roadmap, so I wanted to give you a glimpse into what might be coming that you can get excited about. If you’re a regular listener and you hear all the news sections of the podcast episodes, well, not all of this is gonna be a huge news to you. But just so you don’t have to go to every single episode, listen to the news section, and piece it together, I’m going to give it to you in one simple episode.
+As always, don’t take these predictions as gospel, as they can change at any time. Sometimes they’re pretty decently accurate. Some things get pushed off a quarter or two, sometimes to the next year. You never know.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+That’s right. B2Linked is the ad agency 100 percent dedicated to LinkedIn Ads.. And we have been ever since 2014. You know, back before it was cool.
+We build a custom strategy for every account we work with. You get to work directly with me and my local team. No cookie cutter approach or standard account templates from us. No Sir ree.
+Plus with the strategies that we’ve developed and our mastery of the LinkedIn Ads platform, we always save our clients more than we charge. So it’s kind of like getting the best in the biz for free. If you’d like to explore partnering with us for your LinkedIn Ads, Schedule your free discovery call with me today at b2linked.com/discovery.
+First off, in the news, I had a LinkedIn rep give me a piece of advice that I thought was actually really good and I wanted to share it out with you. They said, when you’re doing lead generation campaigns, reduce your intro text on the ads. We recommend keeping this between 100 and 220 characters to avoid being collapsed.
+As an aside from me here. I’ve never seen an intro that went into the 200s of characters that didn’t get truncated with the see more. So, I like to keep it, um, they say 100 to 220. I would say keep it between 100 and 160. Back to their quote. Advertisers who write campaign creatives that are in this range will reduce cost per lead by 6. 9%. This will also prevent your call to action from being cut off. Alright, so the reason for this, if in a lead generation objective campaign, if you have fewer characters in the intro and you don’t get dot dot dot see more, what happens is in lead generation campaigns, when someone clicks the See More link, it charges you your cost per click.
+So if you’re bidding, let’s say $10 per click on those lead forms, anyone who clicks on that ends up charging you your $10 without triggering the lead form. I think this is awful, and I really wish LinkedIn would change this. Okay, So this is why it works. If you can keep your intros short enough that it doesn’t truncate with the see more more, what ends up happening is you’ll see a lower cost per lead because now you’re not getting charged for clicks that just allow them to see more ad copy. You’re only getting charged for the clicks that would trigger a lead form opening. Great advice. I highly suggest you take it.
+Next, one of the super fanatics in our LinkedIn Ads fanatics community, which if you haven’t joined yet, you got to get in there.
+So this is Anthony Blattner. He shared that dynamic sponsored content may be coming soon. He said, &quot;LinkedIn has a new alpha rolling out for dynamic sponsored content. Super interesting and would be a great feature to have.&quot;
+And then he shared some examples of Salesforce ads that are obviously single image, but they have personalizations or macros in them.
+The three examples he shared, one of the examples dynamically inserted the industry, one inserted their prospect’s name, and another inserted their company name.
+I think this is a total no brainer to do, because LinkedIn allows us to do this in spotlight ads, and, message ads, conversation ads, we can use these dynamic variables. Of course it makes sense to have them bring it over and allow us to use these in, our normal sponsored content or other newsfeed ads.
+So bravo, LinkedIn. Sounds like this is in an alpha right now, but of course, we’re very excited to see it go beta and then get rolled out.
+All right. You, yes, you, do you have a question? Feedback for the show, or even a review that you can share? Message me on LinkedIn, or you can email us at podcast@b2linked.com. You can attach a voice recording of you sharing this, and I would love to play it right here on the show. Or of course you can leave dumb text. That’s totally fine too.
+I’ll play them right here on the show. Just let me know if you want me to keep you anonymous or shout your details out as well. I hope you know, I want to feature you. So please reach out. My DMs are open and they’re free.
+All right, without further ado, let’s hit it. Some of these roadmap items have already launched. So I’m going to share some of the things that have already launched that you can expect, some things that are probably in your account right now or are being rolled out, and then maybe what you can expect in the coming quarters and next year.
+First off, sponsored articles came out first, and then that allowed us to start doing sponsored newsletters. I definitely want to have more content about sponsored newsletters. I’ve been testing them personally on our own account, so I’ll have more there. But right now, performance doesn’t seem to be amazing on like a cost per newsletter subscriber, but we’ll see. I’ll give you some updates there. We’ve had this now for a quarter, maybe two quarters, so you’ve got access to this now.
+Next is something called Content Hub. This is where LinkedIn says we can explore all existing paid and organic content new elevated entry point to your content library. This is currently in beta. So if I understand this right, this is probably one hub, one location, where you can see your company posts, hopefully maybe employee posts, that make it easy to turn into thought leader ads.
+Our ads content, maybe imagery and past a copy that we’ve used. I’d love to have that all in one location. For those of you who are already in the beta. I’m not, so I would love it if you’d reach out and just share a little bit about your experience. And I’d love to get to share what you’re learning.
+Something else is called reserved ads. This is actually really exciting. This is where you could reserve the first ad slot. Allowing your ad to be shown at the top of the LinkedIn feed.
+I remember early days in Google ads, back when it was AdWords and you could give preference, like, Hey, I only want to bid on this keyword if I can be in the top, you know, one to three slots or something, it sounds like this is coming.
+It’s slated for the first half of 2025. So we’ve got a little time to prepare for this. Of course, we have no idea how pricing’s gonna work. I’m gonna guess that we’re gonna pay a premium to show up in the, the first slot. , but I’m not sure. As you know, that first ad slot, it’s the second newsfeed item in your newsfeed.
+The next one is kind of similar. This one’s called primetime ads. This is where they’re gonna make it so we can achieve a 100% reach with your target audience for 24 hours in the LinkedIn feed.
+It seems like this is kind of like a, like a homepage buyout like we used to be able to do with Yahoo of like for 24 hours, we’re going to pay you a chunk of money and we’re going to take over the whole homepage as an ad, but we’ll see how LinkedIn pulls this off. This is what they’re predicting for the second half of 2025. So we have a little bit longer to prepare for this. No clue how this is going to work bidding or budgeting wise, but I’m going to guess you’re going to pay a significant premium. Maybe it’s going to be a fixed cost. Maybe it’s by audience size, I don’t know, but you’re probably going to be able to pay for a 24 hour period to have your sponsored content ad pop up on the news feed from anyone who’s in your target audience, guaranteed.
+The next is live event ads. So you probably know we’ve had event ads for a long time where you could promote a LinkedIn event through ads. But now we have a new special ad format for live events. Rather than just using a single image ad to describe the event and try to get people to sign up that way, this is where you get to promote a live event before the event, which we’ve always been able to do. But during the event, it pushes people to the live stream saying like, Hey, come join now it’s live. And then after the event is over, it pushes people back to the replay.
+If you haven’t checked it out already, the retargeting options on this are pretty insane. You can retarget by what percentage of the event, the video, that someone watched. So you can say like, if someone made it 50 percent of the way through my event, put them into a retargeting audience. You can also retarget people by whether they registered or not, or how they engaged with the ads.
+This is currently being rolled out. I’ve noticed that many of the accounts that I have access to have it.
+So check and see, you might already have access.
+The next is Connected TV, or for short, we call it CTV. Expect a future episode or two just on this topic because it’s truly epic. It allows any advertiser, in North America right now, I would assume we probably are going to get Europe at some point, any advertiser in North America can reach their ideal target audience on their home TV while they’re watching streaming services. You get to use LinkedIn’s targeting to narrow in on this, which is obviously way better than any other CTV platform out there. This is in a public beta now. So anyone who wants to can go get access. The ads are all non skippable, and you can use block lists and allow lists, like we talked about in episode 150. And to prepare for this, typically you’ll want to use either 15 second creatives or 30 second creatives, with no subtitles and the highest resolution you can get. 4K is great because they’ll actually play on someone’s TV in 4K. You can go into Campaign Manager right now and download a full publisher list of the publishers that your, your CTV campaigns can show up on. But these are things like Roku, Pluto TV, Peacock, Fox Sports, I think I saw Hulu in there, and a bunch of other really good ones.
+I don’t know how long the public beta lasts for. I don’t know the difference between a public beta and just having it generally available. But yeah, if you want to get into CTV, go test it out.
+The next feature that’s coming is called buyer group targeting. This is where LinkedIn uses its own first party data, intent signals, et cetera, to easily allow you to target the whole buyer’s committee. Rather than having to, add all of those specific roles into your targeting manually.
+I think it’s gonna start from a list, a specific list of prospects and it’ll go and add all of the roles that surround that person who are likely in the decision making committee, the buyer’s committee. And then it’s going to create an audience in your audiences list that you can then attach to any campaign. Considering how well predictive audiences have been working, I think this is probably going to be really good, so I’m excited to test it out.
+This is currently slated to come out in Q2 of 2025. But it’s already been through an alpha. My guess is probably beta is going on right now. So if everything goes well in the beta, it’ll probably release on schedule, maybe even ahead of schedule.
+Next is the conversions API. This allows advertisers to pass conversions back to LinkedIn with high accuracy and without relying on cookies, which we know we can’t really count on cookies anymore.
+The partners that this launched with are like Google Tag Manager, Zapier, DreamData. I know HubSpot’s on there as well, and I’m sure lots more coming.
+You can also expect an episode or two on the conversions API. Because we’re doing some really cool stuff with it that I’m excited to share in the future, but it’s taking me a while. So, hold off a little bit.
+And conversions API has already been rolled out. You should have access to it in your account right now.
+The next is dynamic UTM parameters. What you can do is you can have account wide, or just campaign specific UTM parameters that are dynamically added inside of campaign manager to either your campaign or your whole account, meaning all the campaigns in your account. And that way, you don’t have to go and append every ad destination URL with all of these specific parameters. You can, of course, add static values like UTM source equals LinkedIn. But you can also have dynamic values like dynamically insert the campaign ID, or the campaign name, or the ad ID, and several others. This is already launched as well. You should have access to this in your account. It seems to work really well, but like we talked about in episode 146, which was like my dream list of features for LinkedIn, one of the weaknesses is that This will happen for all of your links that are destination URLs in your ads, but it won’t apply to links that are in your intro text, which seems like a simple enough thing to add. So we’ll see if LinkedIn can do that in the future.
+Next is publisher reporting. This is where you’re going to be able to get a report of your ad performance across outside publishers on LinkedIn. So this means that if you’re running on the LinkedIn audience network, Then you’d be able to get a breakdown of your performance on each of the sites on the LAN platform.
+Or if you’re running connected TV, like we talked about, you’ll be able to see basically how much you spent on each kind of partner that your ads have been shown on. I think this is rolling out for CTV already. And then the LinkedIn audience network, I’m going to guess is going to come in the next quarter, but I don’t have specifics for you on that one.
+The next is dwell time reporting. This is out now. I’m pretty sure every account now has dwell time. And so go and check it out. I think it’s in your columns engagement to see dwell time. If you have more questions about that one, go listen to episode 140 of the podcast where we went super deep into dwell time.
+The next feature here is the companies report. So this is where you can measure specific ad engagement for all of the companies who they’ve been shown to. This is really cool because I’m sure you know that if you go into the demographics, you can only see, I think it’s the top 10 or 20 companies who’ve seen and engaged with your ads.
+But this is going to show you all of them, 100%, at least the ones who are attached to company pages, I’m guessing. This is currently in beta. We have a couple clients who are in it, and it’s really cool. One of the other awesome things about it is LinkedIn will give you a measure of which of these accounts are high engagement, low engagement, somewhere in between.
+And you can create dynamic lists. Hey, any company who seems to be highly engaged right now, let’s create them as an audience that we can then target more specifically later. Really cool. I’m really excited for this one to roll out.
+Next, we have qualified leads reporting. This is where you get to report back to LinkedIn, which leads have become qualified leads. And that’s going to feed those signals and reporting back to LinkedIn to help them optimize your campaigns to get you more qualified and fewer of the ones that don’t become qualified.
+This should already be out, but if it’s not, it’s probably coming really soon.
+Next is buyer journey insights. LinkedIn says you can evaluate your buyer journey and gain actionable insights. I’m not totally sure what this means. I’m guessing that we’ll be able to visualize the multiple touch points that any specific brand had in how they’ve engaged with our ads on their way to becoming a customer. Uh, or maybe this is just people who are in like a qualified lead status, we can see more specifically, what did they engage with and how they got there? This is slated for Q4 of 2024. So really this could happen in the next month or two. I’m really excited to see how LinkedIn pulls this off. And if it’s much different than say, like revenue attribution report, it’s probably using a lot of the same tech and reporting.
+Next is a type of reporting called share of voice. We already got audience penetration, and we also got dwell time. So this is a pretty obvious addition to our reporting. I get asked actually fairly regularly by clients to give them some sort of a share of voice report. Obviously only LinkedIn knows this because LinkedIn will know who your competitors are. I hope we actually get to specify specific competitors, but LinkedIn has a pretty good idea. They know what they’re spending. They know what those accounts have in terms of penetration and, and all of that. We don’t get any sort of insights into that without knowing what our competitors are doing. So I’m really excited for this one. This should be out in Q4. So this quarter of 2024.
+In the first quarter of 2025, we’re supposed to get something called measurement insights. I don’t actually know what this is from reading the description. I couldn’t really get much of an insight into it whatsoever. So we’ll see as more details come out, what is Measurement Insights actually going to give us insights into.
+There is a feature coming called Cleanroom Advanced Insights. This should be coming in the first half of 2025. We can already go through a LinkedIn partner to do the clean room, but it’s an added cost to pay for that clean room. And I haven’t had any clients pony up for this yet, so I haven’t gotten a chance to play with it.
+But if LinkedIn’s announcing that this is coming, I’m guessing that this is something that LinkedIn’s actually going to build into campaign manager somehow. I’m not sure if there’s going to be an additional fee like it is now. No clue, but I’m really excited to see. For any of you who are listening who have access to the Cleanroom right now, I would love it if you could reach out and just share what are the insights that you actually get from Cleanroom. How does it work for you?
+Now jumping into the new features of Business Manager. Uh, Business Manager now allows block lists and allow lists at the Business Manager level. This should already be launched. So if you have Business Manager, you can go check that out.
+Theoretically, it should be really nice to have these block or allow lists, like we talked about on the last episode. You can have those at the Business Manager level and then be able to use those in all the accounts that you have access to in Business Manager. I haven’t had a chance to play with this. So I don’t know if that means that we could share them with other business managers or if it’s just apply them to the account under a single business manager. Not totally sure, but this is launched already. So if you’re curious, you can pop in and see how it works.
+You’ve probably already noticed that LinkedIn is now forcing two step verification on all business manager accounts and on any ad account for campaign manager. And if you don’t set that up, sorry, your profile doesn’t get access to your LinkedIn Ads account. This was really annoying, but I do have to say it would be an absolute disaster if someone got into, let’s say, my LinkedIn account and then could make changes across multiple accounts. It’d be pretty bad. So I think it’s the right thing security wise, but the way it got rolled out where it was just voiced it upon us, I wasn’t a fan of that.
+Inside of Business Manager, though, now there’s an easy access to set up your monthly invoicing. Right now, by default, any ad account, it gets pushed right through a credit card. That credit card gets charged sometimes multiple times per day, which is a real pain for finance, especially if you’re, you know, spending quite a bit on LinkedIn Ads.
+And it used to be that you would have to go and apply for monthly invoicing. You’d have to have a certain amount of past history with the platform before they would accept it. So now this is really cool that it’s right within Business Manager and an easy application.
+This quarter, in fact, you’re probably already seeing it now in some of your accounts. LinkedIn is suggesting ad copy to you by using AI. It’s suggesting headlines and intro copy for single image ads Also a note here about ad duplication. LinkedIn says you can copy multiple ads at once and use them across multiple campaigns. It says Q4, so I’m hoping that this is something that we see here in just the next coming weeks or months. Right now, we have the ability to duplicate ads. But it’s only when we duplicate the whole campaign.
+And that’s very weak, because sometimes you want to bring the ads over, but you don’t want to bring the audience over. Plus, the whole thing gets destroyed if you try to duplicate a campaign, but now you want to change the objective. Oh, good luck. So I’m guessing, and I’m hoping, that this ad duplication feature It means that it’s going to be a lot easier to move ads from one campaign to another, and we don’t have to rely on the duplication hack.
+Another AI piece that’s getting rolled out. This is Microsoft Designer. We’ve talked about this before. It was announced at the B2Believe event. So if you listened to that episode, super cool. Is where we’ll get to use, I’m guessing it’s DALL·E on the back of it.
+And this is ChatGPT’s image creator, but now Microsoft has it inside of Microsoft Designer. This is going to be plugged into Campaign Manager. It should be coming this quarter, so I’m really excited to try it out. But basically, we’ll get to prompt it and say, this is the kind of imagery I want for my ads, and it will spit some of those things out. All right within LinkedIn, which is really cool. That way we don’t have to go to DALL·E outside.
+The next feature here is called Media Planner. This is audience lists and campaign budgets that you can see before you launch. And you’ll get to see forecasted reach and impression. So it sounds great in theory. I just hope that the forecasts are much more accurate than the terrible campaign predictions that we have as we’re creating a campaign right now in Campaign Manager. This says that it’s coming in Q1 of 2025. So we should see it here in the next five, six months.
+Next feature here is Objective Aware Creative Rotation. So as you probably know, right now we have two settings for creative rotation. We have the optimized for performance, which I recommend most of the time. And then we have rotate evenly, which says that it rotates evenly, but it doesn’t. It just charges you more.
+Well, coming in Q1 of 2025, this is going to be another option where it will rotate your creatives based in part on the objective of the campaign. And it does mention that it uses AI for this. I’m not totally certain what it means. But I do think that if you were using the brand awareness objective, you might be wanting reach more than you want frequency, and so maybe it would show your ads based off of like, oh, this person has not yet seen this ad. Versus engagement, maybe it says, oh, this member has already engaged with an ad like this. So even though we might not otherwise, let’s show them this one.
+This next one is already out, and in fact, we get nagged about it all the time, so I know it’s out. This is LinkedIn Accelerate. This is campaign creation with AI. Basically, every time I log into an account, even if I’ve been nagged before on that account, I still get a, hey, try LinkedIn Accelerate. Now I’m not totally opposed to it.
+I have had several people who’ve tried it out, who are reporting back that, yeah, it actually performs really well. But I am generally pretty against anything that’s a black box that I can’t learn from. And Accelerate. It creates a black box. I don’t get control over the audience, so I’m not in a rush to try it, but any of you who are trying it, I’d love to hear your feedback.
+And finally, predictive companies beta is happening right now.
+This is like predictive audiences, but instead of predicting individuals who might be interested, I’d love to It’s taking a company list and it’s predicting companies who seem to be interested. I don’t know how this is gonna work. It’ll probably be out this quarter in Q4 of 2024.
+So, I’ll be really excited to see it. But any of you who are part of that beta, please let me know how it’s working for you. I do think it’s going to be a lot harder for LinkedIn to find companies that would be interested in something as opposed to individuals, but who knows? AI is very powerful.
+If you’re not already a member of the LinkedIn ads fanatics community, get over to fanatics.b2linked.com. This is where you get access to all four of our courses that take you from beginner to LinkedIn Ads expert. Plus you get to interact with all of the top minds and LinkedIn Ads. They’re all there. They’re all talking and sharing what’s working for them. You’ll be in great company. Plus there’s an upgraded level where you get to hop on a weekly group call with me and I can give you direct feedback on your campaigns. Again, that’s fanatics.b2linked.com. If this is your first time listening, welcome.
+We’re excited to have you here. Make sure to hit that subscribe button. But But if this is not your first time here, you are a loyal listener. I talk to you guys at every conference I go and speak at. Thank you. I love having you listen to the show. Please do me the immense favor of going to Apple Podcasts and rating and leaving a review.
+With any questions, suggestions, or corrections, sometimes I need them. Reach out to me at podcast@b2linked.com. With that we’ll see you back here next week, and as always, I’m cheering you on in all of your LinkedIn Ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

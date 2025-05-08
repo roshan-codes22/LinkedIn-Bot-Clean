@@ -1,0 +1,423 @@
+Visitor identification on your website. What is it? How does it work? And did you know you can do it for free? We're talking about seeing your site visitors identity and how to use this with your LinkedIn ads strategy on this week's episode of the LinkedIn ads show. (Upbeat Music)
+
+Welcome to The LinkedIn Ads Show. Here's your host, AJ Wilcox.
+
+Hey there LinkedIn ads fanatics. As he said, I'm AJ Wilcox. I'm the host of the weekly podcast, the LinkedIn ads show. I'm thrilled to welcome you to the show for advanced B2B marketers in their evolution of mastering LinkedIn ads and achieving the much coveted true pro status. Just in case you've missed it, the B2B world has been turned upside down over the last year as marketers have gotten really excited about visitor identification. I brought on the man who I consider to be leading the charge, Adam Robbins. He's the founder of rb2b.com and Retention.com. I've been following Adam for a while and I absolutely love what he shares. He goes viral constantly on LinkedIn. He's incredibly transparent, which you'll appreciate from this interview. And I've also been using his product, rb2b over the last six months, and I can't get enough of it. By the way, every B2B marketers should be using the free plan at least because there's no other visitor identification platform that lets you use it for free. Check out the link in the show notes below to get your account. So I brought Adam on to share how we can use visitor identification in non-creepy ways and how to use it to augment our LinkedIn ads strategy. Coming right up.
+
+The LinkedIn Ads Show is proudly brought to you by B2linked.com, the LinkedIn ads experts.
+
+That's right, B2Linked is the ad agency, 100% dedicated to LinkedIn ads. And we have been since 2014. You know, back before it was cool. We build a custom strategy for every account we work with. You really get the white glove treatment. You get to work directly with me and my local team, and you'll never get a cookie cutter approach or a standard account template from us. Plus with the strategies we've developed and our mastery of the platform, we always save our clients way more than we charge. So it's kind of like getting the best in the biz for free. If you'd like to explore partnering with us for your LinkedIn ads management, schedule your free discovery call with me today at B2linked.com/discovery. All right, do you have a topic you want us to cover or review of the show or any sort of feedback? Please either email us at podcast@B2linked.com or you can message me on LinkedIn. My DMs are free and they're open. And I would especially love it if you would include a link to a voice recording of you. That way I can play you right on the show. I'm happy to keep you anonymous if you'd like or shout out your details. All right, let's jump right into the interview with Adam Robinson.
+
+AJ
+
+I'm really excited for our guest here today. This is Adam Robinson from RB2B. Adam is the founder and the CEO. Welcome, we're excited to have you here. Give us a little bit about your background. Introduce yourself.
+
+Adam
+
+Yeah, hey, AJ, what's up? I'm Adam Robinson. If you do not know me, then you may not be a LinkedIn user. But I think my full-time job is like pouring my heart out about my inadequacies as an entrepreneur on LinkedIn. And somehow that drives top of funnel for the SaaS that I sell. So that's about me. RB2B is person-level website visitor identity tool. We launched it in March and went from zero to four million AR in nine months. And now it's stuck and I'm trying to figure out what the next version of it is. And I think it has something to do with the ad tech world. So I'm very happy that we're here talking about all this because I'm looking forward to learning something from you today.
+
+AJ
+
+Oh, that's incredible. When we very first talked, you were talking about visitor identification. Immediately the wheels started turning for me of like, "Ooh, how can we use this in ads?" I'm glad you're kind of caught onto that idea as well because I think it's huge. Tell us what RB2B is, what it does. I'd love to hear the technology behind it. Like I'm a user, used it now on several accounts and I absolutely love it. I'd love for you to tell us like what are the reasons technologically why it works so well.
+
+Adam
+
+Sure, so there was website visitors identity before us and like Clearbit had it on its own and then Demandbase, Sixth Sense, Terminus, they had it combined with this like ABM technology. And what they were doing was this process called reverse IP lookup. Long story short, they were looking at the IP address of the user and they had this big table that matched IP addresses with company names. And they tell you a company or an account that visited your site. We actually started a company five years ago called retention.com that did identity to the person level and we would resolve it to a personal email address that had opted into a publisher network. European people are like that doesn't sound kosher but like this is very legal in the US even with the California legislation that has passed and all these state level stuff, this is legal. Like we have enterprise customers on both sides and we make it through legal every time because it's legal. But I say that because it strikes you as like, oh, that sounds like magic, that sounds like voodoo, that sounds like something that you shouldn't be able to do. But you can. So anyway, that really worked for e-com stores and about a year ago, my COO was just really, he's a B2B data guy and he's like, man, we should really do this person level stuff for B2B. It doesn't exist yet, it's only account level, it's valuable. So we spent six months building a product and posting about it on LinkedIn and the problems that we thought it would solve. And in March, we launched RB2B and basically what it is, you drop a pixel on your site and it's a freemium offer. So we say just like, check it out for free. What I think we were wrong about is there's this really, we push the profiles into Slack. So you connect it within minutes, you start seeing these leads. They're LinkedIn profiles with headshots and emails and anything else. And you're like, wow, like there's this moment of euphoria.
+
+And what I think I just completely missed about it is just by saying what it does. There is this implicit sort of promise that's made that all of the work that you would need to do in sales is gone and you can just set up an automation and effectively spam all these people on your site with the email address we give you and that will just book demos like a machine. I mean, I thought it would do that too, but what I believe now is that that lead gen use case that I described is only really a small part of the value of what the web signal provides you. In most of the value is actually kind of like an ongoing,
+
+Once an account is aware of you and they keep coming back, sort of like helping reps move people down the funnel. And by the way, our product doesn't quite do that yet. We're like building sort of different things to assist salespeople in doing that. And I say, you're like, how do you know that? Our churn is just bad. And so like people are ultimately, who are using it in the way that we were selling, not getting the value that was expected out of this from the lead gen use case. But the ad tech use case is completely different and people are quite successful with it. So yeah, I mean, that's what we're jumping into today and I'm very excited about it.
+
+AJ
+
+Very cool. Well, thank you for your transparency. It's a breath of fresh air to hear someone say like, oh, we're not happy with the way things are going, but obviously you've been very successful at this point, but I love the transparency.
+
+Adam
+
+That's all I got. And I think that people buy from people and it's so hard, especially for a CEO to be authentic on any social media, especially LinkedIn.
+
+And I think it helps me in the long run when I say, Hey market, I know that this product is not what I thought it would be, because when I go back in six months and say, by the way, I think I figured it out. If they heard me say that I thought it wasn't cutting the mustard or whatever, they're gonna try it. If I'm sitting there saying like, oh, this is a great product. It's gonna take down six cents. It's gonna do this, it's gonna do that. I will be the boy who cried wolf.
+
+And I won't be able to win them back. So I think that it could accelerate people like examining the value of the product in the short term. I think the trust that it builds in the long term and quite frankly, you need this type of discipline as a product-led CEO. You have to live in a world of reality. It's very tempting to say, oh, our product's great. It's helping all those people do this thing that it's not actually doing. I think it's a common lie people can tell themselves. So anyway, long-winded answer.
+
+AJ
+
+Totally, huge breath fresh air and I appreciate it. I can tell you, it is hard to admit something like that as a CEO, especially publicly. So I love it and I totally agree. I think it's gonna be a continued business driver just from the trust that it drives. Yep. All right, so the original product, this is visitor identification. The product as you log in, you will see a list of, these are the exact identities of the people who have been to your website that RB2B could figure out.
+
+Adam
+
+Yes.
+
+AJ
+
+There are so many things you can do with this data. Obviously the principle being export what you see and then take it somewhere else and give it to a sales team or something. The integrations are huge to stop people from having to do export to spreadsheet and go manually do something with it. Tell me about the integrations that you've got going with CRMs and contact tools and all that.
+
+Adam
+
+Yeah, so I mentioned that it was a freemium offer. So we originally built a HubSpot integration that kind of wasn't the right thing. We did some product discovery with somebody with a few people who thought that it would be really valuable to use the HubSpot tracking cookie and then tie it back to previous sessions. And then the reason you would do that is to like segment messaging once the person became known. And it just turns out that that's not that valuable and it was like charging them 50 cents per contact for marketing contact and like it just wasn't the right thing. Now we actually think we've nailed the HubSpot thing and we've nailed an entirely different use case for how to get value out of this, which I will explain. So you got to get all of your TAM and HubSpot and then you run these signals in the HubSpot and you let HubSpot do the filtering for you, right? So it's like, if it's not within the TAM that you have defined in HubSpot gets thrown out. If it is, then there is an owner of that account, an owner of that name account. So it will then trigger workflows in HubSpot for that account owner and it can be anything. It can be an alert to tell them to reach out. It can be something that adds them to a sequence. It can be something that tells them to hit the person up on LinkedIn. It can be something that reminds them to contact this person in 24 hours. It can be anything, but the point is using that HubSpot CRM as a filtering and routing mechanism unlocks the power of their workflow builder so that you don't have to have a separate instance to like do all this stuff in.
+
+AJ
+
+Cool.
+
+Adam
+
+And we're building the exact same thing for Salesforce right now. I should have it by the second week of January or whatever. And this is still a hypothesis because we just finished this new integration a couple of weeks ago. But like that use case versus what we were onboarding people to before, which was kind of like, I would say that's like a TAM first use case whereas like up until this point, we were like a signal first use case. It's like when this person hits your site, trigger outreach. This is more like, if they're within your TAM, then depending on what they have done in the past, notify this person and or trigger some sort of outreach.
+
+AJ
+
+Yeah.
+
+Adam
+
+So yeah, this could be an iteration of what we're moving towards. So there's like the CRM integration, which can do that. Then there's like the clay world, which I think is very much lead gen. I think it works really well with people who have high traffic sites. There are magical workflows that can be launched with clay and it's the best LinkedIn content of all time. There is no doubt if you're listening to this podcast that you've seen that LinkedIn content, things like send a personalized AI generated video to an anonymous website visitor. Incredible, right? But that's like its own world and it is what it is. And a lot of them are using tools like Instantly and Smartly to do inbox rotation to like send to these people, which I don't know how I really feel about that as the ultimate use case. Like the HubSpot use case, it's kind of like so low volume that you should be reaching out to them and you shouldn't need to do that. So that's that. And then there's a whole group of other applications that are like LinkedIn automation. We have Zapier so you can send it anywhere. Those are kind of the categories. It's like LinkedIn automation, you know, you could send them straight to Instantly or Smartly or like so there's email app automation, LinkedIn automation, clay, which is everything, Zapier, which is everything and CRMs. That's pretty much it. What we're not doing was what you brought up before the call. Sending the audience straight into LinkedIn for running ads. Some of our clients are downloading the file and dropping it in and seeing decent success, but we should build a pipe directly there. The only reason we haven't is because up until now we've been focused on this lead gen use case and like it's just becoming clear to me that that use case is super valuable for a certain type of business, but that slice is like much narrower than I thought. And it's just gonna be impossible to convince me that a website visit is not a universally valuable signal for anybody with sales. So it's just like we haven't figured it out yet. That's the thing.
+
+AJ
+
+Cool. Well, I know you originally launched with Slack, so there's productivity tools. Yeah.
+
+Adam
+
+I just think of Slack as like almost, I just forget about it because it's like so ingrained in the onboarding, right?
+
+AJ
+
+Yeah. And I'll have to check and see since you're giving all this information to Zapier, I think Zapier should be able to push that into LinkedIn ads.
+
+Adam
+
+I'm sure that, yeah, I'm sure they could.
+
+AJ
+
+You and all the listeners know there's two different kinds of lists we can push to LinkedIn. One's a contact list and one's a company list.
+
+Adam
+
+Yeah.
+
+AJ
+
+And I could totally see this fueling a dynamic list where it's just adding to them as it sees them hit the website, both the contact and the company, driving really cool ABM lists.
+
+Adam
+
+Yeah, for sure. I mean, that's a great use case.
+
+AJ
+
+Especially if you can find a way of getting the match rate to be really high because what we see right now is if we send a contact to LinkedIn, let's say we send it with an email address, we can't give LinkedIn a LinkedIn profile URL, which it would match at 100%.
+
+Adam
+
+So annoying, right?
+
+AJ
+
+So annoying. So we give it like first name, last name, usually a professional email that matches at a low rate. If we can give it title and company name, that usually matches at a higher rate. You obviously know their LinkedIn profile, being able to pipe it right in and get 100% match rates. Oh, I'm hoping we find a way to do that.
+
+Adam
+
+Yeah, that would be incredible. I wonder why they don't do that.
+
+AJ
+
+They do for the company. So when you upload a company list, you can include the company page URL. The only thing I can think of is privacy concerns.
+
+Adam
+
+Right, yeah.
+
+AJ
+
+If they want us to give them money, they obviously want larger audiences. And if we're uploading contact lists, getting 20 to 30% match rates, that doesn't help us spend money.
+
+Adam
+
+Right, exactly. It seems like a lose-lose. Anyway, we'll see.
+
+AJ
+
+But I know you brought a case study with you on how someone actually used RB2B and LinkedIn ads really well. Do you want to walk us through that?
+
+Adam
+
+Sure, so Sam McKenna is a friend of mine. She runs a sales consulting firm. And the headline of this case study is how $200 of LinkedIn ad spend led to record-breaking site traffic. So that should get your attention.
+$200 is not a lot of money. Here's the idea of this case study. And look, I don't know how many different times or ways I've said this. I now live in this world where I've found my voice on organic social media, and it is magical. And I would encourage anyone listening to this who has not yet gotten there, just start posting every day. Not because you'll get engagement in likes and comments and deals, it's because you'll be one day closer to finding your voice. Just thinking about it this way, it's like if you can create content that your prospects have demand for irrespective of what you're selling them, you know, it's just so good that they want to read it and they want to be a part of it. Like how could an ad possibly compete with the quality of attention that that gets? You could show me 10 ad carousels of businesses in Austin that use rippling. And like, I am not going to care, but if I see Sam Jacobs say, "The Golden Age of SaaS is over," I gotta find out why. Like, you know what I mean? Like, do I need to be doing something else? What do you mean the Golden Age of SaaS is over? Like, tell me why. So this is a thought leadership ad strategy, and I just wanted to like give the background of my deep internalized feeling about organic social. I think it's the only reason RB2B got to where it was. I think it's the only reason we can make cold email work. I think it's the only reason we can make thought leadership ads work clearly. It facilitates so many other things. Like we're building a whole community marketing effort around it. It's like this kind of like viral influencer trust building does so much more. So anyway, her strategy starts with that. So it's like, take a banger post that you have. Then drive traffic to a free resource, some type of landing page that is ungated where people can just get some, you know, high value content. And then RB2B is on that page, and only waste your time on people you actually want to speak to, because that's kind of one of the complaints about RB2B. Which isn't really complaining about RB2B. It's like when you're running traffic, the percent of people that hit your site that you actually want to talk to, it's probably like in the single digits.
+
+AJ
+
+Wow.
+
+Adam
+
+If you're lucky, maybe it's 10% that you'd want to speak to of people on your site. So there's a bunch of ways to filter it down. If you have a lot of traffic, you can use one of these mechanisms, like the CRM workflow I described, or clay or something. If you don't have a lot of traffic, it's really easy to scroll through five leads and say, oh, that guy's the one I want to talk to. And then it's just like, whatever your sales workflow normally is. So connect with them on LinkedIn, put them in an email sequence or something, put them in a LinkedIn outreach sequence.
+
+I would not tell them that you saw them on your site. Some people consider that disingenuous in some way, but they probably will not even connect that when you ultimately, because people, you're an ads guy, you know this. It's like no one converts on the first step. I don't know how many brand impressions it takes in the modern world to get somebody to buy something, but it's not one ad. So each of these things are a brand impression along the journey of this person getting moved down your funnel. So yeah, you're just eliciting an intense signal. And then I think the point of her case study is, LinkedIn thought leadership ads are a cheap source of traffic. This landing page strategy is a very inexpensive way to start omni-channel retargeting campaigns, right? She may even be running ads to these people that hit this landing page at the same time.
+
+Because at the end of the day, that person's kind of hot. You know, however many channels you can create these brand impressions on, it's going to help you out. And yeah, I mean, that is the results. Total spend, $200, LinkedIn impressions, 78,751, daily visitor increase, 1194% increase over daily average, monthly visitor increase, 36% increase over monthly average, net unique visitors, 1478% increase in day one alone. So yeah, and she's booking demos off of this.
+
+AJ
+
+So cool. This is what I think LinkedIn ads fanatics need to get out of this, is that if you can identify who the people are who visit your website, there's a couple different things you can do with that. Number one, you can check your targeting. If I'm running LinkedIn ads to a page, and that's the only way that I'm getting a lot of traffic to this page, I can go look at RB2B, look at the actual identity of the people who are hitting it and go, oh, there are some of these people that maybe I need to tighten up my targeting because these don't make sense. Or it's a vote of confidence, like, yep, I'm definitely hitting the right people because look at who they are. The other thing is when you land on a page, of course we want to have our LinkedIn retargeting pick them back up, our Google retargeting, or Meta, but those technologies are all based off of cookies. And if they're in an iOS browser on an Apple device, you know, probably within a couple of years, anyone who's on Chrome, those cookies are gone after that session. And so you can't follow them around and keep retargeting them. But if you know their identity and you can then pipe those identities right into LinkedIn, Google, meta, as matched audiences, now all of a sudden you have targeting that persists regardless of if they have a cookie or not. And I think it becomes something really powerful for your retargeting campaigns as well.
+
+Adam
+
+Yep, I agree, 100%. omnichannel retargeting. That's the goal.
+
+AJ
+
+That's what it is. And you make it possible by visitor identification because we can't get that with a cookie. Otherwise, pretty amazing.
+
+Adam
+
+Exactly.
+
+AJ
+
+And then like you mentioned, this is a thought leader ad strategy. Being able to target people with a post that you have, it's cheap traffic. We see engagement rates being like five to 30 times higher with thought leader ads bringing costs way down. So I'm all on top of that.
+
+Adam
+
+Yeah, and to me it makes logical sense why that's the case. If you know that your post was a banger, the first time you put it out, of course when you put dollars behind it, LinkedIn and the algorithm is going to give it favorable placement to something that was not a banger. Yeah. That's what the platform wants anyway. So it's just, it's this amazing sort of like very quick feedback loop of just like, "Put spend behind posts that are great. Do not put spend behind posts that are not great." And it's like, I view it as really a leveler too. I think a lot of very large companies have a very hard time creating great organic content because they have a very hard time being authentic and that is what makes great organic content. So the little guys like you and me, if that's all you got being authentic, then you have this incredible power of being able to create posts that will break through and then get in this loop of putting dollars behind them.
+
+AJ
+
+So true. Yeah. Enterprises have their hands tied with their communication.
+
+Adam
+
+Totally. They just can't participate in like what's probably the most powerful, like it's the cheapest awareness that exists in the world, right? The combination of like dropping a compelling organic post that breaks through and then waiting to know if it's great and then putting ad spend behind it. Yeah. Not just on LinkedIn, on like, you know, TikToker like whatever, right? Like that loop is incredible.
+
+AJ
+
+Ooh. Okay. I wanna go back to something you said before. You gave us advice that was like go and post every day. I just wanna say amen to that. So many people are afraid to post because if you put something out there that makes you look dumb or look bad, like it could harm your career. But I wanna tell you, if you put something out that's bad, LinkedIn is going to show it to a few people, see no engagement, and then they're gonna stop showing it.
+
+Adam
+
+Yeah, no one's gonna see it.
+
+AJ
+
+Exactly. I totally agree. Over the course of posting, you're gonna find your voice, you're gonna find what people like, what the algorithm likes, and I think that teaches you who you need to be on social media.
+
+Adam
+
+Totally. In a nuanced sort of like what the algorithm likes, you were kind of getting at this, but to me it's really like my first year of posting, I just knew it was wrong. Just because I knew I wasn't getting back from it the amount of effort that I was putting into it. And then I had this massive unlock, and it's when I started writing to people like me. I basically went from posting, trying to get deals from e-comm stores, to speaking directly to B2B revenue people about my, quite frankly, tumultuous 2023, which was incredibly resonant in our world, but was not being spoken about very often. So I think the nuance of what the algorithm wants, it's really like what the algorithm wants from you. Like you could write, AJ, you could write the same words as my content from 2023, when it really started breaking out, and it would not hit. It's because of who I am and the perspective that I bring that give those words weight. And that's the whole journey to finding your voice. You have to figure out, given exactly who you are at this moment in time, what does the algorithm and what does your audience want from you? And it's not an easy task. It took me a year to figure it out, but once you know it, you know it, and it's the greatest power of 2025.
+
+AJ
+
+So this is obviously not on topic at all when we're talking about ads.
+
+Adam
+
+No, no, this is a deeply personal journey for me though, so I'm passionate about it.
+
+AJ
+
+Yeah. And your posts do so well, you have been everywhere on LinkedIn for more than a year. I'm curious, what have you found from an organic perspective? What kinds of posts are working? How do you approach what you know is gonna be a banger post?
+
+Adam
+
+I'll give you an example of like, I don't even know what the post is yet, but like this is a genesis of a banger. One of my friends is this guy, Andy Muborn. He actually posts a lot on LinkedIn, he's a sales guy. Got a big audience, a couple hundred thousand people. He called me and he's like, yo, I don't have a top of funnel problem at all, I can't get these B2B people to buy my product. And like my buddy Gordo and whatever, they're starting this AISDR, they have the same problem. Like top funnel's great, can't get people to buy. And then I start venting about how like, I'm like, man, I'm just like afraid that like no matter what I do, I'm gonna yell about it, because that's my marketing strategy, and then I'm gonna have 10 copycats within four weeks. And so we started talking about that, and he's like, well, you know, I wanna do the like rippling thing where like we create the go to market tool with every, that's complete in like whole and like whatever else, and like, man, the execution on that is like so hard. And by the way, like outreach itself is trying to do, you know, it's like everyone is building everything faster than ever, and no matter what, if you figure something out, you're gonna get copied within four weeks. So like it's really hard for this early stage guy. And then the late stage guys are all stuck, they're zombies, and they're all trying to create the universal go to market platform, and they're all gonna have the same tools. Like those two things, the implications of those are so dire and so scary, and everyone's feeling it, and no one's talking about it, right? Yeah.
+
+Whenever there's that undercurrent where it's like, man, like I can't believe this is the first conversation I'm having about it, because I've been thinking about it for three months now, like that has the underpinning of being a great thread to pull on. That's kind of like the idea, and then it would be like, okay, what's a hook, right? And then what makes a great hook? I like to use lots of numbers, whenever as many numbers as possible, if you can make definitive statements, such as the one that I brought up earlier, like the golden age of SaaS is over. That's like amazing. It's like, what do you mean it's over? Right? Like, oops. If you can say like 99% of startup founders think that ARR growth is the key metric they should be optimizing for, they're wrong. And then say something that makes logical sense, but is like kind of hard to believe or something. My point being, spend a lot of time on the hook, try to have a hook that literally punches people in the face and makes them read, right? Good cliffhanger, make them press the see more button. And then, you know, a structure of a lot of my posts is sort of like, here are the five reasons why I said that hook. And so I say them and then like, you know, have sort of modifiers and then I always put a takeaway. Whatever pain that I have been agitating with those five things, you provide a relief, a way forward and then always close it with like a coy sort of wrap up that like makes people, you know, it's push first pull and 2024 pull wins.
+
+Whatever and like gets people to like like it and comment or whatever. That's the process, right? Like I'll have a conversation like today and I'm like, man, like I can't believe I'm having this conversation for the first time because I've been feeling this for months, you know, and then it's like gotta make itself into a hook in like a sort of templated post somehow. So that's how I think about it.
+
+AJ
+
+Text only, image, video, how do you think about?
+
+Adam
+
+So if it's gonna be epic, like this one has the potential to be an epic post because it like taps into this really scary reality we're in, right? Yep. Epic posts, no video. Like, cause LinkedIn is first and foremost a text platform still. So I do wanna do the Chris Walker style talking head as much as possible, but I reserve the top five or 10% of stuff to not have that just so the distribution will be better. I had one I knew was gonna be epic a month ago. The hook was 10 million ARRs, the FU money of SaaS. Here's the breakdown, right? Yep. You just know that's gonna be epic, right? Like everybody in SaaS is gonna read that. So like no video there. I try to do video, but just the talking head style on as many as I can because I do believe that the power of this platform is creating what feels like friendships, but scale that to tens of thousands of people. And I feel like the friendship is deeper if they hear your voice and see your face and see your gestures and all that stuff. And honestly creating a talking head is not that much more work. Like I was making some super high quality video like Netflix style, not worth it. I'm glad I did it, but like not worth it for like the average Joe. Talking heads are not hard. Just you don't need to cut. It's just you need a little bit of editing and just giving people your face and voice and gestures over time, your status will elevate in their head. It's just like a preacher or like a DJ or like whatever, right? Like you are on the pedestal when they're sitting there listening to you.
+
+AJ
+
+And it's developing a personal brand.
+
+Adam
+
+100%. Yeah, I'm not saying it's mandatory, but like other than the fact that you have to keep feeding the machine, which like I think most successful people are resigned to the fact that they're in the game. Like if you're thinking about your exit, you're not gonna do a high enough quality work and you're not gonna have enough energy to keep going. The second you're like, I only got two more years in this thing, I think it's like you're walking the plank. That's kind of how I got my head around it. It's like, well, I got young kids. I wanna be working so long as they're in the house. I kind of hate the fact that I'm getting on this treadmill, but like now that I'm on it, you know, I've come up with ways to work way more efficiently. So it's not as stressful. We basically plan out months of content ahead. So like today, for instance, I'm writing like nine LinkedIn posts and then we'll recycle another 15. And then like that's February.
+
+AJ
+
+So good.
+
+Adam
+
+Yeah, anyway, that's a lot about LinkedIn posting there.
+
+AJ
+
+Oh yeah, I wasn  't planning on going that direction.
+
+Adam
+
+Yeah, no, but like everybody wants to know, right? And like, I think that stuff about like what really makes a hot post, hopefully that'll plant a seed with somebody and then they'll get one. Cause I think it's like, okay, like that idea germinates. Like, like my first truly hot post was when I was like, I made this post about our VP sales quitting and getting rid of all of our BDRs and how we sped up. And then people started reaching out to me and being like, dude, like I got all these BDRs. I don't know if it's working at all. Like, I mean, I'm talking like investors with portfolios of companies, other SaaS founders, like how did you measure this? Like whatever. And then I made a post about everything that they were saying about BDR. Cause it's like, that's a hard thing to admit to yourself. It's like, I was wrong. I got to fire these people. You know, my team's going to be a lot smaller. Like what, what if I'm missing something, right? So I made this post and it was like, you know, 3000 likes or something like that. Like something super epic. Like I'd only, my biggest post before that was like a couple hundred, right? And then I was like, wow, okay, whatever that was, it's like things that people were only comfortable DMing me. If you can articulate that and you just know it's this like blanket sentiment in the market, those will be epic posts. Yes. Right? Like those don't have to be the normal, but like those will be epic.
+
+AJ
+
+I found a lot of people will say like, oh, don't chase virality because virality is fleeting. It doesn't actually push the business forward. I had a post that went mega viral that was about the Oxford comma. Has nothing to do with advertising, but it was so funny. You know, I had to spend an entire afternoon fielding comments and kind of nurturing that stream to make it so viral. And then what I found was I had such valuable conversations in the DMS afterwards about business that it made it all totally worthwhile.
+
+Adam
+
+Yeah, totally.
+
+AJ
+
+The conversation was started by the Oxford comma, but then they would say, hey, I haven't thought about you in a while. By the way, here's a question about LinkedIn ads or I have a client doing this.
+
+Adam
+
+Yeah, so I have a pretty strong view on virality. Like I kind of don't think that your entire business should be writing Oxford comma posts. I think every once in a while it's fine, but like untargeted virality is not really the magic of LinkedIn. The magic of LinkedIn is when you can say something like I'm talking about, that is this you're unearthing this emotion that's running through your ICP and the fact that it can go viral in your ICP. And the fact, if you define yourself as someone who has this cutting edge stance about a few issues and you just learn how to articulate them in different ways, but like they're tapping into these nerves in your ICP, the magic of LinkedIn is that you can go viral within that ICP. And you should build your entire business around virality within your ICP. You should not build it around the Oxford comma if you're an ads guy, right? I just wanted to like be very specific about that. That to me is like part of the magic of LinkedIn and why that first crack at the video feed missed. It's because you could get 2 million impressions, but like if you looked at who they were, it's not the kind of people that are following you when you write a banger about LinkedIn ads, which is what you need. The second version of the feed appears to be a little more targeted, which I think it deserves some experimentation. I put one up yesterday about how I was like humiliated when this girl asked me my team size. When I was like 12 million AR was six people. Some girl who works for Upwork asked me like, well, how big's your team? I'm like six people. She's like, oh, that's cute. Like you're just getting started.
+
+I'm not, you know what I mean? So like, and like the six minute talking head rant did really well. And I know because people were like commenting stuff I said in the video and not in the post.
+
+AJ
+
+Yeah. So you know they're consuming.
+
+Adam
+
+Yeah, totally.
+
+AJ
+
+Oh, that's so cool. All right, thanks for letting me kind of take you off off the beaten path there.
+
+Adam
+
+Yeah, yeah. No, I mean, this is what I know, right?  This is the valuable information for me, right? So I'm happy to share.
+
+AJ
+
+And I have to say, and I'll say this again, RB2B, especially because there is a freemium option, everyone listening should be getting this on their site as soon as possible.
+
+Adam
+
+Yeah, just try it.
+
+AJ
+
+So good.
+
+Adam
+
+That's why I tried to create it. It's like, how do you make an offer that you and your target audience would feel stupid not doing, right?
+
+AJ
+
+Yep. Out of curiosity, how is RB2B adding value to all the other channels that you're running? How are you seeing marketers use it that it's shocking and interesting to them?
+
+Adam
+
+Yeah, so there's all sorts of different deployments of it. And we mentioned before, it's like, you know, there's the run it through your CRM deployment. There's like the run it through your clay deployment or whatever. But at the end of the day, the way that I see RB2B is that it's just amplifying the efficiency of any of the marketing channels that you're already doing because they all drive traffic back to your site. So it's just allowing you to do multi-channel rather than omnichannel retargeting on everything that you're doing for like a fixed cost.
+
+AJ
+
+Totally.
+
+Adam
+
+So yeah, it's like, no matter what you think about it, it's like if you send a big newsletter out and you run somebody to a landing page, you know, if you're doing marketplace marketing, like where are those people going? Like they're going to check your site out, right? If you're doing affiliate stuff, like they're blasting to their list and people are coming back and checking out your site. It's like no matter what you're doing, your website is the primary real estate that this stuff is driving. Even if you're like doing low volume outreach, those people are going to the domain who are interested in your email footer and they're checking out your website, right?
+
+AJ
+
+Yeah.
+
+Adam
+
+So yeah, that's how I look at the tool. And like I mentioned before, like, you know, I'm very public about how we're doing. Like we absolutely crushed growth, but our churn's terrible because I think I was selling the lead gen use case as the only use case. And it's a great use case for some people, but not most people. It's obvious why this signal is valuable. It's just not totally obvious how to deliver it to different types of companies in the most valuable way.
+
+AJ
+
+Yeah, it's a force multiplier for everything you're doing.
+
+Adam
+
+Yeah, exactly.
+
+AJ
+
+But it's also not a silver bullet.
+
+Adam
+
+You nailed it with that. Yeah. Yeah. That's kind of like the promise is so big that you want it to be a silver bullet when you sign up. You know?
+
+AJ
+
+Yeah. Ultimately, even if you're advertising to these audiences, like you said, it's a signal. It's not a silver bullet saying these people are ready to be sold to. It is a signal that they are that much warmer. And I think you trade them that way.
+
+Adam
+
+Yeah, exactly.
+
+AJ
+
+It's gonna make everything you do better. Yep. Where do you see the company going? Give us a little peek behind the curtains. What are you looking to add feature-wise? Get us excited.
+
+Adam
+
+I think there's big potential in continuing to add ways where reps can receive the signal where they're at, right? So like a Gmail app as an example, what if it showed you all the people you had threads with who'd hit your site in the last seven days? Or when somebody in your CRM hit the site, you got a little alert and then you could bring it up and it would like, based on the stage they were at, the pages they were looking at, it like used an LLM to like write the copy for you and you could edit it and just like shoot it out or whatever. That's the kind of stuff I'm thinking about. There's something to do in ad tech with audiences. It's not totally clear to me what it is yet, but maybe it involves some enrichment and yeah, I don't know. I think there's something really interesting about B2B ads on B2C. Like I'm a CEO of a 25 million ARR SaaS company. I shouldn't see any other ads from anybody else other than like $200,000 ACV SaaS companies at any device that I have on anything that I do. And that's not the world we live in right now. And I think there needs to be a big shift. I think that like brand marketing is really undervalued in measurable sort of click conversions are like really overvalued. And I think that the B2B world needs to sort of internalize that before that kind of thing's possible. But like, I think we can play a pretty big role in building audiences for that and then showing attribution. The pixel may ultimately be a better source of showing attribution on open internet consumer advertising than actually giving someone a warm lead. Yeah. Right, like if I feed an audience to show TV ads and like a percentage of that audience actually hits the website, you probably wanna run more of those ads. (Laughs) You know what I mean? Yeah. So yeah, these are kind of things I'm thinking about.
+
+AJ
+
+Oh yeah. And obviously, our B2B is exclusively right now visitor identification. But as a byproduct of identifying the visitor, you also know who they are, what company they represent. And there's a lot of marketers out there doing account-based marketing, all based around company names. Any movement in that direction, any thoughts you have on company identification?
+
+Adam
+
+Basically, earlier in the show, I explained the tech that was. It's like this reverse IP lookup, the clear bit, and whatever. We're adding like demand base and a few other providers to actually do that also. And quite frankly, having seen how most people wanna use the person level, I actually think that they would be equally successful with a company-level ID anyway, because it just requires the sales work. You have to figure out at this account who you should actually be speaking to, rather than just thinking you don't have to think about it. And you can just automate a message to go to this individual person. So yeah, we're figuring it out. We're a very young company. I feel very grateful to have made it as far as we did as quickly as we did.
+
+AJ
+
+(Both Laughing) Yeah, you should be. It's a pretty amazing journey so far, Andrew, just getting started. Yeah, exactly. Cool, I always ask people who I bring on for an interview, what are you most excited about in life? Do you have anything personal going on? And do you have anything business wise that you're doing that you're really excited about?
+
+Adam
+
+Yeah, so personally, I have a two year old and a 10 week old child. And for anyone who has ever had either one of those things, you sort of know what I'm talking about when I say that that is like a major, you know, there's only a few things that I'm doing these days and like it's that at home. And then, you know, look, I'm really excited about the future of this business. I talk about the virtues of bootstrapping in all my LinkedIn content. I've been fortunate enough to have been bootstrapped for all of the 12 years of my entrepreneurial career. I'm finally to the point where I like, you know, I got 25 million ARR, we're super profitable. I got resources to do anything that I want. I don't have a board. I don't have investors. And I can really be cutting edge on some of this stuff, like this authenticity thing, like I can say it a million times. I can credit it. I can say that this is what's working for me and you can agree with that. And most people still can't do it. They're like, well, I can't say that.
+
+AJ
+
+My investors wouldn't let me.
+
+Adam
+
+Yeah, exactly. Like I don't want to piss my team off or like whatever. I thought that the business that I had, that I currently have like five years ago, it was my moonshot goal, you know, the sort of like revenue and profitability and employees and everything else. So now my ego thing as an entrepreneur is like, can I bootstrap 100 million ARR? You know, with these products, the answer is no, because they're super high churn, but like now I'm like, okay, what can I do in like data or something that like can't be copied and would be low churn and like I could just stack and like it could help me sort of push closer to that. I've gotten to know this guy, John Mackey, who started Whole Foods. He's got this idea of conscious capitalism and it sounds different than what it means. Really what it means is just like, you're running a business in a way to where all of the stakeholders benefit. So like your employees, the customers, the suppliers, if you have investors, the investors. And if you really do that, it sort of sends you in a direction that's different than if you're a private equity backed SaaS where they buy your company and then they torch your brand by raising prices, right? Yeah. I'm like really into this thing where like, I woke up one day and I wanted to be a founder 12 years ago and now all of a sudden I got this big team. Like we do a survey, people seem to like working here. We're not screwing over our customers. Like I'm trying to just like create unbelievable amounts of goodwill with the ecosystem. We're super profitable. So the founders do great. Like I'm just like really into like continuing to build this thing that like benefits everybody who touches it. So yeah, that's what I'm excited about.
+
+AJ
+
+Brilliant. Thanks for sharing. You got a lot on your plate with a 10 week old, amazing.
+
+Adam
+
+He's a man.
+
+AJ
+
+Well, I've said it before and I'll say it again. Everyone who's listening, you need to get RB2B installed on your website. I'll have a link below in the show notes exactly how to do that. Adam, tell us, what do you want us to do? Do you want us to follow you on LinkedIn? Do you want us to visit your website? Like send us wherever you want.
+
+Adam
+
+Sure, yeah. Well, those two things, I mean, just check me out on LinkedIn. I hope you like my stuff. I put a lot of energy into it. It's Adam Robinson, RB2B you'll find me. And then yeah, just check out RB2B.com.
+
+AJ
+
+Perfect. Adam, thank you so much for jumping on, sharing so much gold with us and being so authentic. Sure appreciate it.
+
+Adam
+
+Thanks AJ.
+
+AJ
+
+Okay, I'm sure we'll have you back for a round too as the product increases in ad tech integrations and all that.
+
+Adam
+
+Oh man, I'd love to.
+
+AJ
+I hope you loved that conversation with Adam as much as I did. If you are not already a member of the LinkedIn ads fanatics community, you've got to get in there. For a low monthly membership, you get access to all four of our courses that take you from beginner to expert. Plus you get access to all of the top minds in LinkedIn advertising. There's even an upgrade to hop on weekly group calls with me and the other LinkedIn ads super fanatics, which is by far the easiest way to get direct feedback on your campaigns and everything you're running on LinkedIn. Go check it out at fanatics.b2linked.com. Now, if this is your first episode you've heard, welcome, we're excited to have you here. If you like what you heard, hit that subscribe button so you hear it again next week. Now, if you are a loyal listener, if you could do me the great pleasure of going to Apple podcasts and leaving a review, that is by far the biggest compliment you can pay us. With any questions, suggestions, or sometimes we need it, corrections, reach out to us at podcast@b2linked.com. And with that being said, we'll see you back here next week and I'm cheering you on in all of your LinkedIn ads initiatives.

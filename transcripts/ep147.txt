@@ -1,0 +1,109 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads Free Brand Lift Studies – are they Worth It? | The LinkedIn Ads Show
+AJ Wilcox
+September 6, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Episode Summary:
+In this episode of the LinkedIn Ads Show, host AJ Wilcox dives deep into LinkedIn’s free market research tool: 
+Brand Lift Studies
+. Many advertisers are unaware of this powerful feature, and AJ explains how you can leverage it to measure the impact of your LinkedIn Ads campaigns on brand awareness, product consideration, and more.
+Key Discussion Points:
+Introduction to Brand Lift Studies:
+ Learn what these studies are, how they work, and the requirements needed to access them.
+Budget Requirements:
+ Understand the budget thresholds necessary to qualify for free Brand Lift Studies and how many questions you can ask based on your spend.
+Survey Setup and Options:
+ AJ walks through the different types of questions you can ask, ranging from brand awareness to product consideration and even employer favorability.
+How It Works:
+ Discover how LinkedIn segments your audience into test and control groups, collects responses, and measures the lift (or drag) in brand metrics.
+Interpreting Results:
+ AJ shares insights on how to interpret the data from these studies, including statistical strength, relative brand lift, absolute brand lift, and estimated total lift.
+Case Study Example:
+ AJ shares a recent experience where a client saw both significant lift and an unexpected drag in product consideration, offering valuable lessons for advertisers.
+Is It Worth It?
+ AJ provides his take on whether the time investment in setting up these studies is justified based on the potential insights gained.
+Additional Updates:
+LinkedIn News:
+ Updates on LinkedIn’s policies around political advertising, invoicing through Business Manager, and the introduction of newsletter ads.
+Community Involvement:
+ AJ invites listeners to join the LinkedIn Ads fanatics community, offering access to exclusive content, courses, and weekly group calls.
+This episode enhances LinkedIn Ads strategy with data-driven insights. Whether you’re spending big or just curious about LinkedIn’s tools, AJ’s breakdown of Brand Lift Studies will equip you with the knowledge to make informed decisions about your campaigns.
+ 
+Show Transcript:
+Did you know that LinkedIn ads gives their advertisers free market research tools? We’re talking about brand lift studies on this week’s episode of the LinkedIn Ads Show
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey, they’re LinkedIn Ads fanatics. As he said, I’m AJ Wilcox. I’m the host of the weekly podcast, the LinkedIn ads show. And I’m thrilled to welcome you to the show for advanced B2B marketers who want to evolve their craft and master LinkedIn Ads and of course achieve true pro status.
+Many advertisers that I speak to don’t know that LinkedIn offers these free brand lift studies. I’ve gotten to use them on several occasions and I really like them. Today we’re talking about what they are, how to get access, and what you can expect from them.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+That’s right, B2Linked is the ad agency 100 percent dedicated to LinkedIn ads. And we have been ever since 2014, you know, back before it was cool. We build a custom strategy for every account we work with. You get to work directly with me and my local team, and you won’t get a cookie header approach or any sort of standard account template from us.
+Plus, over the course of 150 million spent, I got to develop the strategies that allow us to get the lowest costs possible from LinkedIn. We always save our clients more than we charge. So it’s kind of like getting the best in the biz for free. So if you’d like to explore partnering with us for your LinkedIn Ads, schedule your free discovery call today at b2linked.com/discovery.
+First off in the news, so many of the platforms out there are heavily influenced right now and through the rest of the year, pretty much by political advertising. What’s so interesting is that because LinkedIn doesn’t allow political ads on its network, we are pretty much immune to this.
+So just in case you’ve been worried about, Hey, what’s going to happen all the way up through November, if I’m advertising in the U S no worries, political ads, aren’t going to drive our CPMs up.
+Here’s a really interesting change. As of August, all monthly invoicing customers have to have LinkedIn’s business manager set up. So to me, that says, if you are hoping to ever be on invoicing, just a heads up, you’re going to need to get your permissions transferred over to business manager, rather than managing them right within your campaign manager. And don’t worry, if this impacts you, you will have already received an email from LinkedIn, so no big deal there. And honestly, I used to hate business manager. Every time I saw a client account come in that used it, I would go, oh, this sucks. But it’s actually gotten really good and I haven’t seen nearly as many issues with it. So I’m all for it.
+For those of you who are not already on business manager, it does require that everyone who has access has two step verification set up on their LinkedIn account. That can be a little bit of a hurdle for some companies. So I wanted to throw that out there just as you’re considering it.
+Also a heads up that newsletter ads are now available to all advertisers, both from companies and from individuals. Now, you might be a member of my personal newsletter. This is the B2Linked one. It comes as me. So as we’ve started advertising our own newsletter, we’ve realized that it has to come from me personally as a thought leader ad. If we had set it up as B2Linked is the one sending out the newsletter, then it would have just been like a company boosted post. The one thing I really like about the company boosted post way of promoting a newsletter is, you know, it comes from the company, so it’s not quite as engaging as if it comes from a person. But, you can actually attach those to lead gen forms, and I love the idea of, when someone signs up to your newsletter, you can have a lead gen form collecting their information, so you can actually know, who is it, who are members of my, my newsletter, which, if it’s a personal newsletter, like mine is, And it’s a thought leader ad to promote it. It means that we can’t use a lead gen form. Oh, well, hopefully in the future.
+Alright, do you have a question, a review or feedback for the show? Please message me on LinkedIn. My DMs are free and they’re open. And you can also always email us at podcast@b2linked. com. If you attach a link to a voice recording, then I’ll play them right here on the show. Just make sure you let me know if you want me to keep you anonymous or shout you out.
+With that being said, let’s hit it. We’re talking about Brand Lift Studies. First of all, we have to ask, what are they?
+These are free marketing research in the form of Brand Lift Studies that are provided by LinkedIn. And that is, they are free, okay. If you have a high enough budget. We’ll get into that again here in a few minutes. You may have already noticed these, but if you go in the left sidebar navigation under the word test, you’ll see two different kinds of tests you can create. If you click create test and then brand lift test, that enables these. Now, although it is free to run a brand lift test, requires quite a bit of budget. So you could arguably say it’s not really free. You have to be budgeted to spend at least $60,000 in the next 90 days so that you can ask a single question. Now if you have extra high budgets, you’re in the $90,000 range for the next three months, you can ask two questions. And if you are crazy high in budgets for every additional $45,000 that you add on to your 90 day budget, you can ask an additional question all the way up to six total questions for the quarter.
+So yeah, despite these actually being free, you do need to spend a considerable amount on LinkedIn Ads in order to get the access for free.
+So how do they work? What LinkedIn does is it takes your total target audiences in your account and it breaks them up into two groups. One is a test group and one is a control group. As you start spending at the beginning of your test, LinkedIn starts showing these poll questions that show up in the news feed to these members of your audience. And it starts collecting their responses. Then towards the end of your 90 day test, LinkedIn shows them again to the same audiences, and then it gets to measure the lift or drag.
+The reason this works is that LinkedIn is giving these audiences 90 days of potentially getting to see your ads, and then being able to give feedback on how well your ads are working at making an impression to those audiences.
+There are 11 total questions that you can choose between. I’ll run you through the content of each one and probably the ones that I would recommend that you run.
+First option is top of mind awareness. This is where you can ask what brand comes to mind when you think of X category, and you can provide your company name along with four others. And you’re hoping that over this 90 days, because they’ve seen your ads, they’re much more likely to click your brand over one of your competitors.
+The next one is called Aided Awareness. This is where it just simply asks, Have you heard of X brand or product? And they can click a button that says yes, no, or not sure.
+The next one is Product Consideration. This is where it asks, How likely are you to consider X brand or product for your next purchase? And they have five options all the way from very likely to very unlikely.
+The next one is brand familiarity, where you get to ask, how familiar are you with this brand or product? And it goes all the way from very familiar to not at all familiar.
+Another one for brand. This one is brand favorability. How favorably do you view X brand or product? And the answers go all the way from very favorable to very unfavorable.
+Then there’s one specifically about ad recall. Do you recall seeing a digital ad for X brand or product? And there’s yes, no, or unsure.
+Then you have recommendation. How likely are you to recommend X product or brand to someone else? And it goes all the way from very likely to very unlikely.
+And that’s all the questions specifically about your brand or your products. And then, of course, LinkedIn being LinkedIn, they have a whole bunch specifically about your brand as an employer.
+There’s employer consideration, saying, if you were looking for a job, how likely would you be to consider X brand.
+There’s employer favorability. How favorably do you view this brand as an employer?
+And there’s the employer recommendation. How likely would you be to recommend X brand as an employer to your friend or colleague? So this is obviously great for those advertisers who are specifically all about recruiting.
+So as you run these tests over the next 90 days, you’ll want to know what the output is going to look like. For each test that you run, it’ll tell you the number of responses that you got from your control group, and the number of responses from your test group. It also lets you know the statistical strength, how strongly that your lift or drag is backed up by the data. I recently ran a three test study for a client, and it was really interesting across the board.
+One had a very strong statistical strength, one had a very weak statistical strength, and one just said weak. And from my experience on LinkedIn, this is pretty odd to have two show up as not being very strong, especially because we did spend the entire budget. But, who knows, but your mileage may vary.
+Then it gives you your relative brand lift. And this is a percentage. LinkedIn says that it calculates this by subtracting the control groups desired favorable response from the test group’s desired response. And then it divides that result by the control group’s desired response. Basically it’s saying, what is your brand lift if you take your control group away.
+In the most recent three tests that I ran, one had a 148 percent relative brand lift. Sounds great. Another had a lift of 7%, and then the third, strangely enough, had a drag of 30%.
+And that is strange to have a drag. I’ll tell you about that one here in a couple minutes.
+The next stat that they give us is your absolute brand lift in percentage points. LinkedIn says it calculates this by subtracting the control group’s desirable response rate from the test group’s desirable response rate. This simply shows you the difference in your responses, whether someone was shown your ads versus not.
+And the last stat it gives you is your estimated total lift. Which is the estimated total number of people in your target audience who would respond favorably to your question. So maybe only a few hundred people may have answered favorably on your survey, but it’s like, if you could get this in front of everyone in your audience, here’s about how many people you could expect to respond.
+You can also drill into the responses to see breakdowns by job function, by seniority, by industry, and by company size for each of your tests.
+So in this most recent study, the findings were really interesting.
+I mentioned that two of the tests showed a significant lift, which is great. It’s exactly what you’d expect from something like this. But one showed a significant drag. The question was product consideration. How likely are you to consider the brand for your next purchase? As I was investigating why in the world did this show a drag, it decreased for this brand, I found that all the other job functions showed an overwhelming increase, but one. And that’s IT, or information technology. My reasoning here is that IT people are pretty salty, they hate advertising in all of its varieties in general, And they’re much more likely to answer a survey in a way that punishes an advertiser. So I’m going to guess that if you’re running one of these brand lift studies, it’s pretty unlikely that you’ll see the same thing we did with one of these tests, which is a drag. More often than not, it’s just going to show you a net increase. Unless your target audience happens to be heavy in IT people, then I would absolutely love to hear from you.
+So when you go to actually set these up, a little bit of work in terms of like filling out the questions for the survey, but it’s there’s really not bad. You might ask, is it worth doing it if it takes 15 to 20 minutes to set this up? I definitely wouldn’t suggest spending more than you’re already planning on spending just because you want to get access to these free brand lift tests. But if you’re already spending at least $60,000 per quarter, then why not? The feedback that you get from the data is really great, and at the very least, you have LinkedIn showing a bunch of polls mentioning your brand or product for free, so you really can’t go wrong.
+If you’re not already a member of the LinkedIn Ads fanatics community, what are you waiting for? Go to fanatics.b2linked.com. For a very low subscription cost, you get access to all four of our courses that take you from absolute beginner to LinkedIn Ads hero. Plus you’re in the community. You get to find out from other advertisers what they’re learning. You get to pose all of your questions and get feedback from some of the top minds in LinkedIn Ads. Plus I’m in there and I answer every question. There also is an upgrade to get access to weekly group calls with me, which could be extremely helpful to you on the campaigns that you’re running right now. Now, if this is your first time listening to the show, welcome, we’re excited to have you here. Make sure to hit that subscribe button so you get to hear me in your ear holes next week as well. But if you are a loyal listener, please, please, please, the biggest favor that you can do is to go over to Apple podcasts and leave a review for the show. And of course, if you do, I’ll get to shout you out here on the podcast. With any questions, suggestions, or corrections, reach out to us at podcast@b2Linked.com. With that being said, we’ll see you back here next week. I’m cheering you on and your LinkedIn ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

@@ -1,0 +1,107 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+Troubleshooting LinkedIn Ads Low Delivery Issues | Why Won’t My LinkedIn Ads Campaign Spend its Budget? | The LinkedIn Ads Show
+AJ Wilcox
+November 1, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+LinkedIn Ads Sponsored Messaging update for the EU
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Episode Summary:
+In this episode, AJ Wilcox dives deep into one of the most frustrating issues for LinkedIn advertisers: campaigns that just won’t deliver or spend as expected. AJ walks listeners through his tried-and-true troubleshooting steps, offering actionable insights to get LinkedIn Ads campaigns back on track.
+Key Discussion Points:
+Why Campaigns May Not Deliver
+: AJ explains potential causes, from inactive campaigns to low bidding issues, that might be limiting ad visibility and spend.
+Detailed Troubleshooting Steps
+: He provides a step-by-step guide for advertisers to diagnose issues, covering everything from campaign and ad activity to billing checks, small or inactive audiences, and relevancy score.
+Bidding Strategies
+: Insights into how manual bidding and maximum delivery bidding can impact campaign delivery, plus tips on knowing when to increase bids.
+Glitches and Quick Fixes
+: AJ discusses how occasional LinkedIn platform glitches can hinder ad delivery and how duplicating campaigns can often resolve these issues.
+Audience Size and Activity
+: Why small or infrequent audiences on LinkedIn may result in slow ad delivery and how to set realistic expectations.
+LinkedIn Ads Support
+: When to reach out to LinkedIn support if troubleshooting steps fail, and tips for contacting them effectively.
+AJ shares practical solutions to optimize LinkedIn ad delivery, save on costs, and ensure that their campaigns spend efficiently. Join the 
+LinkedIn Ads Fanatics community
+ to discuss strategies, learn from experts, and upgrade your advertising game.
+ 
+Show Transcript:
+Have you ever caught yourself screaming out loud at the LinkedIn Ads platform? Please take my money. This one’s for you. We’re troubleshooting low delivery on this week’s episode of the LinkedIn Ads Show.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey, hey there, LinkedIn Ads fanatics. As he said, I’m AJ Wilcox. I’m the host of the weekly podcast, The LinkedIn Ads Show. I’m thrilled to welcome you to the show for advanced B2B marketers who are looking to evolve their craft and master LinkedIn Ads to become true pros. One of the problems that LinkedIn advertisers inevitably face is that when they launch a campaign it just doesn’t deliver or spend how you were hoping it would.
+If you face that situation, this episode is for you. I’m going to walk you through all the same troubleshooting steps that me and my team do to help you actually get the delivery that you’re looking for.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+B2Linked is the ad agency, 100 percent dedicated to LinkedIn ads. And we have been since 2014. Congratulations to us 10 years ago, but you know, that was back before it was cool. We build a custom strategy for every account we work with. You get to work directly with me and my local team. You won’t get any sort of cookie cutter approach or standard account templates from us.
+Plus, we’ve developed the strategies with our mastery of the platform, where we save our clients way more than we charge. So it’s kind of like getting the best in the biz for free.
+If you’d like to explore partnering with us for your LinkedIn ads management, schedule your free discovery call with me today, at B2Linked.com/discovery.
+First off in the news, B2Linked hit our 10 year anniversary this month. I’m stoked. Looking back at the last 10 years, it’s flown by. Definitely doesn’t feel like 10 years, but I’m just super excited.
+If you see me walking around with a party hat on or blowing one of those, I don’t know what you call them, like party blowers, the anyway, you’ll know why it’s celebrating our 10 year anniversary.
+I also just got back from speaking at the Content Marketing World 2024 and the Marketing Analytics Data Science event in San Diego. I have to say, it was totally an awesome event. Fantastic speakers and topics, several gray ones at every time slot, so I couldn’t attend everything I wanted, I was interested in.
+So, I’m really excited to get to the replays. Historically, this conference has been in Cleveland, Ohio, but it got acquired, and last year it was in Washington, D. C. This year, and already confirmed for next year, it’s in San Diego, California. It’s got lots of great content. Mainly focused at enterprise B2B companies. So if you fit that, I highly recommend checking it out next year, just in case if you missed it this year. And it was so great getting to meet several of you loyal listeners there after my talk. Thank you for coming to introduce yourselves.
+Also in the news, you’ve probably seen this pop up in your account probably several times. You try to dismiss it and it just keeps coming back. It’s the pop up that says, Sponsored messaging coming soon to the EU. Starting mid October, 2024, subject to change, LinkedIn will reintroduce targeting for European union members who agreed to receive sponsored messaging ads in their LinkedIn inbox.
+If you’re a LinkedIn member in the EU, you’ve probably gotten a pop up of some sort asking you for what your preferences are to be shown ads in the inbox. That’s what this is about. So I don’t know what percentage of EU members have actually consented to this kind of ad.
+I kind of don’t know why they would, but for those who are, this is actually really great for those of us who are having a lot of success using either conversation ads or message ads, in other areas of the world, that we may want to expand that to the EU, we haven’t been able to so far.
+Our stopgap for doing this was using click to message ads in the EU. We can do that because it starts out as a single image ad, and then only when they click it, do they move over to a message. But those are also kind of cumbersome to build.
+All right, do you have a question, a review, or feedback for the show? Message me on LinkedIn, or you can always email us at podcast@b2linked.com.
+You can attach a link to a voice recording from you. That’s by far the coolest, because then I can just play it right here on the show. And of course, if it makes you feel uncomfortable, just let me know. I’m happy to keep you anonymous, but of course, I’d always love to shout you out. I want to feature you. All right, without further ado, let’s hit it.
+You may have faced this situation where you have launched a campaign and you have literal zero spent on it. There are lots of different reasons why this could happen. So I’m going to walk you through each of them. And of course, if I miss any, please do reach out to me and give me a correction. And I’d love to shout you out in the next episode. And of course, fix it. So this can be as complete as possible.
+Obviously you want to start out by checking all of the standard things. Like, is the campaign group active? Is the campaign active? Are all of the ads active? Sometimes one of the ads will get disapproved or something, and you’re wondering why it’s not spending. You probably got an email about it, but you might have missed it.
+You need to go and make sure that you actually have active ads, campaign, and the campaign group. Also check the billing information in the account. Just in case the credit card fails or something, the account could have gone down. You might’ve missed the big red banner at the top that says your billing failed.
+You need to go in and fill out your credit card information, whatever it is, just make sure you’ve checked your billing info. But assuming that’s all good, the next step is to actually check that your campaign is actually not delivering.
+Most of the time when I see this, it’s because we’re using the website visits or the website conversions objective. And what happens is if you see 0 in spend or zero clicks, You might think, oh, it’s not serving,
+In these objectives, you only pay when someone clicks on the link. So you might actually have other engagements happening. You might be serving impressions. You might be getting reactions and comments and clicks to your company page. So make sure that you flip your columns to the engagement set of columns. That way you can actually see. Even if you’re not getting clicks and spending anything, you might be getting all of those engagements. And of course, if you are, you’re getting them for free, which I love.
+I also really like selecting the campaign and clicking on performance chart, and then you view the performance by impressions. Over the course of days, if you are delivering, you will see impressions.
+If this is sponsored messaging, though, you’ll need to switch to sponsored messaging sends. That’ll show you that sends are happening, even though you may not be getting any Opens or clicks or anything like that.
+There are some reasons why this could happen. Number one, it could be that your audience is really small or maybe not super active on the platform. And if that’s the case, you might find that there aren’t enough of the people coming online every day to see your ads to then generate any clicks or spend. But it could also be that your campaign has a really poor relevancy score, or at least compared to your competition, your relevancy score might be less than theirs. And so you may just have to increase your bids sometimes multiple times until you can really make it worth LinkedIn’s while to start serving those ads.
+To fix this while you’re manually bidding, I suggest keep bidding a little higher and a little higher every couple days until you start to see something. Obviously, once it gets ridiculous to the point where you’re like, yeah, I don’t want to bid any higher because I’m not actually willing to pay this much for a click, stop and move on to the next troubleshooting step.
+I also want to mention, occasionally I’ll see a glitch in LinkedIn’s campaign manager where the data is there. It’s just not updating for a day. When this has happened in the past, the ads are actually serving normally, but campaign manager isn’t showing you the updates. And so, if you’ve fallen into this trap like I have, You go and increase your bids several times during the day. And then all of a sudden when it updates tomorrow, you see that you just paid way more per click than you needed to. I can only remember this happening like twice in the past year. So it’s pretty rare. Be aware. Sometimes you don’t want to just keep increasing and increasing because it might actually be running and you just can’t see that it’s serving.
+When you are manually bidding, another troubleshooting step that you can try is actually switch to maximum delivery bidding. If low bids are the reason that the campaign’s not spending, when you switch to maximum delivery, you’re now paying by the impression, which means you’re going to pay every single time LinkedIn shows it to someone.
+And LinkedIn will generally bid as high as it takes on CPM to spend the whole daily budget. And then some, you’ll probably overspend by 50%.
+So if that fixes it and it starts spending wildly, that could just be an issue of not having aggressive enough bids. And you may have to decide if you want to leave it on maximum delivery or go and significantly increase your bids.
+If that doesn’t work, the next thing you want to check is to see how small or inactive that audience is. Sometimes we notice, especially with like contact lists or ABM lists, you might have an audience size of like 300 or 800 people. Especially if that audience isn’t super active on LinkedIn, they might just be coming to the platform so slowly that they’re not going to spend any sort of budget that you want them to. If that’s the case, I would suggest, be patient. Don’t expect that this campaign is going to spend a ton. Don’t give it astronomical daily budgets. Just give it enough that you know it’s going to keep trudging along and staying in front of those people every time they do happen to get on the LinkedIn. You may want to check the performance monthly instead of weekly. And aggregate the data that way, just so you don’t get impatient.
+Personally, I would avoid using maximum delivery since your effective cost per click are likely going to be really high. But if you’re desperate to spend as much as possible on that audience, maximum delivery bidding is one of the tools in your tool belt.
+Now, if you’ve looked and it’s not a particularly small audience, or you don’t really think that this could be an inactive audience on LinkedIn. This may actually just be a glitch.
+This actually does happen fairly often. You may find that your campaign or the ad, something there gets messed up on LinkedIn’s side, it won’t show you an error, it just won’t serve.
+So if it is one of these glitches, the fastest way I’ve found to solve it is to duplicate the campaign and the ad and launch again.
+It seems crazy because this campaign is going to have exactly the same ad format, objective, targeting, all of that. The ad looks exactly the same, but it has a new ad ID. And sometimes that clears it.
+Now, if all of these troubleshooting steps fail and you’re still not sure why, the next step is to contact LinkedIn Ads support. You can either click on the chat icon that’s in the bottom right of campaign manager, Or you can navigate to LinkedIn’s help section and click around repeatedly until it finally lets you submit a, an email ticket.
+If you’re not already a member of the LinkedIn ads fanatics community, what are you waiting for? Get over to fanatics.b2linked.com.
+There you’ll find all of the top minds and LinkedIn ads who are sharing with each other, what’s working. Plus you get access to all four of our courses that take you from beginner to expert.
+I respond directly to every question there. So it’s definitely worth your while if you have especially hard questions.
+Plus there’s an upgraded level that we call our super fanatics. That gives you access to a weekly group call with me where you get to ask any question and get feedback.
+Again, that’s fanatics.b2linked.com. If this is your first time listening, welcome. We’re excited to have you here. Make sure to hit that subscribe button. But if this is not your first time listening because you’re a loyal listener, thank you. I love you. If you haven’t already, the very biggest favor that you could do me is to go on to Apple Podcasts and rate and review the show.
+Show the Apple Podcasts algorithm some love, so that they know which direction to send all of the rest of the LinkedIn Ads fanatics.
+With any questions, suggestions, or corrections, because sometimes I need them, reach out to us at podcast@b2linked.com. With that being said, we’ll see you back here next week. And as always, I’m cheering you on in your LinkedIn Ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

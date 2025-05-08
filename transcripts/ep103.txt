@@ -1,0 +1,220 @@
+Revenue Attribution Reporting just launched in your LinkedIn Ads account. What is it? I’m glad you asked. We’re diving into the new functionality on this week’s episode of the LinkedIn Ads Show.
+
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+Hey there LinkedIn Ads fanatics! As of July 1 of 2023, LinkedIn launched the Revenue Attribution Reporting tool within LinkedIn Ads. You can access it now, it just requires that you have business manager set up for your account. What the report does is it connects your LinkedIn Ads to your CRM, so you can get reporting further down in your sales process, which is super valuable. You’ve heard me talk about this before. This is a rare public beta. So there will continue to be further developments and new features added. This is just the beginning. To teach you about the revenue attribution report. I have not one guest, but two guests to drop hardcore knowledge bombs on you. The first is Jae Oh, you’ve heard me mentioned him on the podcast before. He’s been with LinkedIn for five and a half years. And he’s a director over product management. Jae and I go way back to 2018, where we met at a LinkedIn hosted customer advisory board event. And he’s been over so many products that we’ve all worked with on LinkedIn Ads, he’s awesome. The next heavy hitter I have for you is Jim Habig. You may remember him from Episode 79, when I highlighted his presentation at the B2Believe event in San Francisco. It was a fantastic presentation. I got to sit front row. Jim Habig is the Vice President of Marketing at LinkedIn, which I know, is really awesome. Now make sure to stick around to the very end, because I have some thoughts on this. Plus, I’ll tell you exactly how to get it set up.
+
+First in the news. If you listen to episode 100, you’ll already know about this, but we just launched the LinkedIn Ads fanatics community. And if you join before the end of July in 2023, you’ll be grandfathered in to the lowest price that it will ever be. That’s $59 a month. Inside the community, you’ll have access to our four brand new courses taking you from the very beginnings of campaign manager all the way through our expert training. You’ll also have access to our whole community of like minded LinkedIn Ads professionals that you can bounce ideas off of, ask questions, and of course, I’m in there, my whole team’s in there, nd you can ask us anything. Go to fanatics.B2linked.com for more information there.
+
+I wanted to highlight a review that the podcast got. This one came from Sean Possemato. He’s the head of operations at Cameron Digital Consulting out of Boston. And he said, “Great guy and a trusted resource. Fivestars. I’ve had the pleasure to get to know AJ professionally and a little bit on the personal side. He went out of his way when I was helping build out the next steps in my career five years ago. I’m competent in LinkedIn Ads, but always refer my network to AJ because I can trust that he will treat anyone I refer with the utmost respect and deliver quality results. Oh, yeah, amazing show. There aren’t many, or any marketing podcasts that walk through actual data to learn from.” Well, Shawn, a huge thank you for me, I really appreciate you leaving the review. So grateful, the contents helpful and so grateful, I could have been a helpful mentor to you in your career. And also thanks for the ride to and from the airport and getting to hang out with you whenever I’m in Boston. And to all you listeners, I want to feature you and shout you out here as well. So please do go leave us a review on Apple podcasts. Alright, with that being said, it’s time to hop into the interview. Let’s hit it.
+
+AJ Wilcox
+Alright, everyone. I’m so excited to have these interviews for you today. First off, Jae Oh, he’s the director of product for LinkedIn Marketing Solutions, leading teams, building the audiences and measurement capabilities of the LinkedIn Ads platform. So Jae, super excited to have you here. Tell us a little bit about yourself. Anything I didn’t cover in the intro?
+
+Jae Oh
+Hey, great to be here, AJ, thanks for having us on. Not covered in the intro is the fact that I’m probably getting less sleep than I ever did before with a two year old running around. I’ll talk about that a little bit more later.
+
+AJ Wilcox
+Congratulations.
+
+Jae Oh
+Thank you. And of course, you know, there’s always something going on these days with construction. And so we’re renovating stuff. So outside of work, if you see me that’s what I’m doing. Trying to build stuff inside the digital world as well as out, but really excited to be here.
+
+AJ Wilcox
+Cool. I’ve got five kiddos, none as young as two so you’re battling right now. And I love the toddler stage. So congratulations on that.
+
+Jae Oh
+I’m going to stop complaining now. I’m going to withdraw my comment entirely. But kudos.
+
+AJ Wilcox
+Oh, it gets easier. The more kids you have, the more they entertain each other. So right now you’re in like war territory. You got to give all your attention. I get it. First off, let me ask you what is the product that you’re most focused on right now?
+
+Jae Oh
+Yeah, one thing that we have been focusing a lot on these days is how do we help our marketers tell them better story about the value that they drive in their day in day out workflows, right? As marketers, are you just showing ads, are you driving ads for a purpose. And one of those things we’re trying to change is, you know, that value narrative has to come through in our products. So one product specifically is a revenue attribution report, we want to be able to help our marketers tell a better story that is effectively speaking to the bottom line of the business and is more than the clicks or the conversions or maybe even engagement rates that they’ve been maybe more routinely trained to talk about from vanity metrics perspective.
+
+AJ Wilcox
+I think this is so valuable, like this product, the Revenue Attribution Report. For the longest time I’ve looked from the outside, I’ve seen LinkedIn that has that much better targeting than any other platform has, and it charges a premium. So we know that we’re going to get access to better and more qualified candidates, more qualified conversions, but we’re going to pay more for them. And when you pay more for it, it means that you have to pay more attention and catch issues before they pop up. The biggest issue I’ve seen is people spending on LinkedIn, but not having the revenue intel to actually back it up. So I’m super excited about this, especially given economic uncertainty that we’re seeing right now. Tell us a little bit about how the report works, when it’s coming out, where we might access it, all that kind of stuff.
+
+Jae Oh
+Yeah, so it’s early days for this product. And you should see us adding more support for more data, more events, more connections in terms of partners in future days. But right now, the Revenue Attribution Report lives in business manager, it attributes our CRM data. So our customers outcomes data to add engagement activities on LinkedIn to help our advertisers better understand and demonstrate the impact of marketing efforts on their actual business outcomes, whether that’s new pipeline, or new opportunity, or new deals closing. So with marketers having increased accountability, drive sales results, they should be able to look at this and say, hey, this is where my money is going, hopefully, allowing them to justify the ad spend and unlock additional investments. So you should see at a metrics level things like top line, you know, return on adspend, or revenue one, or pipeline, how LinkedIn played a role in that, or maybe even at the funnel level, leads, open opportunities, closed one ops. And ultimately really more granular to when you want to start connecting the dots and campaigns. So conversions like win rates, average decent, close, average deal size. And by speaking at that level, as you addressed earlier, you know, in this time of uncertainty, what’s most important is to understand how are you impacting the growth and sustainability of that business? Marketers should have the language to speak to that.
+
+AJ Wilcox
+So you mentioned that it’s inside of business manager, does that mean that if you don’t have your account attached to a business manager, you wouldn’t get access to the Revenue Attribution Report?
+
+Jae Oh
+That’s right at this point, that’s true. Business manager is currently in an open beta right now so theoretically, any customer could go and set one up. Having said that, the reason why it should live there is because it should be looking across all your ad campaigns. You know, if we want to talk about return on adspend, it’s not just for one campaign, especially when it’s a B2B sales cycle, where as multiple touchpoints, many campaigns that might influence the deal within a day.
+
+AJ Wilcox
+Excellent. And I don’t know if you’re able to talk about the CRMs that have current integrations, or that are planning on having integrations, can you touch on that at all?
+
+Jae Oh
+So currently, we have Salesforce CRM that’s integrated, we are planning for additional ones as we start talking to more customers, and certainly just a backlog that we need to work for. But you know, ultimately, at the end of the day, the same data applies in terms of the kinds of metrics that you would see so that you could understand the performance of the influence aspect.
+
+AJ Wilcox
+So it’s an open beta right? Now, does that mean that you have to go to your HR rep right now and request access,
+
+Jae Oh
+if you’re in business manager, you can actually connect it assuming if you have a Salesforce integration? If you have a rep great, it’s even easier. But if you don’t, you should be able to go into business manager and turn on the feature once you integrate your CRM system.
+
+AJ Wilcox
+Very cool. Is there a help doc and LinkedIn to help that walkthrough? Like wiring it up?
+
+Jae Oh
+There? Is there is it should be pretty easy to search. Yeah.
+
+AJ Wilcox
+Okay. Very cool. All right. Thanks for all of those initial questions, kind of understanding where it fits. What sort of requirements are there? What do you need set up on the back end in order for this to function properly?
+
+Jae Oh
+Yeah. So at a minimum, it would just be the CRM integration, and assuming you have the relevant fields to help us understand, you know, deal status, size, dates associated with it. Leads data, of course, as well as company data, these pieces are just foundational. Assuming that that is there, you know, we can certainly fire the report, and the plan is to support other data sources as well, in addition to other CRM sources that you asked about,
+
+AJ Wilcox
+Beautiful. How is this different from the offline conversions report that we can upload right now?
+
+Jae Oh
+Yeah, so two ways. Signal source and customer use case. So the signal source for CRM, as you’d expect is through our in product connector when right now we’re supporting Salesforce, as I mentioned in business manager. The offline conversions is through an uploaded list or a server to server integration. So the source data already differs. While some customers offline conversion data could add heavy overlap with a CRM, it’s not always the case so we’re starting in terms of where do we know houses the data that we need to power the support so a customer can get value on day one. So the customer use cases the other one. So it’s targeted towards customers who have supported CRMs, who would like to combine their data and do other things, maybe even like, you know ABM level can I understand, you know, for a company engagement is demonstrating business outcomes from marketing and driving specific companies to close or accounts to close, or customers have high sensitivity of sharing data. Offline conversions is different because it extends our online conversions data streams, as from the insight tag to offline conversion data, so you can optimize campaigns and support conversions reporting. Now, the logical question is, is there a possibility these two things converging? It is something that we’re evaluating because we want to support as I mentioned, multiple data sources, rather than forcing you to have one product or feature per data source? And that really just doesn’t make sense in the days ahead with all the signal loss and fragmentation we’re seeing in the landscape?
+
+AJ Wilcox
+Oh, beautiful. You answered the question before I even had it. So thanks for that. We know that advertisers currently have very full marketing stacks and tech stacks. How does the revenue attribution report fit into the existing attribution tools that someone might already be using?
+
+Jae Oh
+Yeah, we totally understand measurement. attribution modeling is a sensitive topic and very often quite bespoke to a lot of the customers, especially the more sophisticated their stack is. But having said that, this is the first time we’re having a standalone measurement solution for LinkedIn that attributes revenue to impressions, or clicks or engagement behavior. So this is our first chance to start telling the story natively. But having said that, that doesn’t mean we want to be mutually exclusive, but other solutions in the market. We understand B2B is long. B2B is complicated. And so it’s really top of mind for us, and how we integrate ourselves to be compatible, complementary to existing solutions in the market. So they tell us a consistent story that is worth supporting and making plans around.
+
+AJ Wilcox
+So I have a question that I didn’t actually prep you for here. So the offline upload that we do for revenue attribution, it’s based on email address, but like you mentioned, the source of the revenue attribution report that comes from the pixel. So it reasons to me that someone who maybe they have their personal email address saved in LinkedIn, and someone else who has their work email saved as their default login, it’s not going to matter, like the pixel knows who that person is, once they make it into the CRM. Am I correct in this line of thinking, like, maybe the revenue attribution report should have a higher match rate than we should expect with the offline app load?
+
+Jae Oh
+It is very, there’s a simple answer. If you have a really rich CRM data set, which is every CRO or CFOs dream or every head of sales, leadership’s dream. If you have a rich data set, like we can probably do quite a bit with that, especially if it’s in combination with a insight tag or any other offline identifier stream like copy, online data stream like copy. And so it’s additive is maybe the simple answer. It allows us to have more signals to connect those dots, but in and of itself, it’s kind of hard to say because the results will vary depending on the customer’s data set.
+
+AJ Wilcox
+It does seem like it’d be easier for LinkedIn to match this data up because once your CRM says that you close, let’s say IBM, sure, like LinkedIn has that information to know who’s an IBM employee.
+
+Jae Oh
+Totally. So in that aspect, company level matching, yes, 100%. Like LinkedIn is a great spot for that. And in fact, but I do think when it comes to a B2B attribution product, we have more ways of matching for an account level or a deal that’s worth leveraging. But we’re deeply invested in to your point.
+
+AJ Wilcox
+Perfect. Well, I think we’ve covered a lot here, like how we get access to it, what requirements we have, is there anything else that you want to share with us about the RAR that revenue attribution report?
+
+Jae Oh
+Yeah, I think Jim’s going to go into more detail next. He’s far more visionary than me and will promise you things that I will have to ultimately deliver on the roadmap. But what I would say is, the key thing to take note of is we’re trying to create B2B solutions for our customers, because they’ve been asking for that for a long time. Knowing that B2B is more focused on specific individuals, not everyone is the buyer, it’s a longer look back window that we have to employ and try evaluating different attribution methods to you know, understand for your business model, which is a right one to understand where to pull the levers where to draw back. No, I think these things are really critical and how LinkedIn fills a certain role in that equation, because LinkedIn data is not available everywhere else, when you start factoring in what’s working and what’s not. And so, I think that reframing is the passion that is driving a lot of the innovation that you’ll be seeing from this team in the coming days and weeks. But with that, I hand it over to Jim.
+
+AJ Wilcox
+Okay, I want to honor you for that focus on B2B. Coming from the background of Google Ads and Facebook Ads. There is no other platform that caters to B2B and there’s this giant need. LinkedIn has stepped in quite nicely, so we sure appreciate your focus there. Jae, what are you most excited about right now, personally?
+
+Jae Oh
+You can’t go anywhere right now without talking about AI and machine learning these days. And so we’re also creatures of our own personal lives, I’ve been finding myself making parallels to how quickly my two year old son has been learning and the way that AI is continuing to evolve. And so, you know, given that it’s a really exciting time for us, and we reevaluate how AI can help us to do some things better or faster or differently. It’s giving me an opportunity to reflect on what’s important, and to be clear about what I want to accomplish. And how I tie that to my personal life is recently I was solo parenting with my son in New York for a week, which, you know, wow, I won’t do that again anytime soon. Yeah, but I leverage GAI to create an itinerary for our toddler activities and meals for the week in less than five minutes. Amazing. And like four days, several rounds of ice cream later, he was pretty happy, I was ready to put in a bed, things went really well. So in the context of like, work, like deeply understanding that role. What do we want the machine learning models to do to help us improve over time? It’s not business as usual. Can we support similar independent operation or growth that we have in like young kids, but in our systems, can we make that more automated, but with the right guidance is something I’m really really excited about. Translating these specific things at work, I really want to solve our attribution measurement intelligence capabilities, like let’s shed the light on the things that we need to do more of and maybe less of and so, you know, making things like the Revenue Attribution Report more actionable. Whether it’s like drilling down to metrics at a campaign level from that abstracted business level view, recommending how to optimize existing and new campaigns based on the success that we’re observing down funnel, like launching new insights, intelligence products to help our customers more deeply understand and connect with our audiences, is something that I truly believe will result in improved experiences for both our members and our customers and that shared value segment.
+
+AJ Wilcox
+Awesome. Jae, we sure appreciate your thoughts and insights here. How do you want people to interact with you?
+
+Jae Oh
+As you’d expect, you can definitely find me on LinkedIn. So feel free to message me to connect with me. I’d love to hear more.
+
+AJ Wilcox
+Perfect. Thanks so much, Jae. We appreciate having you on. Great being on.
+
+AJ Wilcox
+Alright, here’s a quick sponsor break and then we’ll dive into the rest of the interview.
+
+Speaker
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+
+AJ Wilcox
+Managing your LinkedIn Ads is a massive time and money investment. Do you want to return on that? consider booking a discovery call with B2Linked, the original LinkedIn Ads performance agency. We’ve worked with some of the largest accounts over the past 12 years. And our unique scientific approach to ads management, combined with our proprietary tools, allow us to confidently optimize and scale your LinkedIn Ads faster and more efficiently than any other agency, in house team, or digital ads hire. Plus, we’re official LinkedIn partners. Just go to B2linked.com/apply, and we’d absolutely love the chance to get to work with you.
+
+AJ Wilcox
+Alright, let’s jump back into the interview. Next up, we have Jim Habig, who’s the VP of Marketing at LinkedIn. He’s leading a team helping B2B marketers succeed. Jim, thank you so much for hopping on the podcast here as well to talk about the Revenue Attribution Report, as well as overall what we’re seeing here in the current economic climate.
+
+Jim Habig
+Yeah, thanks, AJ, for having us. A longtime listener first time caller, as they say. Very excited to be here and talking to you and happy to go into measurement or any which direction?
+
+AJ Wilcox
+Awesome. Well, first off, tell us a little bit about yourself anything that I mentioned here in the intro?
+
+Jim Habig
+Sure. Well, like Jay, I am also in the quote unquote, toddler zone. I guess I’m passing out of it and passing into it. I have a almost five year old and a 16 month old. And so he’s just nipping at the heels of Jae’s kid, probably literally, actually. Sort of the thing that he’s doing now. And yeah, he’s just teething and climbing to perilous heights. So it’s a constant struggle to make sure he’s not falling from things.
+
+AJ Wilcox
+Awesome. Gotta get together for a playdate and watch the magic happen.
+
+Jim Habig
+Absolutely.
+
+AJ Wilcox
+Cool. Well, as you know, we just talked about the Revenue Attribution Report with Jae, I want to switch gears slightly. Tell me about the state of marketing right now. It’s no secret that marketers budgets are being slashed right now. They’re under scrutiny, we have to make the justification for performance, especially during these uncertain economic times. So what advice do you have for marketers as we kind of tiptoe through this cycle?
+
+Jim Habig
+Yeah, absolutely. It’s a great question. You know, I mean, there’s a reason we’re here talking to you about revenue attribution report and measurement more broadly. Because I think the key to weathering you know, not just this moment, but just going forward and beyond is in this story. It’s in the story that we tell even within our own organizations, and I see the key to weathering this moment. is really in investing in two key relationships. And it’s with your CFO and your CRO. And as you’re investing in those relationships, I recommend doing three things. And the first is, is probably going to be obvious to all of your listeners, but don’t fall into the last click trap. When all your reporting to your partners in finance and other organizations is on last click, you can sort of get yourself stuck, you know, you’re really just you’re painting a keyhole sketch of the value that your team is actually providing. So what you do instead is my second piece of advice, which is align on just a more comprehensive methodology, with your CFO and your CRO, and really focus on speaking the same language, specifically as your finance team, because we think that’s the key. And you could talk about attributable revenue, vis-à-vis Revenue Attribution Report, future cash flow, relate you know, the campaign’s that you’re delivering, put them in those terms of sort of what’s the real enterprise value that they’re driving, that’s going to start to paint a fuller picture of the results that you’re driving. And then you start to build a model. And then my third piece of advice here is do the same thing every time, you know, I think you need to build some expectation. One of the biggest fallacies in our business is that there’s some sort of like silver bullet for measurement, you know, there’s some mysterious column, if only we could light that one up or turn that one on, you know, that’s going to tell the full story. And it just doesn’t work that way. You know, it’s a mosaic. And the key is on aligning those pieces, aligning on what those pieces are going to be, and then keeping it consistent, because measurements really about consistency over time and cultivating faith via that consistency.
+
+AJ Wilcox
+Perfect. What do you think B2B marketers need to do more of or do better to actually demonstrate the value of their work?
+
+Jim Habig
+Yeah, absolutely. So you know, one of the central theses that we have over here at LinkedIn is that B2B marketers need to be investing more heavily in upper funnel brand building activities efforts. You know, considering that only 5% of your potential audience is ever actively in market, at any given time, it becomes incredibly important that you’re building those memory structures that will land you on a day one list when buyers finally do come into market when they’re ready to buy, start shopping around. So that introduces a measurement challenge, because we all know, brand is a bit tougher to prove out. But it’s not impossible. So one of the ways our organization on the marketing side is trying to solve this is with more econometric modeling. So we feel that in MMM, you know, granted, this is a structure that’s given to us from the B2C world. And we’re trying to make it work for B2B. But we’re doing the best we can and we feel that this and it really changed the conversation internally. It gave us more fodder for talking about that full picture. But you know, MMMs are hard, and they sort of take a long time. And so RAR is one of our attempts to sort of democratize some of the key principles behind that and make it more accessible to a broader audience.
+
+AJ Wilcox
+So can you define MMM for us?
+
+Jim Habig
+Oh, sure. It’s a medium mix model. It comes to us from the old days of like, CPG advertising, where you got to look at a lot of channels, and you got to sort of come to a hypothesis of how they’re all driving benefit for your business.
+
+AJ Wilcox
+Makes perfect sense. So when you’re thinking about the opportunities ahead, what’s LinkedIn focused on to help B2B marketers meet their current and future challenges?
+
+Jim Habig
+I think that one of the real frontiers in the B2B space is in helping marketing and sales teams work in concert. B2B is super unique in that we have this reliance on this relationship, really just we have reliance on relationships. You know, you can’t just go into the B2B store and buy a CRM. You got to talk to people, and you got to do this delicate dance and it’s across organizations. It’s intra organization. That’s sort of the animating force behind things like revenue attribution report is how do we just get marketing and sales working closer together talking to each other, identifying maybe when there’s a disconnect and smoothing out some of the friction in that system? Because it’s a system that B2B just is incredibly reliant upon. And I think there’s a ton more that we could do in this space and aligning audiences and aligning messages, and just showing the benefit in both directions, getting them working, singing from the same songbook.
+
+AJ Wilcox
+Absolutely. I want to ask you a few questions just about your background, because it’s fascinating to me. Your background like you’ve worked at Pinterest, YouTube, Google, where does your passion for B2B come from?
+
+Jim Habig
+Oh, boy. So here’s the thing. I’ve always worked on B2B teams within broader B2C organizations. It sort of did a lot to codify how I think about focus how important it is that we actually have a set of tools that are built specifically for B2B because it’s a different animal, you know. I think for too long we’ve been reliant on just like, MMM, that I was just talking about that. is a thing that comes to us from the B2C world. But is it calibrated for our needs? Probably not, you know, we’ve been making do with these good enough solutions. So I think having that sort of outsider’s eye, which was honed in those B2B functions at B2C companies, is what really was the impetus for leading me to this opportunity. And now I’ve been here LinkedIn for well, how’s my son 16 months, 15 months? Basically, that’s a good little mnemonic to for remember how long I’ve been working here. It keeps me going and keeps me you know, super engaged, because there’s just so much more to solve. We’re at the earliest stages of figuring out what a B2B marketing platform should look like.
+
+AJ Wilcox
+Alright, so same question for you that I asked Jae, what are you most excited about personally?
+
+Jim Habig
+Oh, boy. So as you pointed out, AJ, both Jay and I are in a fun mode where watching these little kids grow up is very rewarding. Not unlike watching the progress of GI. It’s what you call a callback. So yeah, Ian, my son is, like I said, 16 months. And he’s just a ton of fun. He’s like doing this sort of zombie walk around. And Eva is almost five. And this is actually her first summer break. She’s in preschool. And that goes year round. And now she’s taking summer off, we’ve got a full agenda. We’ve got a lot of like swimming dates, and things like that coming up. So I’m very excited just to spend some more time with her over the course of the summer.
+
+AJ Wilcox
+And then what are you most excited about professionally right now,
+
+Jim Habig
+Honestly, that there’s still so much to figure out. I think the thing that really invigorates me is just the opportunity ahead, and I look around. And we talked about what, like six or seven problems here. But there are dozens more, you look anywhere. And there are other things that we’re using a good enough solution. And we’re still trying to make do with things received wisdom from other industries. And it’s just a lot of stuff to figure out. And that’s fun. We’re at the early stages, and I like those heady early days on things. So it’s gonna be hard, but it’s hard, fun.
+
+AJ Wilcox
+And grainfields for sure they are ready to be harvested.
+
+Jim Habig
+Amen.
+
+AJ Wilcox
+Was there anything that you want to share with us about what you’re working on or anything like that we would talk about.
+
+Jim Habig
+Now we’re just super excited about the stuff that Jae talked about with RAR. We think this is a big step forward in terms of calibrating that measurement for the B2B world. Like I said, I think there’s more we could be doing. And we’re still in the early days of it, but this is one of those things where run, don’t walk, go check it out for yourselves. We think it can really change the conversations that you’re having with your constituents, even within your organization’s so we urge you all to check it out. And please give us feedback. We’re nothing if not for your feedback, your advice, your consultation. We’re trying to build this stuff for all of you. So please, let’s make it a two way dialogue at all times.
+
+AJ Wilcox
+Beautiful. Thanks for sharing. Is there a way you want people to be able to get in touch with you?
+
+Jim Habig
+Please reach out on LinkedIn. I’m pretty active on the platform. I know Jae is as well. And yeah, love to hear from you. Like I said, you know, we’re nothing without your your feedback, your comments, and your thoughts. And tell us what other challenges you want us to try and work on solving together.
+
+AJ Wilcox
+Very cool. And I would recommend everyone listening, reach out to Jim, reach out to Jae on their LinkedIn profiles. Customize your invite and let them know that you’re connecting because you heard them on the show that’ll help them know which ones to accept and which ones are going to be spam. Awesome. Jim, thanks so much for being here. We sure appreciate all your insights.
+
+Jim Habig
+Thank you, AJ.
+
+AJ Wilcox
+All right, I’ve got the episode resources for you coming right up. So stick around, and right after the resources, I’m going to share my thoughts on the Revenue Attribution Report and teach you exactly how to set it up. So don’t skip to the next episode yet.
+
+Thank you for listening to the LinkedIn Ads Show. Hungry for more? AJ Wilcox, take it away.
+
+AJ Wilcox
+Alright, like we talked about in the interview, you’ll see a link in the show notes below for Jae Oh’s profile on LinkedIn. Make sure to connect with him, follow Him whatever. You’ll also see Jim Habig’s profile as well, do the same there. We’ve linked to the help doc all about revenue attribution report, so check that out if you’re curious. It’ll walk you through the process. We also mentioned episode 79. It was our recap of the be to believe event. If you haven’t listened to that one, I would highly recommend go back and listen to that, especially the segment where I covered Jim Habig’s presentation. Come be a founding member of the LinkedIn Ads Fanatics Community. Act fast and you’ll get grandfathered into the lowest price that the community will ever be. And you can do that at fanatics.B2Linked.com. If this is your first time listening, welcome, please hit that subscribe button. But if this is not your first time listening, please do rate and review the podcast especially on Apple podcasts. It’s by far the best way that you can say thank you for us coming out with this content. With any questions, suggestions or corrections, reach out to us at podcast at B2Linked.com.
+
+AJ Wilcox
+Alright, so here are my thoughts on Revenue Attribution Report. I know there are plenty of you marketers who have very strong opinions all about revenue attribution so don’t freak out if you log into the product for the first time, and it doesn’t fit your exact use case. Remember, this is just a starting point. And I’m so excited about LinkedIn jumping into this fray. As it’s starting out the only CRM that it syncs to is Salesforce. But of course, I expect in the future, many more CRMs rolling out. I do see that the usefulness of the Revenue Attribution Report is really going to be dictated by the match rates. And that is the ability of LinkedIn to match up who your customers are to who they are on LinkedIn. And we don’t know this yet. We don’t know what match rates are going to be like. So as we learn more, we’ll announce it and let you know. But between you and me, I expect them to be really good, just from understanding how the technology is working on the back end. If you want to go set this up right now, go log into business manager. In the left hand navigation, you’ll see revenue attribution as its own tab, you can click on that and then you’ll see the option to connect to your CRM. LinkedIn wants us to note that it can take up to 72 hours for data to appear once business manager has successfully synced with the CRM. Now this is a public beta. But in the fall when it comes out as a general release, we’ll get a lot more additional features for the report. I specifically love that this is all self serve, and we don’t need to go to our rep for this. Okay, there we go. We’ll see you back here next week. I’m cheering you on in your LinkedIn Ads initiatives.
+
+‍

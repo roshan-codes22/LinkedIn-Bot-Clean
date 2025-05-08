@@ -1,0 +1,249 @@
+AJ:
+Sometimes I get things wrong. When I announced that LinkedIn was sunsetting the website demographics feature, that was one of those times. We’re setting the record straight on this week’s episode of the LinkedIn Ad Show.
+
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+Hey there, LinkedIn Ads fanatics! As he said, I’m AJ Wilcox, and I’m host of the weekly podcast, The LinkedIn Ads Show. I’m thrilled to welcome you to the show for advanced B2B marketers to evolve through mastering LinkedIn Ads and achieving true pro status. So a few months ago, I posted on LinkedIn about how the website demographics feature was going away, and I was upset about it and sad. And I thought that was such a great feature. Well, Johanna Kimura, who leads one of the groups of product marketing teams at LinkedIn, she reached out to let me know that they sunset it because it was replaced by something much better. So I invited her to come on the podcast along with Jennifer Moy, who’s the lead over the audience’s product at LinkedIn to tell us more about it.
+
+Now, I’m a believer in the audience insights tool. And after this, I think you will be too. But first, do you have a question, a review or feedback for the show? Just record an audio recording of you asking a question, leaving a review, whatever. You can either message it to me on LinkedIn or email it to us at podcast at B2Linked.com. I’ll play them right here on the show. I’m happy to either shout you out or keep you anonymous. So send us a recording and I’d love to feature you right here on the show. All right, without further ado, let’s hit it. All right, everyone. I’m so excited to have our guests here on the LinkedIn ad show this week.
+
+We have Johanna Kimura, who’s a product marketing lead for LinkedIn’s measurement suite. And I’ve known her for quite a while. We’ve gotten to interface on lots of things. We also have Jennifer Moy, who’s on the product marketing team. She’s the lead over audiences. I’m really excited for today’s topic.
+
+We’re talking about audience insights. This is what has replaced the old website demographics feature. And so, so excited to have you both here. Johanna, you want to give us anything that I didn’t give in your intro? Tell us about yourself.
+
+Johanna
+: It’s good to see you again, AJ. I love always catching up with you. So hey everyone, yes, I’ve been at LinkedIn for almost six years. February hits my six year anniversary. And a fun fact about myself at LinkedIn, we always love doing this, like what’s not on your LinkedIn profile. For me, it’s that I actually grew up 20 miles from an active volcano, for pretty much all of my childhood up until I was 18 years old.So that’s been my life.
+
+AJ:
+Oh, that’s fantastic. Thanks so much for being here and you’re about to drop some serious gold. So I’m super excited. Jennifer, same to you. Tell us about yourself. Anything interesting that I didn’t mention in your intro?
+
+Jennifer
+: Yeah. Hi AJ. So I have been at LinkedIn for a while now as well, actually nine years. But, what you probably don’t know about me is I also come from the sales side before joining the product marketing team. So I have a little bit of, experiences in supporting clients that we work very closely with. So that’s been a joy and I am also located in the Bay area. So I am in San Francisco region.
+
+AJ
+: Wonderful. Thanks so much for joining us. So initially this conversation started because Joanna saw in one of my posts where I was talking about website demographics being sunsetted. She mentioned and said, actually, we still have almost all of the functionality or even more so. I was like, Oh, great. I want more of this information. So I appreciated you reaching out and telling me that I was wrong on like. Oh no, woe is us. We’re, we’re losing a feature. Can you tell us more about the audience insights feature? What it is, where it came from, how it’s replacing, but we actually get to keep a lot of the same features as website demographics.
+
+Johanna
+: So yeah, I’m super excited about audience insights. It’s actually a feature that we built to help marketers be able to know who they’re going to reach with their ads. And we built it also to help marketers be able to feel more confidence in their targeting strategy. What it does is it gives you visibility into any of the professional targeting attributes you know and love on LinkedIn’s platform today, but you get to see the insights on them even before you launch a campaign.
+
+AJ
+: And what I especially love about this, if you used website demographics before, you were very much limited to just the traffic that the insight tag saw on your website, but audience insights. You can pull from any kind of audience, whether it’s, it’s retargeting, whether it’s a list you’ve built, or anything like that. That’s I think my favorite feature of it.
+
+Johanna
+: Yeah, a hundred percent. In fact, a lot of our customers use it for the use cases outside of just website retargeting audiences alone. They’ll use it for a contact list, upload a company list to be able to understand like. What seniority levels fall within that? What job titles or even like what skills should I be thinking about when it comes to targeting? Um, so I love it because it gives you a lot of inspiration as well. But the other thing is it’s really helpful so that you know that you’re focusing your ad spend on the right people. So I always recommend people use it before they launch a campaign, even as a gut check.
+
+AJ
+: That’s great advice I think. So coming from what I know about website demographics and knowing that audience insights are replacing it, how similar is it? And is there any new functionality that we get other than what we’ve talked about? Yeah, it’s a
+
+Johanna
+: Good question. So audience insights is similar to website demographics in that both of them do give you professional demographic insights for a website we’re targeting audiences. But what I think is really unique about audience insights is that it expands beyond that. It works with any type of attribute audience. So skills based audiences, interests, anything that you could use on our platform, it’ll work with. It also works with any type of matched audience. So it’s just a lot more versatile. And then the other thing is with website demographics. If you remember, like there was only a certain number of attributes. I think it was five to seven that you could actually look at the professional demographics on, but website demographics is pretty limited in the number of subsets of demographic attributes you could look at. So. It was basically like job titles, seniorities, but actually what audience insight does is it expands that out. So basically any way you can target on LinkedIn’s platform, you’ll see that attribute and audience insights. So it just gives you a lot more versatility. It’s a lot wider range and the insights you can get from it.
+
+AJ
+: I love it. And then as we talk about where the rubber hits the road, what are some of those actionable takeaways that marketers can do and actually start using from what they see in the audience insights reports?
+
+Jennifer
+: Yeah. So they can actually use audience insights to understand their audience better. Right. So again, what Johanna just mentioned, as far as like understanding the business demographics There are makeup. You can understand things like their job title and their job function and inform that to your targeting strategy. The other really cool thing about audience insights that website demographics didn’t have is understanding topics or interests, right? What really resonates with this audience and you can take those nuggets and actually inform your content strategy so that you can tie that into any content or creative that you’re putting out there. So that people are really excited to hear from you. And then the other is, again, understanding how to reach ideal prospects. So you know, when you’re understanding your audience better, like I mentioned before, you probably already have an inkling of who your audience is and who you wanna reach out to, but there’s also an area where you can better understand what other audiences am I not reaching out to that I should be considering.
+
+AJ
+: That’s one of my favorite features here is oftentimes a client will send us a list of individuals who are current or past customers, or maybe their best customers. And what I love about this is I can look in the audience insights of that list that, you know, we’re kind of blind to it. We don’t know what makes up that list, but very quickly I can see what are the job titles that these folks tend to have? What are their functions and seniorities? And it helps us kind of build our own lookalike model of if we want to get more of these folks, how do we do it?
+
+Jennifer
+: Yeah, exactly. And I think that that’s like a great use case right there. And oftentimes you can use it for even other lists. If you even have like an event registration list and you really want to understand like, who are these people?Like, who can I be reaching out to? Who can I further nurture? Audience insights is great for that.
+
+AJ
+: Yeah. And that saves us a lot of time. I I’ve done on quite a few occasions, the. Go and look up every webinar registrant on LinkedIn and try to understand who they are. Uh, this is one where LinkedIn does all the research for you.
+
+Jennifer
+: Yeah, exactly. And I think sometimes it’s like a delightful surprise, right? When you’re starting to look through things like company information or even member information, and you start identifying, you know, seniorities, job titles, skills is another great one where either it’s something that you hadn’t thought of before. Or you had thought of, but you’re just like surprised to see how highly it’s indexing or how popular it could be. So sometimes it’s always fun to, to kind of dig into these insights and better understand that audience.
+
+AJ
+: Yeah. And on that concept, we’re going to see things like who this audience is made up of, but then.If you’ve been running ads to these folks, or even if you haven’t, even if there’s performance from your website, you actually get to see performance metrics. How are these folks interacting with my website and interacting with my ads?
+
+Jennifer
+:  Yes, exactly.
+
+Johanna
+: I think there’s also a really good use case, Jen, that you were calling out too, that it could be used for exclusions, right? I think a lot of times we also forget of the fact that you could upload that list and realize, oh, there’s companies in there that maybe I didn’t mean to include. And so maybe I should go and manually. So I think it provides a lot of insights that you can also use when you’re setting up your campaign for exclusions.
+
+Jennifer:
+Yeah. That’s a great point, AJ.
+
+AJ
+: This is what I like so much about when we upload some of these lists, uh, from clients. Let’s say they have webinar registrants or they have a list of event attendees or something like that. If we upload this to LinkedIn and then we show the audience insights to our clients, a lot of times they’ll look at it and go. Oh, there’s a lot of these people who are entry level or students or things like that. Those are great ideas of things to go and just blanket exclude. If you know that they’re just not going to be a good fit, even before you spend a dime on the platform. Love that.
+
+Jennifer
+: Yeah. That is a great use case. An example of, of how audience insights can identify it because I think even prior to setting a campaign live, like.You want to make sure that you’re trying to eliminate, right? Any type of wasted impressions or who you don’t want to be targeting. So that’s a great example.
+
+AJ
+: Beautiful. I know this might be a little bit of a silly question because. You represent LinkedIn, LinkedIn has, I would say, a corner on the market for professional information, but where are these insights pulled from that we see coming up in these reports?
+
+Jennifer
+: Yeah, that’s a really good question, AJ, and yes, we, we do have a special, I think, niche in the, in the corner of this market with being the world’s largest business network, right? But we had just surpassed over a billion members, so now our network is ginormous. Yeah, we’re really excited about that. And we have approximately 67 million businesses with LinkedIn pages on LinkedIn. So when we look at that, right, that’s a whole lot of people, that’s a lot of businesses within our network. And on top of that, just year over year, we’ve seen growth. We’ve seen increases in Feed update views, as well as just interactions within our platform. So when you look at social engagement, content engagement, also first party profile and company profile data, those are all things that really fuel our audience insight. So that’s where we’re pulling these from.
+
+AJ
+: Super helpful. When we look at these reports, how often is the data updated or refreshed? Is it possible that we’re looking at a snapshot of How things were months ago? Uh, or is this updated quite regularly?
+
+Jennifer
+: Yeah. No, I don’t think that people would be happy if this is data from months ago. Data is refreshed daily. We do wanna keep in mind that any new audiences that are created in campaign manager needs a little bit of time to get into the ready or updating status. So usually around 48 hours is the buffer that you would want to get for a new audience to build. But once it’s in the ready status or if you’ve updated it, it will say building, then you should expect like data refreshed on a daily basis.
+
+AJ
+: Great. So because this contains information like, uh, what topics people are interested in right now, we know if we go and check it today, it was updated, you know, probably overnight or yesterday. And we know that those are still topics that are viable for us to mention in our ads or to position around them.
+
+Jennifer
+: Yeah, that’s right. So it’s really cool because it’s looking at general interests as well as product interests, so that’s how you can also splice and dice if you’re thinking about ways that you can better inform, like, your creative and content strategy. But yeah, it’s, it’s refreshed on a daily basis.
+
+AJ
+: And this is so useful, I think, because on the topic of interest targeting on LinkedIn, there’s not a lot of great ways of ascertaining like who has what interest. And so I’ve noticed that from audience insights, this is by far the best way to see what those interests are. And then that way, you know what to go and add to your campaigns to include or add exclusions as the case may be.
+
+Jennifer
+: Yeah, exactly. And I think that that like, maybe comes back to our use case and actions that you can take within it, right? So, oftentimes when you’re using audience insights, you know, you’ll get like confirmation that the audience you’re going after is who you expect to see. But again, if you see someone with, you know, an audience with maybe a seniority type of And their product interest is around some kind of like management software, um, let’s say business management. Then, you know, that you can actually inform your targeting strategy to maybe test, right, a new audience that you haven’t before. Using that product interest that audience insights is showing as high as indexing to test and target a new audience. So that’s a great, I think, use case for how audience insights can help you explore, right? New audiences. Love that.
+
+Johanna
+: Years ago, when we’re actually starting to test this feature, one of the reasons we were testing it is because we wanted to help people understand the buying committee a little bit more. We had the idea and we kind of knew that there are different people who hold different roles within that buying process, but oftentimes it can be really tricky to figure out who those people are and how you actually build out those different buying circles so that you can tailor your content. That it resonates with, with that audience. And so what we did with this tool is we actually put mocks and designs in front of people to understand, like, did it help them actually understand the various people involved in that buying process? It can be super helpful for that too, to really think about like. How you tailor your content to the buying circle.
+
+AJ:
+And what sort of lists or what sort of seed would you suggest for finding the buying committee? Are you thinking like if it’s website traffic and you’re only going after managers, but you see directors and VPs showing up in the list, like maybe you could increase your reach there, but are there other ways that you could go and find more of the buying committee to target in your ads?
+
+Johanna
+: Yeah, yeah, I think the website audience is a really good one because you have a lot of traffic there, especially for a lot of B2Bs, cause you’re using that for content. Other ones could be any type of CRM data or marketing automation data that you could send over as a CSV contact list or through a partner that can also be merged with your website. We’re targeting audience to get a fuller view.
+
+AJ
+: And when you say merged, are there literally ways of combining these audiences together, or is that something where you would just do it manually and then upload a new list?
+
+Jennifer
+:  When you’re in the audiences hub in campaign manager, and you’re looking at all of the matched audiences, you can actually select multiple at one time and then generate an insight. So that will merge it together for you. So, yeah. Hopefully we’re saving you some time from that hacky way of having to do it manually yourself, and then uploading this, this audience again. But yeah, that’s another great feature with audience insights.
+
+AJ
+: You did just save me time. I wasn’t aware of that feature. That’s super helpful. Have LinkedIn combine all of these insights for me in one report. So I don’t have to stitch stuff together.
+
+All right, here’s a quick sponsor break, and then we’ll dive right back into the interview.
+
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts. If you want to get a return from your LinkedIn ads, consider this, how much ad spend are you willing to waste along the way? After auditing over 800 LinkedIn ads accounts, we’ve noticed one common theme, and that is wasted ad spend. B2Linked helps B2B companies maximize their profit from advertising by minimizing the waste that comes from bad bidding, poor targeting, and inefficient campaign setup. Book a discovery call with us today, and we’ll talk about how to eliminate the waste in your account. Just go to b2linked.com/discovery, and we’d absolutely love the chance to get to work with you.
+
+All right, let’s jump back into the interview.
+
+AJ
+: The majority of our listeners were very busy people. Oftentimes we’re managing LinkedIn, but other networks as well. What would you say to marketers about, you know, why they would go and spend their time pulling this data from LinkedIn? How are LinkedIn’s data unique from data that might be able to find from their analytics tool or from other tools?
+
+Jennifer
+: Yeah, so I think that that’s a really important point, right, is we know that marketers aren’t only on LinkedIn day in, day out, although that might be the dream, but, you know, they have a lot of tasks and things to get done. So when you’re thinking about, you know, the importance of audience insight, I think you want to think of it holistically, right? So it’s not only being able to get insights into your audience, so the explore feature, but it also helps you manage your audience. So if there are any edits, changes, updates, right, that you want to, um, use as inclusions or exclusions, you can do it right there within audience insights. And then we also made it really easy to make it actionable. So once you’ve identified your audience or you want to test out and create a new audience, you can easily do that within audience insights and there’s this create campaign button that will quickly bring you to the campaign set up. It will take that saved audience that you create, plug it in, and then you would still want to, you know, upload your. Creative, and kind of content, but it’s all kind of in one place. So I think that when you think about, um, not just the insights piece, but time saving and also like actionability, that’s really how we thought and designed like audience insight.
+
+Johanna
+: And I think we’ve all gotten a ping too, where like, this ad was served to somebody I didn’t expect. Or like, hey, this person saw my ad. I. I’ve seen those just fly to us on like the product side and it’s always like cringe, like, Oh no. And so this will help protect against that to just make sure that you’re doing that gut check before the ad goes live.
+
+AJ
+: I think it’s a really strong call out. This is a way of realizing and catching these kinds of errant audiences before you ever spend a dime. And you don’t have that embarrassing email from a boss or a client asking you about that. That’s beautiful. Where do we actually go to start using audience insights? Maybe we can tell people when you’re inside of campaign manager, what do you click on? Where do you go? And how do you start actually seeing these for the audiences that you have currently?
+
+Johanna
+: Yes. So for anyone who’s already using matched audiences, or even if you’ve created a template, so that kind of like the combination of audiences that Jen was talking about earlier, um, what you’ll do is in campaign manager on the left hand rail, you’ll see the audiences tab or name, just click on that and then you’ll be dropped into the view where you have your matched audiences and saved audiences. From there, you’ll be able to click on the audience and click insights, or you can, in some cases click on the audience directly and that’ll take you into the audience insights view.
+
+AJ
+: Can you share some of the, the use cases or success that you’ve seen customers have with this new feature?
+
+Jennifer
+: Yes. So there are use cases that I can share. There’s three. Understanding your audience better would be the first one. So really being able to understand the business makeup of who your audience is, right? And digging into member information or company information. So talking about company industry, company size, or job title, seniority, etc. So, When you understand the makeup of it, you can inform how you want to include or exclude your audiences. And then second is using audience insights from a content perspective. Understanding what topics and interests really resonate with this audience so that you can then take that information and inform your creative and content strategy to tailor your messaging to those specific audiences. And then third is reaching your ideal prospect. So, again, you can use this to adjust and reach audiences who may be more likely to become qualified reader customers, or adjust it to understand, like, is this an audience that I want to further nurture and create my content and creative strategy around that. So I think a good customer example is let’s say that you’re a marketer, right? Who has a customer list and you want to better understand, like, who are your customers, right? What is the makeup of, of your audience so that you can take that information and enhance your targeting and content strategy. So with this list and with audience insights, what you could do is you see a breakdown of your audience and you can confirm that it’s pretty consistent, right? With your ideal customer profile and who your business has wanted to reach. But as you’re clicking around, you may notice that the seniority level of senior as well as business management as a skill. are part of the highest indexing attributes within these insights. And then you also notice that maybe 40 percent of your audience is interested in project management software, um, which is great because that’s actually content that you just created with your team. So it’s fresh and new, something that you can utilize. So this information inspired you, right? To say, Oh, like this is actually an audience that I haven’t targeted previously. And you’re inspired to test a new audience. So with these insights, you can create a new matched audience, right? So right within that view, you can create a new matched audience, attach it to a campaign, pull in the new content that you and your team just created, and click in and set a new campaign live. And with campaign demographics, you can then start to follow and measure what is that campaign performance. Look like, you know, what does campaign, um, reach look like, and let’s also fine tune from there. But this is all fueled by information that you got from audience insights, right? So it’s really a great way to manage and explore new audiences, as well as like create any type of new content that really will resonate with people that are probably really excited to hear from you.
+
+AJ:
+And I’ll give an amen to that so much of the time we see advertisers just go out and use job title targeting and we’ve realized that people use funny job titles or they have job titles that you wouldn’t have expected and so you’re probably going to miss a huge chunk of your audience and if everyone’s going to use job titles exclusively, That’s going to become the most expensive way to reach your audience. So if you can use these audience insights to find combinations, like what are their job function and seniority that you could reach them? Uh, what are skills, interests, groups, their members? And I can’t remember if there’s groups on that list, but these are all different ways that you can think of to say, Ooh, I now have a new way of targeting this audience that could be less expensive or easier to achieve scale that other advertisers probably aren’t even getting.
+
+Jennifer
+: Yeah, exactly. And Skills isn’t in Sites, Groups  is not. We have so many different groups, but it is easy to explore within a campaign setup. But, yeah, again, I think, AJ, you really hit the nail on the head here  that it’s not always that one perfect campaign, right, that targets the perfect audience and, and you just said it at that. So, There are always like different ways to splice and dice your audience and how you reach them. And there are times where, you know, job title targeting and then running another campaign where you’re layering on skills, um, can be just as effective. And if you see performance in both, like we recommend, you know, by all means, keep both on, but you, and you could be targeting an audience that one is not over the other. So I think that with audience insights, you know, it’s a great way again to just discover new audiences that maybe you’ve thought of and you weren’t sure, or you hadn’t thought of before. And this really helps instill a confidence of saying, okay, this is why we should be going after these, these folks.
+
+AJ
+: Totally. I have a selfish question for you. This is something I’ve run up against several times recently in playing with the audience insights feature, especially as I’m trying to replace website demographics. And I’ve noticed that if I create a retargeting audience, but I’m not using that in an active campaign over time, if it’s not currently being used, it will turn to inactive or even archived. And I won’t be able to get the audience insights out of that. That can be a little bit frustrating if you. specifically, uploaded an audience to look at it or create one, and then all of a sudden you can’t and you have to recreate it. Is there some sort of a trick or, or way of keeping these audiences active without having to, to actively be running ads to them?
+
+Jennifer
+: Yes, there definitely is. And AJ, you’re not the only one that has actually have this question. So. I think that this will be informative for many. There is a trick I can share. So once you create your retargeting audience and the status shows is ready, it’s a 30 day window where it will remain in like that active state, right? But after 30 days, if it hasn’t been used in a live campaign, then it will change to archive status. So there are two ways that you can reactivate your audience so that we’re still refreshing data, that it still can be visible in audience insights. One is what you already mentioned, right? So adding it to a live campaign, but if you’re not ready to activate a live campaign, um, the second option is to actually add it into a live campaign draft. So if you add it to a live campaign draft, that actually extends out your audience status for another 30 days. And this is maybe a little bit happy, but let’s say again, you might not be ready at that in the 30 days to activate it in a campaign. You can extend it by again, attaching it to a campaign draft. So at some point, you know, I think best practice is also to kind of reconsider depending on what you’re using as, as the audience, like if this is a matched audience source that, Maybe could have gone a little stale, maybe thinking about refreshing that list before, right, you go back in and, and activate it, but hopefully that helps because I know that not everyone’s always wanting or ready or in the state of being ready to put it into an active campaign.
+
+AJ
+: Totally, and I can see people wanting to upload an audience to analyze it, but not necessarily with the intention of ever running ads to it. So it sounds like we can create a new draft campaign. The campaign doesn’t have to ever go live, but we create a draft. Add the audience to it and that’s going to preserve it for, for another 30 days.
+
+Jennifer
+: Yep. That’s correct. And then just keep in mind too, when your audience is reactivating, if it does go into archive, there’s still that opportunity to reactivate it. Right. And again, by adding it to a campaign draft, like it will take up to 48 hours for your audience to reprocess and to get to like that ready status again.
+
+AJ
+: Okay. Once it goes from archive to what’s the next stage? Is it expired? Yes.
+
+Jennifer
+: Once it goes from archive to expired. That’s where I can’t help you, AJ. So unfortunately with expired
+
+AJ
+: . Okay. So it won’t be revived.
+
+Jennifer
+:  Yeah. Once it’s expired, you can consider, I think that audience set and you would actually have to go back in and re upload either if it’s a contact list or some kind of matched audiences, you will have to go back in and re upload it into campaign manager.
+
+AJ
+: Okay, that’s helpful. Thinking of other little hacks, is it possible to add these audiences as an exclusion to a current audience? And will that keep it live forever?
+
+Jennifer
+: Is it to a campaign draft or to a active campaign? To an active campaign. Yes, that should actually keep the audience live for the duration of that active campaign forever if it’s never green and you keep it running.So yeah, it should keep that audience live.
+
+AJ
+:  Cool. Okay. I’m seeing my hack here. Like, yeah, if there’s a campaign, even if I don’t. Want to actually exclude my website traffic from it. If I can add that as an exclusion, it’s not going to take too many members out of that audience, but the audience is going to keep living on and I won’t have to worry about creating a new draft campaign every 30 days. I’m liking that.
+
+Jennifer:
+Yeah, exactly. So yeah, that I I’m catching on your hack here. And so, yeah, you just want to be mindful, I think, of the type of audience that you are targeting. But again, like another good example of using that audience, but in the exclusion side of things is, you know, if you have, let’s say an audience from your website, that’s actually logging in. So those are basically current customers. I would want to exclude those. So you can actually list that as an excluded audience. And again, that will continue to keep your, your audience alive.
+
+AJ
+: Very cool. I love that.
+
+Johanna
+: I don’t know if you’ve heard of website actions. Yes. That also expands upon this use case that Jen was just talking about because it’ll capture a lot more of those actions happening on the site. So button clicks, and then those would be great exclusions or even inclusions as well. Like we know we’ve had a lot of people using it for things like free trial signups. So it’s a really good use case there with using this plus audience insights to help you reach more relevant audiences and also exclude them are necessary.
+
+AJ
+: Oh yeah, with audience actions, that’s going to create a conversion or an audience that we can then either target or exclude or even count as a conversion, I think. So, I’m assuming those audiences, they probably won’t fall dormant, right? Or would we still have to do something to keep those audiences rolling?
+
+Johanna
+: The website actions work the same way as matched audiences because essentially they create a matched audience. So they create a website retargeting audience for you. But like the nice use case here could be like, I’m wondering, you know, who’s signing up for free trials on my site. You could use audience insights for a use case like that to get additional deeper insights that you may not have had before just going off of a page view alone.
+
+AJ
+: Okay. I like that. So we have to ask who has access to Audience Insights right now. Is this in general release? Everyone has access to it, or is this currently in beta? Tell us how we can get access to it.
+
+Johanna
+: Yeah, luckily everyone has access. So if you have campaign manager access, they all have access to Audience Insights as well.
+
+AJ
+: So nice. Are there any future updates that we might see coming into Audience Insights? Anything you’re working on that you’re allowed to talk about?
+
+Johanna
+: Oh, Jen, it’s the roadmap question.
+
+Jennifer
+: Yes, it’s a roadmap question, and it’s a good question. When we’re looking at audience insights, we don’t have, I think, any huge enhancements that we’re working on. But, a few things that I could share that’s under the hood is maybe more related to account list or like ABM strategy. are very, I think, cognizant that ABM strategy is very important, right? And it’s, it’s, um, becoming, I think, folded in into a marketer’s like vision and focus more and more. So that is something that we want to look forward to on our product roadmap that we should be sharing more in the near future.
+
+AJ
+: Okay, very cool. I’m excited to see what comes with, with ABM. Obviously we’re all ABM fans. All right. So question to each of you that I love to ask anyone that comes on the show. Johanna, I’ll start with you first, anything that you’re excited about coming up either professionally or personally, or a little bit of both.
+
+Johanna
+: Personally, I just registered my son for kindergarten, which is a huge parent, parental landmark moment for me. So that’s my personal highlight. On the professional side, I’m really excited about our measurement roadmap. AJ, I hope to talk to you more about it, but we’ve done a lot on that side, um, and building out more measurement capabilities. We just reviewed it with our customer advisory board, our CAB group, a couple weeks back. And so I’m excited for it to actually get in the hands of our customers.
+
+AJ
+: Oh, that’s so exciting. Okay, Jennifer, same question to you. What you’re excited about personally and professionally.
+
+Jennifer
+: Yeah. So again, being in the Bay area, it’s been very rainy. But I recently moved into a new neighborhood, so I’m excited for the rain to move on and to have a chance to explore some beautiful hikes that I heard are in my neighborhood with my two pups and my partner. So that’s on the personal side and then professionally. AI has been all the rage, right? So on the audience’s side of things, we’ve been really working on folding in AI into audience modeling. And so we’ve released things like predictive audiences, which is super exciting, so I’m really, really excited for what’s ahead. Oh,
+
+AJ
+: Amazing. And we can’t wait to have you both back to talk about other products that you’re building and get all kinds of updates. So thank you both sincerely so much for teaching us all about audience insights.
+
+Jennifer
+: Thank you so much for having us.
+
+Johanna
+: It was great to see you.
+
+Jennifer
+: Yeah. Thanks AJ.
+
+AJ
+: Oh, you bet. Anytime. All right. I’ve got the episode resources for you right now.
+
+Thank you for listening to the LinkedIn Ads Show! Hungry for more? AJ Wilcox. Take it away.
+
+AJ
+: If you’re not already a member of the LinkedIn ads fanatics community, What are you waiting for? For a low monthly cost, you get access to the entire LinkedIn ads fanatics community. These are people just like you, LinkedIn ads experts and beginners alike, where we’re all sharing ideas of what works and what doesn’t. So if you want to get better at what you do, you’re going to want to come and join us as a member of the fanatics community. You also get access to all four of our courses that take you from absolute LinkedIn ads, beginner to expert. Go check that out at fanatics. b2linked. com. We’d love to see you there.
+
+Now, if this is your first time listening, welcome. We’re excited to have you here. Make sure to hit that subscribe button so you hear us again next week. And if this is not your first time listening, if you’re a loyal listener, welcome again. We’re always excited to have you here, but please do go and rate and review us on Apple Podcasts. That is by far the best way that you can say thanks for us putting this content together every week. Now, with any questions, suggestions, or like today, corrections on the podcast, reach out to us at podcast@b2linked.com. You can either send text or do a voice recording, and I’d love to feature you that way. Either way, we’ll see you back here next week. I’m cheering you on in your LinkedIn Ads initiatives.
+
+‍

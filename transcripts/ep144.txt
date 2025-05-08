@@ -1,0 +1,128 @@
+About
+Our Story
+Mission & Values
+Case Studies
+Pricing
+Content Library
+Podcast
+Blog
+Newsletter
+Free Startup Checklist
+Free Advanced Guide
+Community & Courses
+Book a Discovery Call
+Category
+
+
+
+
+Podcasts
+LinkedIn Ads for In-Person Events Promotion | LinkedIn Ads for Trade Shows and Conferences | The LinkedIn Ads Show
+AJ Wilcox
+August 16, 2024
+•
+Show Resources:
+Here were the resources we covered in the episode:
+Best practices to getting the highest match rate from LinkedIn list uploads:
+Join the LinkedIn Ads Fanatics community and get access to our 4 courses to take you from beginner to expert
+Follow AJ on LinkedIn
+B2Linked’s YouTube Channel
+Join
+ the LinkedIn Ads Fanatics community
+ 
+for access to all our courses.
+Contact us
+ at 
+Podcast@B2Linked.com
+ with any questions, suggestions, corrections!
+A great no-cost way to support us: Rate/Review!
+ 
+Show Notes: Episode Summary
+In this episode of 
+The LinkedIn Ads Show
+, host AJ Wilcox shares his comprehensive playbook for promoting your presence at in-person events like trade shows and conferences using LinkedIn Ads. If you’re looking to make a significant impact at your next event, this episode provides actionable insights on how to effectively target attendees, choose the right ad formats, and optimize your promotion strategy.
+Key Discussion Points:
+Targeting Event Attendees:
+List Targeting:
+ Use contact lists or company lists of attendees to reach them directly. If you don’t have a list, use LinkedIn’s native targeting to reach professionals in the city where the event is being held.
+Geographic Targeting:
+ Target the city of the event using LinkedIn’s recent or permanent geography feature to reach attendees and professionals temporarily in the area.
+Choosing the Right Ad Formats:
+Conversation Ads and Click-to-Message Ads:
+ These offer a personalized, VIP invitation feel, perfect for inviting attendees to special events or meetups.
+Thought Leader Ads:
+ Promote posts from company representatives about attending the event. These ads tend to achieve higher engagement rates than standard company posts.
+Single Image Sponsored Content:
+ Ideal for driving traffic to your landing page, as you only pay for clicks that lead to your website.
+Text Ads:
+ A cost-effective way to keep your brand top of mind, especially for desktop users.
+What to Promote:
+Promote special events, presentations, or booth activities, such as product demos, giveaways, or exclusive meetups. Unique draws like F1 simulators or free drinks can increase traffic to your booth.
+Timing Your Promotions:
+Pre-Event:
+ Advertise in the weeks leading up to the event to get on attendees’ calendars. Use personal invites and offer benefits to encourage meetings.
+During the Event:
+ Target attendees and professionals in the city with your ads. Consider using a mix of list targeting and native targeting.
+Post-Event:
+ Retarget individuals who interacted with your ads during the event to keep them engaged with your brand.
+Bonus: Organic Promotion Tips:
+Encourage company representatives to post about attending the event, including any special offers or activities.
+Post a wrap-up after the event, acknowledging key takeaways and tagging attendees or speakers to increase shares and engagement.
+Recent LinkedIn Updates:
+Changes to how LinkedIn counts impressions and clicks for video ads, now excluding actions taken before the video starts playing.
+Updates to sponsored messaging metrics, separating them from impressions and clicks in Campaign Manager.
+Call to Action:
+ Join the LinkedIn Ads Fanatics community for in-depth courses, expert advice, and weekly group calls. Subscribe to the podcast for more insights, and leave a review on Apple Podcasts to share your feedback and experiences.
+Review and Connect:
+ Listeners are invited to connect with AJ on LinkedIn or via email at 
+podcast@b2linked.com
+. AJ encourages sharing reviews, questions, and suggestions to be featured on the show.
+Listeners will learn how to leverage LinkedIn Ads for successful event promotions, ensuring your brand stands out and maximizes its impact at your next conference or trade show.
+ 
+Show Transcript
+You’ve booked the booth, pack the swag, now it’s time to promote your event presence with your LinkedIn ads. I share my whole playbook for getting the most out of your in person events on this week’s episode of the LinkedIn Ads Show.
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+Hey LinkedIn Ads fanatics. As he said, I’m AJ Wilcox. I’m the host of the weekly podcast, the LinkedIn Ads Show. I’m thrilled to welcome you to the show for advanced B2B I’m thrilled to welcome you to the show for advanced B2B marketers who are looking to evolve and master their LinkedIn Ads craft. And of course achieve true pro status.
+So it’s officially event season. And as you’re attending and presenting at trade shows and conferences and other in person events, you may want to leverage your LinkedIn Ads to get more attention for your sales team or for you while you’re there. We’ve found a lot of success in promoting our clients at their events that they’re attending using our LinkedIn ads. And I want to share with you my entire playbook.
+We’ll cover number one, how to target your event attendees. Number two, which ad types to use. Number three, What exactly do you want to promote? And then number four, when do you promote it? What your timing is. And as a bonus, we’ll talk about what you can do from an organic standpoint to also help your ads.
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+B2Linked is the ad agency 100 percent dedicated to LinkedIn Ads. And we have been ever since 2014. You know, back before it was cool. We build custom strategies for every account we work with. You get to work directly with me and my local team. You won’t get any sort of a cookie cutter approach or standard account templates from us. We use custom strategies that I developed after spending over 150 million on the platform, and we’re insanely good at saving you money. We always save our clients more than we charge. So it’s kind of like getting the very best in the biz, but for free. If you’d like to explore partnering with us on your LinkedIn ads management, schedule your free discovery call at B2Linked.com/discovery.
+First off in the news, two recent changes. These actually happened during the month of July, and so you should all be seeing these inside of your account. The first is LinkedIn changed its definition for what an impression and a click are from a video ad. And this is really good. I think this is a great change. The way it works is if an ad doesn’t actually start to play, LinkedIn will not call that an impression. And then same thing with clicks. If someone clicks on one of the ads, but the video hasn’t started to play, they don’t call that a click. So what it means to you advertisers is any of those impressions and clicks that you get, that someone ends up taking action on your video ad before it started to play. Those are all going to be free. And you know, I love free advertising on LinkedIn. I tend to see this a lot when someone is looking at video ads on a poor connection. You don’t want to call that an impression if they didn’t actually watch your video and it’s a video ad. And of course, you don’t want to get charged for that click either. So I’m a big fan of this change.
+Another change is actually one I’ve been asking for for a long time. It caused a lot of headaches. And that is, if you’re running any sort of a sponsored messaging campaign, your sends show up as part of your impressions column count. And your opens show up as part of your clicks column. So whenever someone came to me and said, wow, we have a 50 percent click through rate and a 50 cent cost per click. I would know immediately, oh, you are running sponsored messaging ads, and you’re not actually taking into account what the real metrics are. Of course, I’m sure LinkedIn was really happy with people thinking that they were having a ton of success using these sponsored messaging campaigns. But realistically, when they followed it through and realized that even though they were getting clicks for 50 cents, now all of a sudden, they have ginormous cost per conversion. And eventually they’d realize they were doing something wrong, or LinkedIn was reporting it wrong.
+So now as of mid July in 2024, LinkedIn’s going to start putting all of those metrics in the proper columns. That means when you’re running sponsored messaging, none of your performance is going to show up in either your impressions or clicks. Instead, if you look under your columns, or sponsored messaging, there you will find your opens, your sends, and your sponsored messaging clicks. All of these will have their own columns as you export right from campaign manager into Excel. And that’s where I do a lot of my analysis. So that’s where I look for it now too.
+If any of you have built your, your cost per click and your click through rate formulas based off of what I’ve shared before, all of those formulas will still work. What they did is they just took out any time LinkedIn was calling an open a click and a send an impression.
+The result that you might notice from these changes, specifically for video, you might also see your video click counts decrease.
+You might see your CPMs and video view rates, they might increase. You might see that your click through rates and engagement rates might decrease. But overall, I think this is much better to abide by these definitions. It’s a lot more true to what’s actually happening.
+With sponsored messaging, you might just find that if you’re just looking at sponsored messaging campaigns, under impressions and clicks and click through rate, you might just see a dash or a zero, something along those lines.
+All right. I wanted to highlight a review that we got on Apple podcasts.
+And I love this one. The title is, This show has completely transformed my LinkedIn Ads. Janie Tallarico, who runs Tallarico Marketing in Pittsburgh, Pennsylvania. She said, &quot;I’ve run Facebook ads for years and thought LinkedIn ads would be quite similar. Frustrated by performance, I found AJ’s podcast and have learned the platform is really different for meta ads. AJ shares real info, not fluffy strategies. He really shares what to do with LinkedIn ads, like the nitty gritty things. I launched all new LinkedIn campaigns last month following AJ’s advice on the podcast, and our results have been incredible. Cost per click is $2 cheaper, and leads have gone up without sacrificing lead quality. I’m blown away. This podcast is a must listen for any digital marketer. Thank you, AJ.&quot;
+Janie, thank you so much for leaving such a kind review. I’m so glad. Thank you for sharing your results, too. I couldn’t be prouder any time that I hear that when I share some advice, and it results in you being able to pay less and get better performance for your LinkedIn ads, oh, it warms my little ginger heart.
+Do you have a question, a review, or feedback for the show? You can either message me on LinkedIn privately, my DMs are free and open, or you can email us at podcast@B2Linked.com. You can attach a voice recording from you that I can play right here on the show, or, or you can send the boring text and I’ll just read it. And as always, I’m happy to keep you anonymous or shout you out and share your details. I want to feature you.
+All right, without further ado, let’s hit it.
+First, let’s jump into the types of targeting that you want to do to reach your event attendees. The very best option here is with list targeting. So ask yourself these questions. Do you have either a contact list or a company list of the attendees that are coming to the event? Maybe you don’t have this year’s attendees, but do you happen to have last year’s attendees? Obviously, the more recent the better. But I’ve found a lot of times that if a company attended last year, they’re going to be a lot more likely to attend this year as well.
+You can, of course, target the contact list, if you have one. That means you’re going to reach people who attended last year or who are signed up to attend this year. That’s great. But oftentimes, that person may not match 100 percent with LinkedIn’s records, and so you might end up missing that person. So, what I love to do, and this is something that we covered in episode 120, is you can take your contact list and turn it into a company list. Companies match at a much higher rate than contact lists. Plus, if any of them don’t match, you can look and see which ones that you uploaded did not match. You can go and do more research, and then upload a list that gets a 100 percent match rate. So if you use a company list to target, and then layer on your things like job functions and seniorities, You end up getting, usually, the person that you had on the contact list as well, but you now get their opportunity to hit their colleagues, their co workers, their boss, their boss’s boss. Really, whoever it is that you want to hit there.
+But let’s say that you don’t have any lists. Okay, that’s not a great place to start out with. But, it doesn’t stop you or preclude you from still advertising on LinkedIn for this event. What we’ll do is we’ll use LinkedIn’s native targeting to reach the kind of professional that you want to reach there at the show. And we’re going to target them just while they’re in the city of the event. It’s not going to be nearly as precise as if we could just target the building that the event is in, but LinkedIn only lets us target down to the city, so we make the best with what we’ve got.
+Now, usually I recommend targeting the geography with the permanent only feature, but for this, we actually do want to reach people who are just even temporarily in that city. So what we’re going to do is target the city on recent or permanent geography, which is the default. So you don’t actually have to change anything here. And then you set up your persona targeting the way that you normally would with LinkedIn Ads.
+If you end up getting a huge audience size, my recommendation is to bid really low because you want to spend the least amount possible while maximizing your reach of that kind of professional in hopes that you’re going to reach those who are at the event. And of course, there will be spillover if you’re using just LinkedIn’s native targeting. If an event’s being held in San Francisco, you’re going to reach all of those professionals that are in San Francisco, as well as those who’ve come in just for this event. Like I said, not as clean, but hey, we work with what we’ve got. So those are our two types of targeting.
+Now, let’s move on to the ad types that you might want to run. I absolutely love running conversation ads, and I’d actually even add click to message ads to this recommendation as well. These come across as a very VIP, like, personal invitation, and so for that reason, it’s really good. If you have something VIP or special to invite someone to, this is the very best way to do it. You invite them through a conversation ad, so it feels like a personal invitation. And this is because it comes from an individual, you can insert their, like, I like to insert first name, like, hey, first name. It’s going to come to them personalized, and because it shows up in their messages, it really does feel very personal.
+Now usually, conversation ads, message ads, they end up with an average open rate of about 55%. When we’ve run this for events, We got 67%, so significantly better, 12% better. So considerably better open rates. And usually, message ads click through rates are like 3. 2%, we average 16. 6%. This is of course contingent on the fact that you’ve got something special to invite someone to.
+Alright, next ad format I want to point out is using Thought Leader Ads. For those of you who know me, this is not going to be a surprise at all. I love Thought Leader Ads. What I suggest doing is promote a company reps post when they’re posting about attending the show. Make sure they point out anything fun or special that’s going on, that they’ll want to participate in.
+For a recent event, we ran two very different Thought Leader ads, and both posts ended up averaging about a 10% click through rate. Which is incredible, because if you just had a company post that you were saying like, Hey, we’re at this event, come check us out, I guarantee it would probably get like half of a percent. Of course, I can’t actually guarantee your performance, but you get what I’m saying.
+The next ad format that you should consider is single image sponsored content. Single image ads are in the news feed, and they are still really good if you can’t promote personal posts, or, as you probably know from listening to me, with Thought Leader Ads, we can only run on the engagement objective, and then LinkedIn is charging you for all of the clicks to things like, to see more of the post, and, you know, any sort of interaction. So, if you’re worried about too many of your clicks going to unhelpful interactions, like, see more, and Liking and commenting, then single image ads from your company might be the best option because you can set it to only pay when someone clicks on your landing page. Then single image ads from your company page might make the most sense because you can set it with a website visits objective, meaning you only pay for any click that goes to your landing page. I’ve mentioned before that most of the time these kinds of ads get around a 0.45% click through rate, we were averaging 1. 57 on this last campaign, so three times the average, super cool. I’ll also throw out this option, text ads. Text ads are a really good way of getting your logo in front of your target audience for very cheap. They only show up on desktop, and when someone does click them, it costs very little, like all the way down to $2 per click.
+Obviously, most people who are traveling for events, they’re not on desktop, they’re on mobile. So you might find that your text ads aren’t serving the purpose you’re hoping. But to me, they are so easy to set up, and they’re such a cheap way of staying in front of your target audience and keeping you top of mind, I think they’re probably still worthwhile to set up. So what do you actually promote when you’re running these ads cause you have to have something to promote. Well, if you’re presenting or sponsoring, you obviously want to encourage attendees to come and visit your booth or attend the talk.
+I once worked for a brand who did an unofficial sponsorship. where they rented out a place that was nearby, and they were not paying the conference for this sponsorship, but they were promoting the fact that if you come here, you’ll get free drinks. Just remember, people are getting a lot of competing messages at the show, so it really helps you stand out if there is something special, exclusive, fun, interesting, at meetup, get together, whatever.
+At one of our recent client events that we were promoting, they had an F1 driving simulator and other really cool things in their booth. Which, it was a lot more effective to drive traffic to that booth, rather than just saying, come talk to us at our booth and we’ll show you our product. People either don’t want that, or they have a lot of other competing things for their attention, and they might need a little bit of extra of a draw.
+You can also host dinners and lunches, as well as try to schedule one on one meals or meetings with attendees. Things like free meals, free drinks, those are a really good draw.
+So now that you know what to promote, Go Now let’s talk about the timing. I have this broken up in my mind in three different portions. There’s the time leading up to the event, there’s the during the event, and then the post event follow up. In the weeks, maybe even the month leading up to the event, I like to advertise to those that you know are likely to attend, those that are in our lists.
+Try to reach them with personal invites to get on people’s calendars and to start filling up your salespeople or your schedules while you’re there. And obviously when you do this, try to offer a benefit of some kind that will actually encourage people to meet with you.
+Obviously, if you’re not using lists here, you would just be advertising to all the professionals who fit your criteria in the city of the conference before people get there, that’s probably not overly going to be helpful. So, definitely start out with lists, but then during the event, you can advertise both to your lists and to your LinkedIn native targeting. You target your audience in the city’s location Your list of attendees and then at the very end of the event I always recommend shutting them off the midnight of the last day of the event, shut it off. Most people have left the city.
+And then after the event, create retargeting audiences for anyone who interacted with your ads that were shown during the event. You now have retargeting audiences featuring all of those people who attended and were interested enough to interact. Then roll all of those retargeting audiences into your existing evergreen retargeting campaign. I usually call these our middle of the funnel stage campaigns and continue to stay in front of them.
+I did promise a little bit of a bonus on the organic promotion of events. Here are some tips for you.
+Before the event, have representatives from your company post about them attending, what they’re excited for, and anything else that you think would be really exciting. Bonus points if they’re offering something to attendees that they’d be excited about. Maybe a contest, a VIP invite, etc. You can obviously boost these as thought leader ads leading up to the event, or even possibly during it.
+And then I got this idea from one of our clients. Thank you, Diane. She said, do a post conference wrap up post. Acknowledge a great event, some key takeaways, individual speakers. Include photos, tag people, these are guaranteed to be shared by those who get tagged. And be sincere, not spammy.
+And then an extra little tip for me, if you’ll want to promote this as a thought leader ad, make sure that it’s only a single image. It’s really easy to add lots of images to a post, but then we can’t sponsor it as a Thought Leader Ad.
+Diane found a sweet spot of the morning of the event, posting between 7 AM seems to be the sweet spot before conference activities get going, and always use the event hashtags when you’re promoting it organically, because then you’ll get some good initial organic views from people who are really interested in the event. And of course, you can always go back and edit the post later to remove tags, remove other sorts of links. And then when you end up sponsoring it later as a Thought Leader Ad, you don’t have to worry about paying for clicks to all kinds of other links.
+If you’re not already a member of the LinkedIn Ads fanatics community, go right now, drop everything, drop some weights if you’re lifting right now, go to fanatics.b2linked.com and you can join us. For a very low monthly fee, you get access to all four of our courses that take you from beginner to expert, plus access to so many of the top minds in LinkedIn Ads who are all helping you, suggesting ideas, and asking questions of their own. There’s even an upgrade to hop on the weekly group calls with me. So definitely come check it out. Come be a LinkedIn ads fanatic. If this is your first time listening to the show, welcome. We’re excited to have you here. Hit that subscribe button so you don’t miss next week’s episode.
+But if you’re a loyal listener, thank you for coming back. The very best compliment you can pay me is by going to Apple Podcasts, just like Janie did at the beginning of the episode, and leave us a review. And of course, if you leave who it is that you are, I would love to shout you out live. With any questions, suggestions, or corrections, reach out to us at podcast@b2linked.com. And with that being said, we’ll see you back here next week. And as always, I’m cheering you on in all of your LinkedIn Ads initiatives.
+‍
+Copyright © 2014 - 2023 B2Linked.com. All Rights Reserved.

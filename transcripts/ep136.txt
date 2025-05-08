@@ -1,0 +1,47 @@
+Did you know that you can attach lead gen forms to organic posts on LinkedIn ads now? Here’s everything you need to know on this week’s episode of the LinkedIn Ads Show.
+
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+Hey, there LinkedIn Ads fanatics. As he said, I’m AJ Wilcox, and I’m the host of the weekly podcast, The LinkedIn Ads Show. And I’m thrilled to welcome you to the show for advanced B2B marketers who want to evolve and master LinkedIn Ads and achieve true pro status.
+
+Alright, so for the longest time, boosting a company post was extremely limiting. You couldn’t customize the links for tracking, and you couldn’t use lead gen forms, which are obviously ultra high performing on LinkedIn if you haven’t used them before. Well, thankfully that’s finally changed. We’re gonna walk you through exactly how to attach leadgen forms to your organic boosted posts, and talk about why you’d actually want to.
+
+The LinkedIn Ads Show is proudly brought to you by B2Linked.com, the LinkedIn Ads experts.
+
+We are the ad agency, 100% dedicated to LinkedIn ads and we have been ever since 2014. You know, back before it was cool. Look, LinkedIn ads are expensive. There’s no denying that. Over more than 150 million dollars spent on it, we’ve mastered the platform. We’ve figured out how to get you the very best traffic at costs that are way less than advertisers who are trying to do it themselves. How much less? How much less? We’re currently averaging 57 percent savings, while improving quality. Seriously. Plus, we can provide deeper reporting insights than you can get from anywhere else, even from your LinkedIn rep. If that sounds interesting to you, and you’d like to explore partnering together, schedule your free discovery call at b2linked.com/discovery.com/discovery.
+
+All right, you know how I ask you at the end of every episode that if you have corrections for me, definitely hit us up. Well, we had someone take us up on it.
+
+Thomas Verar, who we’ve mentioned several times on the show before. He’s out of Bulgaria, and he’s a LinkedIn Ads rep there. Thomas reached out to me and said, “Hey, AJ, back in episode 134, I noticed you mentioned that there’s a 160 character limit in the intro text of sponsored content posts before it truncates and you have to click see more, but that’s actually incorrect. The cutoff is actually based off of a number of pixels, not a number of characters. For example, if I put only the letters W, which is the widest letter in the English alphabet, then the cutoff will actually be at 76 characters. But if I just use all I’s or 1’s as a character, it will be at 260 something.” So, Thomas, thanks so much for helping clarify that. I actually did know that it’s not a specific number of characters, a width of pixels, but I never actually figured out how wide they could be, and so it’s usually about 160 characters that I’ve seen, and so I just kind of used that as an average. But you’re absolutely right, it is based off of pixels, And whatever you’re writing, it’s totally possible that you have a lot of really thin characters, and you could actually include more than 160, or maybe you have really beefy wide characters like Ms and Ws, and you may only get like 76. So, sincerely, thanks so much for pointing that out, that’s super helpful.
+
+So just like that, do you have a question, a review, or feedback for the show? You can message me on LinkedIn, my DMs are open and they’re free. Or you can email us at podcast@b2linked.com and attach a link to a voice recording and I’ll play ’em right here on the show. I’m super happy to keep you anonymous or shout you out and share your details.
+
+I wanted to highlight a recent review for the show. Username AaronSC234 on Apple Podcasts shared. AJ is a LinkedIn Ads expert. Great show. Great content. Highly recommend to anyone interested in LinkedIn Ads. AJ is also a great host.
+
+Aaron, I’m not sure who you are, so I can’t shout you out by name. But sincerely, thanks for leaving the review. And of course, my ego loves it when you tell me how great of a host I am. But certainly, if you’re leaving a review, you don’t have to do that. I really am interested in your very honest reviews. But sincerely, thanks. Any shoutouts that you can give.
+
+And just like that, I want to feature all of you, so make sure you all head to Apple Podcasts and leave a review. Alright, with that being said, let’s hit it.
+
+Alright, one of our listeners, John Contoleon, he’s the owner of a company called NetGains. He was actually the inspiration for this episode. I had heard the news before that you can attach lead gen forms to boosted company page posts, but I hadn’t tried to do it, and so I hadn’t explored the process.
+
+Well, John shared the whole process with me, and I wanted to share it with you in case that many of you ads fanatics are in the same boat.
+
+So first what you need to do, your campaign has to be in the lead generation objective. Duh, well I guess that makes sense, lead generation forms are only available in that objective.
+
+But then you need to go look at the post to see what kind of ad type that it’s going to fit within. So you check out that company post, and maybe it’s a single image post, or text only, or document, or video, whatever that is. When you create your campaign in the Lead Generation Objective, you choose that ad format to host it. And maybe you already have a campaign of the same ad type and in the Lead Generation Objective, then great, your job is already done. Many of us will have to create a new campaign from scratch for this.
+
+Step number two, you go to where you can actually create or add the ads. And just like any boosted post, you’re going to go to Browse Existing Content. And then you’ll see the button that says Company Page. And when you click that, you’ll be able to surf through and see all your company page posts. And then when you find the one that you want, you can click to sponsor it. If you don’t see the post that you’re looking for, it’s probably because your campaign isn’t set to the correct ad type.
+
+Now after you go to sponsor this, at the bottom of the ad, it’ll ask you which lead gen form you want to attach. And so if you already have a lead gen form created, you can click to select it, or you can click the button that says create new form if you haven’t already created the lead gen form that you’d like to use.
+
+Have any of you tested this out? Have you boosted company page posts and attached lead gen forms? Send me a voice recording on LinkedIn or email us at podcast at b2linked.com and let us know. I also really hope that this is a preview of what’s to come with being able to attach lead gen forms to organic personal posts, meaning thought leader ads. That’s what I would kill for at this point. So please, please, please LinkedIn, tell me that you’ve been working on this and we should get it sometime soon.
+
+What about when you should actually use this feature? I’ve thought through a couple examples. I think that if you’re promoting an event, like a webinar, that you’ve already announced from your, your company posts, it would make a ton of sense to have a lead gen form pop up, and make it super easy to sign up for the event.
+
+Occasionally you’ll see company posts, where the company is giving you a very, what I would call, a bottom of funnel kind of offer. This would be like, contact us, or we’re offering something, meet with one of our sales reps. I think this kind of a post could work pretty well here, assuming that you’re showing it to warm audiences. Because any time that you pop a lead gen form up, it’s going to convert better than if you sent them to a landing page, with a form on your website. What other cases would this be effective for? Let us know. And if you’re curious to learn more about lead generation forms on LinkedIn, check out episode 17, an oldie, but a goodie.
+
+If you’re not already a member of the LinkedIn ads fanatics community, what are you waiting for? Go to fanatics.b2linked.com. And for a really low monthly price, you’ll get access to all four courses where we take you from beginner to expert. Plus, you’ll get access to many of the top LinkedIn ads professionals in the community who are all sharing what’s working for them and giving you feedback on how to improve your own performance. Plus, we even have an upgrade where you can hop on weekly group calls with me. Now, if this is your first time listening to the podcast, welcome, I’m so excited to have you here. Make sure to hit that subscribe button. But if you’re a loyal listener and this is not your first time, the biggest compliment you can pay me is by going to Apple Podcasts and leaving a review.
+
+Now with any questions, suggestions, or like we had at the top of this episode, corrections, reach out to us at podcast@b2linked.com. With that being said, we’ll see you back here next week. I’m cheering you on in your LinkedIn Ads initiatives.
+
+‍

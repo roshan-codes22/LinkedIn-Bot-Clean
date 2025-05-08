@@ -1,0 +1,214 @@
+Have you ever wanted a library of all the LinkedIn Ads out there that you could look through for inspiration? We’ve got just the thing for you coming up on this week’s episode of the LinkedIn Ads Show.
+
+Welcome to the LinkedIn Ads Show. Here’s your host, AJ Wilcox.
+
+Hey there LinkedIn Ads fanatics! I would bet that most of us have wished that we could go somewhere to look at the highest performing ads on the LinkedIn Ads platform, maybe for inspiration as we’re writing new ad copy, or maybe even to look at competitors ads side by side and check out what they’re doing. Today, I’m interviewing Sander de Lange, from AdSearch.io, which is a very affordable LinkedIn Ads library to do just that. We talked through what it’s capable of pricing, and especially the actionable ways that you as the LinkedIn Ads marketer can go and use these tools to your advantage. Sander is an agency owner out of the Netherlands, and he’s the founder of AdSearch.io. Let’s bring him on.
+
+AJ Wilcox
+Hey Sander. So excited to have you here on the podcast.
+
+Sander de Lange
+Hey, AJ, great to be here!
+
+AJ Wilcox
+Cool. Well, tell me a little bit about yourself. Tell me a little bit about the company ad search. Love to hear all that background?
+
+Sander de Lange
+Yeah, sure. So about myself. I’m from the Netherlands. I’m married. And we just got our first daughter.
+
+AJ Wilcox
+Congratulations.
+
+Sander de Lange
+Yeah. Thank you. Thank you, me and my wife, we really love to travel. So currently, I’m working remote from Thailand, which is our favorite country in the whole world.
+
+AJ Wilcox
+Oh, I have not been but I want to.
+
+Sander de Lange
+Yes.
+
+AJ Wilcox
+Cool. Well, tell us about the background of AdSearch.io
+
+Sander de Lange
+Yeah, sure. Sure. 10 years ago, together with my business partner Ozlem, we launched a marketing agency called Team Digital.nl. In the Netherlands. We’re focused on getting B2B customers. And we do a lot of LinkedIn Ads for our clients. We really love the platform because of the great targeting and great way to reach ideal customers. But we were really missing a LinkedIn Ads library. So yeah, this year in 2022, we launched AdSearch.io, which is the world’s biggest LinkedIn Ads library to help you find great LinkedIn Ad examples to mobile in seconds.
+
+AJ Wilcox
+Love that. So tell us about why you were looking for a library. Obviously, that was a problem you were looking to solve for yourself. What is that problem that we LinkedIn advertisers should be thinking about whether we’re feeling this or not?
+
+Sander de Lange
+Yeah, exactly. So the idea actually started because of a few few challenges we kept running into because if you advertise on LinkedIn, you probably know that LinkedIn Ads has a higher cost per click than other ad platforms, which can be a bit scary for people if they start launching their first campaign because every new campaign can be a risk. Some people also might notice that ads with low engagement actually pay more per click. So you know, the LinkedIn algorithm works with the ad relevancy score. And that’s based on factors like click through rate, comments, likes and shares. And the more relevant the ad, the lower the price you pay. So this also means that if you have ads with low engagement, you pay more per click. So creating relevant, engaging ads is very important. And on top of that, we kept running into that you need also enough fresh new ad creative to prevent audience fatigue. And that’s actually when your target audience sees the same ads over and over and your ads can lose their impact. We figured that you don’t want to be wasting ad budget on the wrong boring ads, because that can get expensive. And we wanted to find a way to decrease that risk. And that’s actually where you had something to do with this. Because I’m a frequent listener of your podcast and you actually quoted you, you said, like, when you’re spending money on LinkedIn Ads, it’s inherently high risk, because the costs are higher. So any research you can do ahead of time to find out what your audience will like is going to be very useful. So that inspired us to create AdSearch.io.
+
+AJ Wilcox
+Oh, so cool. I’m glad I can be of any help there. So you obviously felt this pain, you realize that we need some sort of an ad library? How did you go about solving?
+
+Sander de Lange
+Yeah, so we believe that it was missing. And as librarian and it’s a great way to get inspiration for new campaigns, you need to study ads that are performing well to generate ideas. And we didn’t just want to create the ads library where we just put a few ads in there. And that’s it, we really wanted to go the extra mile and add all kinds of features and functionality, so you can really find highly relevant ads quickly. So we did that by adding a few type of features. The first one is the search features. So you can really find relevant ads quickly. You can search by keywords, the whole database of ads is searchable by keywords. So for example, you could search for CRM or email templates and find ads that contain those keywords. You can search by company name or even by URL. So for example, if you search URL search, and you use like read remarketing, you will find remarketing ads. So that’s the search features, you can find relevant ads quickly. And then step two is the sorting features. So you can discover the most engaging ads very quickly. So you can sort by engagement metrics, like likes, shares, comments, you can find the ads your audience loved most. And then you can use the filter features to find exactly what you need. Like you can filter by country, industry, ad formats, company size, all kinds of stuff. So if you were looking for a video ads containing the keyword CRM from a US company in the 50 to 200, staff range, you can find it.
+
+AJ Wilcox
+Oh, that’s so cool. So I love the standard. How should LinkedIn advertisers actually use your tool?
+
+Sander de Lange
+Yeah, so I’d like to get into like a really step by step process with just a high level overview. First, it’s really useful for everybody advertising on LinkedIn, but mostly people who can use it as LinkedIn advertising agencies and freelancers. In house LinkedIn advertisers can use it, but also the ad creative design teams. And they can use it for campaign optimization to improve the success rates and generate A/B testing ideas. But also, it might be helpful for the sales team to find companies that advertise on LinkedIn so they can reach out to them. Yeah, and of course, we’re competitive research to spy on the best ads in any industry. But if you want to get into the step by step process of how we use it in our agency, we could go through that.
+
+AJ Wilcox
+Yes, I would love to see the step by step. And my background here for asking is because I think with a lot of these tools that are just giving us ideas, it’s really difficult to come up with actionable principles, a lot of things you might look at and just say, Oh, that looks pretty, it looks nice. That sounds good. But then when you actually go to take action, there isn’t. So walk us through your method for how you use your own tool to research and launch ads, that would be really cool.
+
+Sander de Lange
+Yeah, let’s go through three steps that we use for our clients to get a lot of value out of it. The first is the A/B testing an idea generation process. Step one would be like researching the ads. So for example, I opened the tool and search for the campaign subject by keywords. So let’s say, email templates, or something like this, or CRM, the tool will generate results of ads containing those keywords. Then I would go in the left sidebar, and sort by most reactions, or most comments to find the most engaging ads, and then I’ll start studying their strategy and try to generate two ideas I would want to test. For example, I want to test using lead gen forms versus landing pages or test a different offer or test some type of ad copy. I’d go through all the ads that end up at the top, for example, study their introductory test and generate two ideas I want to test, study the ad creative and the visual, generate and think of two ideas I’d want to test. For example, square image ads that you had been on about the CTR increases that that can get you versus the non square ones. I go to the headline, try to generate two ideas, but also click through to the landing page and see what they do there. And also study the comments that people leave on the ads, because if you click view original ads, you can see sometimes people leaving questions or some type of stuff like this, which can be good intelligence for your campaign. So that’s step number one trying to see all of these add elements and generate ideas based on top of that, once you’ve generated the ideas, I tried to see if you go to the ad creation and launch process, so all of these ideas, I’d rank them based on the potential impact they have, the ease of implementation and decide which ones we can launch and use in our next campaign. I’d see if I can share the ad examples that we found in a tool with the design team. You can click show ad details and easily share them with the team. You can also bookmark the ads to find them back later, easily. Then your design team will create them. And then when you upload the ads, you make sure to give them very clear names inside of LinkedIn so you can easily find back and find the results for A/B test. And you write down in an Excel sheet your hypothesis on which KPI you will judge the test.
+
+AJ Wilcox
+I’m a huge fan of that level of organization. Thank you for sharing that. Okay, so I’m just taking notes. Here we have the A/B testing idea generation. Then once you’ve generated those ideas, you go and actually start implementing the creative. And then step three was analyzing your results.
+
+Sander de Lange
+Yes, exactly, exactly. So step three would be the optimization and analyze process after you’ve launched them. So if you gave them a good naming structure, it would be very easy to find the results per ads, and you can then check if the results are statistically significant. And pause the loser, keep the winner alive and try to make a new variant based on the winner. So you can try and beat it. And if you do that, you can go back to the library and see based on the winner if you can find any other ads that might help you with that.
+
+AJ Wilcox
+Beautiful, I absolutely love that. What I like to do is, all of my ads that I launch on a certain day, I’ll actually put the date. And whether it’s the A or the B version in the ad name. So in the ad platform, I can go and just type the date, and then all the ads I see will just be either an A or B, I can very quickly evaluate. I’m a bit of an Excel geek like I would rather get it out to excel and run it in a pivot table. But if it was simple, like there was only a few of them, that’d be really good to do right within the platform. So I love that recommendation.
+
+AJ Wilcox
+Here’s a quick sponsor break, and then we’ll dive back into the interview with Sander.
+
+Unknown Speaker
+The LinkedIn Ads Show is proudly brought to you be B2Linked.com, the LinkedIn Ads experts.
+
+AJ Wilcox
+If you’re a B2B company and care about getting more sales opportunities with your ideal prospects, then chances are LinkedIn Ads are for you. But the platform isn’t easy to use, and can be painfully expensive on the front end. At B2linked, we’ve cracked the code to maximizing ROI while minimizing costs. Our methodology includes building and executing LinkedIn Ads strategies, customized to your unique needs, and tailored to the way that B2B consumers buy today. Over the last 11 years, we’ve worked with some of the largest LinkedIn advertisers in the world, we’ve spent over $150 million on the platform, and we’re official LinkedIn partners. If you want to generate more sales opportunities with your ideal prospects, book a discovery call at B2linked.com/apply. We’d absolutely love to get to work with you. All right, let’s jump back into ad search.io.
+
+AJ Wilcox
+I’m curious, and I don’t even know if you can share this, but where are you getting the data from on these? How does your software determine which company is important enough to index their ads?
+
+Sander de Lange
+In the beginning, we were looking at companies that have ads with a lot of engagement on them. But there’s actually not that many companies that are doing a really great job on this. So we started to expand a little bit to add more ads in the tool so people can find lots of inspiration. And then we try to now adding more ads by companies that are doing a really good job. Based on the likes and the comments and the shares. Yep.
+
+AJ Wilcox
+Do you have any way of estimating how much a company is spending? And part of the competitive research would be looking at a competitor and trying to figure out like, are they spending $5k? Are they spending $300k a month? Can your tool do anything like that? Or do you have a rule of thumb that you might use to estimate how much I’m spending?
+
+Sander de Lange
+Yeah, as of right now, we don’t have it yet. But we’ve definitely been thinking about if we could estimate or create a formula to estimate that that would be great. We do have some other cool ideas that might correspond with this a little bit. But as of right now, we didn’t yet figure that one out.
+
+AJ Wilcox
+Do you have any thoughts on how we could use this tool for sales intelligence, I’m imagining if you’re trying to sell into a certain company, or trying to sell into an industry, how you might use that to get a foot in the door.
+
+Sander de Lange
+Yeah, for sure, you can use our tool to find clients in specific regions and industries and company sizes. So you would know they are advertising on LinkedIn. You can already see the type of ads they are running. So what a sales team could do is that they could reach out and offer audits to a specific target industry. First of all, generate a list of qualified LinkedIn advertisers in that space. Currently, we have around 60,000 advertisers in the database, so there’s probably going to be some qualified prospects in there. Yeah, and reach out to them offer ideas on how they should improve the advertising strategy, and see if you can offer them audit or free consult to develop a sales opportunity for the company.
+
+AJ Wilcox
+Very cool. I love that. What about competitive research? How would you go about using this? Let’s say you’re launching ads for a company, you want to research their competitors? How would you go about doing that?
+
+Sander de Lange
+That’s a good one. Let’s say you want to research one of your competitors. One of the things that our tool makes available is that you can actually find the ads that the most engaging ads your competitors are running. So that’s one thing our tool can do that you can find on LinkedIn that easily yourself. So for example, if it’s a big company, there might be 1000s of ads, they’re running at every one time. And you can just go to our tool, type in the company name. Once you click on the company logo, there’ll be view all ads by this company that will show you the ads they are running and then you can sort them by reactions like likes or sort them by comments. You can see these ads are the most engaging ones. And maybe also go through the comments that people leave on your competitors ads because that might be really valuable information as well. So based on that, you could see what’s really working for them.
+
+AJ Wilcox
+And do you have to do all of this within the tool? Or is there like an export to Excel for us Excel junkies?
+
+Sander de Lange
+That might be a really good feature to add AJ, so you’ve given us a good idea. We have it on the back end, but maybe we should make the export available.
+
+AJ Wilcox
+Or at least to my account, because I would love to get some good use out of that.
+
+Sander de Lange
+Okay. I’ll write that down
+
+AJ Wilcox
+I love getting big data into Excel. So I think the biggest question I think we’re all going to have is, What does a subscription cost for those who aren’t currently using it? Can you walk us through what pricing is like?
+
+Sander de Lange
+Yeah, sure. Currently, the pricing plans are per quarter or per year. So as of this point, they are $49 US dollars per quarter, or $99 per year. And that would include unlimited searches, unlimited filters, bookmarks, everything. There’s no limitations on the plan. So I gotta be honest, here, we’re not sure how long this is going to be that way. As of right now, that’s the current pricing.
+
+AJ Wilcox
+Perfect. But that does feel really reasonable to me. I do hope everyone here who’s listening who thinks this might be interesting, go and get subscribed, make sure you’re grandfathered into any rate to before increases in the future. So love that. Are there any questions that you wish I would have asked you anything cool about the tool you want to point out? Or anything coming up on the roadmap that we should know about?
+
+Sander de Lange
+Yeah, I’d like to bounce a few ideas, that’d be great. Well, one of them is that we think we might have discovered a way to create also some insights into the targeting of a specific LinkedIn Ad campaign. So you could see, for example, what type of targeting your competitor might be using. But I’d like to see what would you think of that? Is that something that would be interesting to you?
+
+AJ Wilcox
+Oh, that would be so cool. To me. I mean, that takes your competitive intelligence, text that up to 11. Can you share with us how you’d narrow in on that? Or is that proprietary?
+
+Sander de Lange
+I gotta be a bit careful here. But what the end result would be, you know, LinkedIn recently released that feature where you can see like, okay, your audience, they have these types of skills, these type of job titles, these type of company sizes, all that type of stuff.
+
+AJ Wilcox
+Yeah, the audience insights feature.
+
+Sander de Lange
+The audience insights feature. We would be able to create something like this, but then for other companies, then your own for your competitors, that will be the end result.
+
+AJ Wilcox
+Oh, I love that. Okay, yeah. Sign me up. Whenever that happens. That’d be fantastic.
+
+Sander de Lange
+That’s good to know. And maybe maybe we’re also thinking of adding a few more ad channels in there, and maybe doing like a monthly curated, best LinkedIn Ads newsletter type of thing, you know,
+
+AJ Wilcox
+Oh, yeah! Because the LinkedIn reps, obviously, our team, when we’re working on 50, 60 accounts a month, we always have a whole bevy of account reps. Sometimes we get put on their newsletters. And so I’ve got 20 emails a month from reps. But a lot of times what they do is they show like the top ads per month in that industry. And so if you had one that was always updated, you’d have to wait for it from a rep or ask your rep for it. That would be really cool.
+
+Sander de Lange
+Yes, yes, yes. Okay, then you’ve given me a lot of valuable feedback there.
+
+AJ Wilcox
+So I do have a question. That is, it’s this is selfish of me, it’s very much to our own strategy. But a lot of times, what we’ll do is we’ll build one ad per campaign, and we’ll have a lot of campaigns, which means that if you actually looked at the ads on the company page, they would have very few likes, or very few comments. But if you aggregated them all together, by all the ads that looking at the same, there could be quite a few. Is there any way to combine similar ads in your tool? Or I’m imagining like a live pivot table, but something that’s like, oh, this same image, the same ad text is found across 50 different ads? So we’ve aggregated them for you. Is there anything like that?
+
+Sander de Lange
+Yeah, I think if we would make like the Excel exports available, you would be able to do that. Yeah, if the introductory text or the headline matches, you’d be able to do that in Excel. So that could take the intelligence to a new level. So that’s a good idea.
+
+AJ Wilcox
+Very nice. Okay. I like that I can do that. Cool. Well, I think the last question I want to ask you is, both professionally and personally, what are you most excited about?
+
+Sander de Lange
+I’m really excited about all the positive feedback we’re getting on the tool. So developing it even further with new features is something that really excites us. And personally, I’m trying to see if I can keep doing this working remotely thing because in my country right now, it’s wintertime, and I’d love to get some more sunshine in my life, you know,
+
+AJ Wilcox
+Oh, yeah. But I would imagine in Thailand, like your money goes a long way. And you can pretty much live like a king.
+
+Sander de Lange
+That’s true also. So inflation and everything. This is a good move.
+
+AJ Wilcox
+And you’re traveling right now with a baby, right?
+
+Sander de Lange
+Yeah.
+
+AJ Wilcox
+How was that? Is that difficult?
+
+Sander de Lange
+You’re right the first time we have our daughter is now almost one year old. We’ve been here like 11 times before but this the first time with a baby and yeah, it’s a bit different, but she’s loving it here as well. I think it’s definitely something we can keep doing.
+
+AJ Wilcox
+Oh, yeah. Where’s the rest of your team? Is the rest of your team all within the Netherlands?
+
+Sander de Lange
+Yes, yes, they’re based in the Netherlands. But ever since the pandemic, we’ve been getting used to more remote working, they are welcome to join me here if they want to, but they’ve got all their lives in the Netherlands. So sometimes they do, sometimes they don’t.
+
+AJ Wilcox
+Cool. Curious, you’re doing an agency, you’re also running SAS software? Is that a split that you want to do forever? Or do you like one over the other?
+
+Sander de Lange
+Yeah, so I like both of them. But as you know, we’re trying to get into more recurring business models. And it’s just interesting for me to learn all of these models, I can also use that knowledge in the agency life, you know, growing a SAS company. But eventually, I think I’d like to make a decision there, because I noticed that running multiple projects requires two dilutes the focus. In the end, I’d like to make a decision there.
+
+AJ Wilcox
+Okay, I like it. Well, this has been fantastic having you on. Thanks so much for your openness, for giving me so many cool ideas. I am a user of your product, but I just found out about 10 extra ways to go and use it. So I would invite everyone go and join while costs are low. Because this is definitely one of those things I could see charging significantly more for and, and even charging more to agencies versus an in house person who might not use it as much. So lots of good growth possibilities. But you guys all heard it here first get in at $49 a quarter or $99 a year.
+
+Sander de Lange
+Yeah. Thanks, AJ. It’s been awesome to be on.
+
+AJ Wilcox
+Thank you, Sander. We’ll be excited to hear how things develop in the future. And we may have you back on to give us an update on the tool sometime.
+
+Sander de Lange
+Okay. Cool, AJ.
+
+AJ Wilcox
+I’ve got the episode resources for you coming right up. So stick around.
+
+Unknown Speaker
+Thank you for listening to the LinkedIn Ads Show. Hungry for more? AJ Wilcox, take it away.
+
+AJ Wilcox
+If you go down and look in the show notes below, you’ll see a link to AdSearch.io, as well as a link to Sander’s LinkedIn profile if you want to go and connect with him or follow him there. If you or anyone you know, is looking to learn more about LinkedIn Ads, look no further than the course that I did with LinkedIn Learning, all about LinkedIn Ads. It’s by far the highest quality and the lowest cost course out there. So click on the link in the show notes for that. If this is your first time listening, welcome, and please do hit that subscribe button. But if this is not your first episode, please do rate and review the podcast in whatever podcast player you use. Especially those reviews. They help a lot. And it is the biggest favor that you can do me for enjoying the show. With any questions, suggestions, corrections, and anything like that on the podcast, reach out to us at Podcast@B2Linked.com. And with that being said, we’ll see you back here next week. Cheering you on in your LinkedIn Ads initiatives!
+
+‍
