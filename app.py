@@ -43,8 +43,6 @@ def load_documents():
 @st.cache_resource
 def get_vectorstore(_documents):
     embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    db = FAISS.from_documents(documents, embedding)
-    db.save_local("transcript_faiss_index")
     return FAISS.load_local("transcript_faiss_index", embedding, allow_dangerous_deserialization=True)
 
 documents = load_documents()

@@ -11,7 +11,6 @@ faiss-env/
 
 # Streamlit & logs
 chat_log.json
-transcript_faiss_index/
 
 # OS and IDE files
 .DS_Store
