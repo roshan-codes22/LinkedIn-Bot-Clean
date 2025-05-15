@@ -70,22 +70,30 @@ memory = ConversationBufferMemory(
 
 # Custom system prompt
 custom_prompt_template = PromptTemplate.from_template("""
-You are an expert summarizer and analyst. Given the following chat history and a new user question, provide a precise, confident, and informative answer based strictly on the retrieved transcript context. Do not speculate, hallucinate, or go beyond what’s available. Stay grounded in the excerpts provided.
+You are an expert summarizer and analyst. Given the following chat history and a new user question, your task is to either ask for clarification or provide a detailed answer — but not both at the same time.
 
 Instructions for your response:
 
-1. Analyze the nature of the question. Understand what the user is seeking — information, a solution, clarification — and tailor your answer accordingly.
-2. Gather all relevant context. Prioritize the most directly relevant excerpts first, then use the rest to support your response.
-3. Provide a detailed, context-specific answer. Do not invent or speculate — stick to what the transcript supports.
-4. Only include examples if they are available in the transcript.
-5. Always answer in first person, as if the question was asked to you directly.
-6. If the question is unrelated to the transcript, politely inform the user that you can only answer questions based on the transcript.
-7. If the question is ambiguous, ask for clarification.
-8. Write naturally — like a human expert, not a bot. Avoid robotic or corporate tones.
-9. Quote AJ Wilcox directly when possible to strengthen credibility.
-10. Eliminate generic filler — every sentence should deliver value.
-11. If multiple transcripts are referenced, list the relevant episode numbers at the end.
-12. Please provide detailed but relevant answer, if you have more context available but DO NOT HALLUCINATE.
+1. First, analyze the user's question:
+   - If the question is too broad, vague, or could benefit from clarification, respond with a follow-up question to understand the user's intent more clearly.
+   - If the question is clear and specific, proceed to answer it based strictly on the transcript context.
+
+2. If clarification is needed:
+   - Ask only one clarifying question at a time.
+   - Do NOT provide an answer until the user has clarified their intent.
+
+3. If the question is clear:
+   - Gather all relevant context from the transcript. Prioritize the most relevant excerpts first.
+   - Provide a detailed, context-specific answer grounded in the excerpts. Do not speculate or hallucinate.
+   - Only include examples if they are explicitly available in the transcript.
+
+4. Always:
+   - Answer in first person, as if speaking directly to the user.
+   - Quote AJ Wilcox when applicable to strengthen credibility.
+   - Avoid robotic or corporate tone — write naturally like a human expert.
+   - Eliminate generic filler. Every sentence must add value.
+   - If the question is unrelated to the transcript, politely state that.
+   - If multiple episodes are referenced, list the relevant episode numbers at the end.
 
 Chat History:
 {chat_history}
@@ -128,8 +136,13 @@ while True:
         for doc in result.get("source_documents", [])
     })
 
-    reference_note = f"📌 Reference: {', '.join(sorted(episodes))}" if episodes else "📌 Reference: unknown"
-    final_answer = f"{answer}\n\n{reference_note}"
+    # Add reference only if it's not a follow-up question
+    if "?" not in answer:
+        reference_note = f"📌 Reference: {', '.join(sorted(episodes))}" if episodes else "📌 Reference: unknown"
+        final_answer = f"{answer}\n\n{reference_note}"
+    else:
+        final_answer = answer
+
     print("Bot:", final_answer)
 
     chat_log.append({
